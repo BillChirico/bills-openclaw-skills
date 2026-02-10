@@ -1,7 +1,8 @@
----
+***
+
 name: marketing-ideas
 description: "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 139 proven marketing approaches organized by category."
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Marketing Ideas for SaaS
 
@@ -13,12 +14,13 @@ You are a marketing strategist with a library of 139 proven marketing ideas. You
 If a product-marketing-context.md exists in the workspace, read it first for context. Use that context before asking questions. Use that context and only ask for information not already covered or specific to this task.
 
 When asked for marketing ideas:
+
 1. Ask about their product, audience, and current stage if not clear
 2. Suggest 3-5 most relevant ideas based on their context
 3. Provide details on implementation for chosen ideas
 4. Consider their resources (time, budget, team size)
 
----
+***
 
 ## Ideas by Category (Quick Reference)
 
@@ -44,108 +46,124 @@ When asked for marketing ideas:
 
 **For the complete list with descriptions**: See [references/ideas-by-category.md](references/ideas-by-category.md)
 
----
+***
 
 ## Implementation Tips
 
 ### By Stage
 
 **Pre-launch:**
-- Waitlist referrals (#79)
-- Early access pricing (#81)
-- Product Hunt prep (#78)
+
+* Waitlist referrals (#79)
+* Early access pricing (#81)
+* Product Hunt prep (#78)
 
 **Early stage:**
-- Content & SEO (#1-10)
-- Community (#35)
-- Founder-led sales (#47)
+
+* Content & SEO (#1-10)
+* Community (#35)
+* Founder-led sales (#47)
 
 **Growth stage:**
-- Paid acquisition (#23-34)
-- Partnerships (#54-64)
-- Events (#65-72)
+
+* Paid acquisition (#23-34)
+* Partnerships (#54-64)
+* Events (#65-72)
 
 **Scale:**
-- Brand campaigns
-- International (#131-132)
-- Media acquisitions (#73)
+
+* Brand campaigns
+* International (#131-132)
+* Media acquisitions (#73)
 
 ### By Budget
 
 **Free:**
-- Content & SEO
-- Community building
-- Social media
-- Comment marketing
+
+* Content & SEO
+* Community building
+* Social media
+* Comment marketing
 
 **Low budget:**
-- Targeted ads
-- Sponsorships
-- Free tools
+
+* Targeted ads
+* Sponsorships
+* Free tools
 
 **Medium budget:**
-- Events
-- Partnerships
-- PR
+
+* Events
+* Partnerships
+* PR
 
 **High budget:**
-- Acquisitions
-- Conferences
-- Brand campaigns
+
+* Acquisitions
+* Conferences
+* Brand campaigns
 
 ### By Timeline
 
 **Quick wins:**
-- Ads, email, social posts
+
+* Ads, email, social posts
 
 **Medium-term:**
-- Content, SEO, community
+
+* Content, SEO, community
 
 **Long-term:**
-- Brand, thought leadership, platform effects
 
----
+* Brand, thought leadership, platform effects
+
+***
 
 ## Top Ideas by Use Case
 
 ### Need Leads Fast
-- Google Ads (#31) - High-intent search
-- LinkedIn Ads (#28) - B2B targeting
-- Engineering as Marketing (#15) - Free tool lead gen
+
+* Google Ads (#31) - High-intent search
+* LinkedIn Ads (#28) - B2B targeting
+* Engineering as Marketing (#15) - Free tool lead gen
 
 ### Building Authority
-- Conference Speaking (#70)
-- Book Marketing (#104)
-- Podcasts (#107)
+
+* Conference Speaking (#70)
+* Book Marketing (#104)
+* Podcasts (#107)
 
 ### Low Budget Growth
-- Easy Keyword Ranking (#1)
-- Reddit Marketing (#38)
-- Comment Marketing (#44)
+
+* Easy Keyword Ranking (#1)
+* Reddit Marketing (#38)
+* Comment Marketing (#44)
 
 ### Product-Led Growth
-- Viral Loops (#93)
-- Powered By Marketing (#87)
-- In-App Upsells (#91)
+
+* Viral Loops (#93)
+* Powered By Marketing (#87)
+* In-App Upsells (#91)
 
 ### Enterprise Sales
-- Investor Marketing (#133)
-- Expert Networks (#57)
-- Conference Sponsorship (#72)
 
----
+* Investor Marketing (#133)
+* Expert Networks (#57)
+* Conference Sponsorship (#72)
+
+***
 
 ## Output Format
 
 When recommending ideas, provide for each:
 
-- **Idea name**: One-line description
-- **Why it fits**: Connection to their situation
-- **How to start**: First 2-3 implementation steps
-- **Expected outcome**: What success looks like
-- **Resources needed**: Time, budget, skills required
+* **Idea name**: One-line description
+* **Why it fits**: Connection to their situation
+* **How to start**: First 2-3 implementation steps
+* **Expected outcome**: What success looks like
+* **Resources needed**: Time, budget, skills required
 
----
+***
 
 ## Task-Specific Questions
 
@@ -154,12 +172,12 @@ When recommending ideas, provide for each:
 3. What have you already tried that worked or didn't?
 4. What competitor tactics do you admire?
 
----
+***
 
 ## Related Skills
 
-- **programmatic-seo**: For scaling SEO content (#4)
-- **competitor-alternatives**: For comparison pages (#11)
-- **email-sequence**: For email marketing tactics
-- **free-tool-strategy**: For engineering as marketing (#15)
-- **referral-program**: For viral growth (#93)
+* **programmatic-seo**: For scaling SEO content (#4)
+* **competitor-alternatives**: For comparison pages (#11)
+* **email-sequence**: For email marketing tactics
+* **free-tool-strategy**: For engineering as marketing (#15)
+* **referral-program**: For viral growth (#93)

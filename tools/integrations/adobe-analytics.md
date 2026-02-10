@@ -13,9 +13,9 @@ Enterprise analytics platform for cross-channel measurement and attribution.
 
 ## Authentication
 
-- **Type**: OAuth 2.0 (Service Account JWT)
-- **Setup**: Create integration in Adobe Developer Console
-- **Header**: `Authorization: Bearer {access_token}`
+* **Type**: OAuth 2.0 (Service Account JWT)
+* **Setup**: Create integration in Adobe Developer Console
+* **Header**: `Authorization: Bearer {access_token}`
 
 ## Common Agent Operations
 
@@ -113,44 +113,44 @@ s.tl(this, 'o', 'Button Click');
 
 ## Key Concepts
 
-- **Report Suite** - Data container
-- **eVars** - Conversion variables (persistent)
-- **props** - Traffic variables (hit-level)
-- **Events** - Success metrics
-- **Segments** - User/visit filters
-- **Calculated Metrics** - Derived metrics
+* **Report Suite** - Data container
+* **eVars** - Conversion variables (persistent)
+* **props** - Traffic variables (hit-level)
+* **Events** - Success metrics
+* **Segments** - User/visit filters
+* **Calculated Metrics** - Derived metrics
 
 ## Common Dimensions
 
-- `variables/page` - Page name
-- `variables/evar1` - Custom conversion variable
-- `variables/prop1` - Custom traffic variable
-- `variables/marketingchannel` - Marketing channel
-- `variables/referringdomain` - Referring domain
+* `variables/page` - Page name
+* `variables/evar1` - Custom conversion variable
+* `variables/prop1` - Custom traffic variable
+* `variables/marketingchannel` - Marketing channel
+* `variables/referringdomain` - Referring domain
 
 ## Common Metrics
 
-- `metrics/visits` - Visits
-- `metrics/pageviews` - Page views
-- `metrics/uniquevisitors` - Unique visitors
-- `metrics/orders` - Orders
-- `metrics/revenue` - Revenue
+* `metrics/visits` - Visits
+* `metrics/pageviews` - Page views
+* `metrics/uniquevisitors` - Unique visitors
+* `metrics/orders` - Orders
+* `metrics/revenue` - Revenue
 
 ## When to Use
 
-- Enterprise-scale analytics
-- Cross-channel attribution
-- Integration with Adobe Experience Cloud
-- Advanced segmentation
-- Data warehouse exports
+* Enterprise-scale analytics
+* Cross-channel attribution
+* Integration with Adobe Experience Cloud
+* Advanced segmentation
+* Data warehouse exports
 
 ## Rate Limits
 
-- 12 requests/second per company
-- 120 requests/minute
+* 12 requests/second per company
+* 120 requests/minute
 
 ## Relevant Skills
 
-- analytics-tracking
-- ab-test-setup
-- paid-ads
+* analytics-tracking
+* ab-test-setup
+* paid-ads

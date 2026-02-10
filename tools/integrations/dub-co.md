@@ -13,9 +13,9 @@ Link management and attribution platform for modern marketing teams.
 
 ## Authentication
 
-- **Type**: API Key
-- **Header**: `Authorization: Bearer {api_key}`
-- **Get key**: Settings > API Keys in Dub dashboard
+* **Type**: API Key
+* **Header**: `Authorization: Bearer {api_key}`
+* **Get key**: Settings > API Keys in Dub dashboard
 
 ## Common Agent Operations
 
@@ -120,41 +120,41 @@ const analytics = await dub.analytics.retrieve({
 
 ## Key Features
 
-- **Custom domains** - Use your own branded domains
-- **Link analytics** - Clicks, locations, devices, referrers
-- **Tags** - Organize links by campaign, channel, etc.
-- **QR codes** - Auto-generated for each link
-- **Password protection** - Secure sensitive links
-- **Expiration** - Time-limited links
-- **Geo-targeting** - Redirect based on location
+* **Custom domains** - Use your own branded domains
+* **Link analytics** - Clicks, locations, devices, referrers
+* **Tags** - Organize links by campaign, channel, etc.
+* **QR codes** - Auto-generated for each link
+* **Password protection** - Secure sensitive links
+* **Expiration** - Time-limited links
+* **Geo-targeting** - Redirect based on location
 
 ## Analytics Dimensions
 
-- `clicks` - Total click count
-- `country` - Clicks by country
-- `city` - Clicks by city
-- `device` - Clicks by device type
-- `browser` - Clicks by browser
-- `os` - Clicks by operating system
-- `referer` - Clicks by referrer
+* `clicks` - Total click count
+* `country` - Clicks by country
+* `city` - Clicks by city
+* `device` - Clicks by device type
+* `browser` - Clicks by browser
+* `os` - Clicks by operating system
+* `referer` - Clicks by referrer
 
 ## When to Use
 
-- Creating trackable marketing links
-- Building referral link systems
-- Tracking campaign attribution
-- A/B testing landing pages via links
-- Generating branded short URLs
-- Analyzing link performance
+* Creating trackable marketing links
+* Building referral link systems
+* Tracking campaign attribution
+* A/B testing landing pages via links
+* Generating branded short URLs
+* Analyzing link performance
 
 ## Rate Limits
 
-- Free: 1,000 links, 5 API requests/second
-- Pro: Unlimited links, 50 API requests/second
-- Enterprise: Custom limits
+* Free: 1,000 links, 5 API requests/second
+* Pro: Unlimited links, 50 API requests/second
+* Enterprise: Custom limits
 
 ## Relevant Skills
 
-- referral-program
-- analytics-tracking
-- paid-ads
+* referral-program
+* analytics-tracking
+* paid-ads

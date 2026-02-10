@@ -13,9 +13,9 @@ Open-source product analytics with session replay and feature flags.
 
 ## Authentication
 
-- **Type**: API Key (Personal or Project)
-- **Header**: `Authorization: Bearer {api_key}`
-- **For capture**: Project API Key in payload
+* **Type**: API Key (Personal or Project)
+* **Header**: `Authorization: Bearer {api_key}`
+* **For capture**: Project API Key in payload
 
 ## Common Agent Operations
 
@@ -49,7 +49,7 @@ POST https://app.posthog.com/batch/
 }
 ```
 
-### Get person by distinct_id
+### Get person by distinct\_id
 
 ```bash
 GET https://app.posthog.com/api/projects/{project_id}/persons/?distinct_id=user_123
@@ -124,28 +124,28 @@ if (posthog.isFeatureEnabled('new-pricing')) {
 
 ## Key Features
 
-- **Event tracking** - Product analytics
-- **Session replay** - Watch user sessions
-- **Feature flags** - Control feature rollout
-- **A/B testing** - Built-in experiments
-- **HogQL** - SQL-like query language
-- **Self-hostable** - Run on your infrastructure
+* **Event tracking** - Product analytics
+* **Session replay** - Watch user sessions
+* **Feature flags** - Control feature rollout
+* **A/B testing** - Built-in experiments
+* **HogQL** - SQL-like query language
+* **Self-hostable** - Run on your infrastructure
 
 ## When to Use
 
-- Product analytics with privacy focus
-- Session replay for UX insights
-- Feature flag management
-- Self-hosted analytics needs
-- Open-source requirements
+* Product analytics with privacy focus
+* Session replay for UX insights
+* Feature flag management
+* Self-hosted analytics needs
+* Open-source requirements
 
 ## Rate Limits
 
-- Cloud: 10,000 events/second
-- Self-hosted: Unlimited
+* Cloud: 10,000 events/second
+* Self-hosted: Unlimited
 
 ## Relevant Skills
 
-- analytics-tracking
-- ab-test-setup
-- onboarding-cro
+* analytics-tracking
+* ab-test-setup
+* onboarding-cro

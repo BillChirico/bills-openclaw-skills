@@ -13,9 +13,9 @@ Enterprise referral marketing platform for customer advocacy.
 
 ## Authentication
 
-- **Type**: API Key
-- **Header**: `Authorization: Bearer {api_key}`
-- **Environment**: Separate keys for sandbox and production
+* **Type**: API Key
+* **Header**: `Authorization: Bearer {api_key}`
+* **Environment**: Separate keys for sandbox and production
 
 ## Common Agent Operations
 
@@ -125,36 +125,36 @@ MentionMe.push({
 
 ## Key Features
 
-- **A/B testing** - Built-in experiment framework
-- **Fraud prevention** - Automatic fraud detection
-- **Multi-channel** - Share via link, email, social
-- **Name sharing** - Refer by name, not code
-- **Segmentation** - Different offers by segment
-- **Analytics** - Referral program reporting
+* **A/B testing** - Built-in experiment framework
+* **Fraud prevention** - Automatic fraud detection
+* **Multi-channel** - Share via link, email, social
+* **Name sharing** - Refer by name, not code
+* **Segmentation** - Different offers by segment
+* **Analytics** - Referral program reporting
 
 ## Key Objects
 
-- **Referrer** - Customer who refers
-- **Referee** - Customer who is referred
-- **Referral** - Connection between referrer and referee
-- **Offer** - Referral program configuration
-- **Reward** - Incentive earned
+* **Referrer** - Customer who refers
+* **Referee** - Customer who is referred
+* **Referral** - Connection between referrer and referee
+* **Offer** - Referral program configuration
+* **Reward** - Incentive earned
 
 ## When to Use
 
-- Enterprise referral programs
-- Multi-market referral campaigns
-- A/B testing referral offers
-- Fraud-resistant referral tracking
-- Name-based sharing programs
+* Enterprise referral programs
+* Multi-market referral campaigns
+* A/B testing referral offers
+* Fraud-resistant referral tracking
+* Name-based sharing programs
 
 ## Rate Limits
 
-- 1000 requests per minute
-- Contact for higher limits
+* 1000 requests per minute
+* Contact for higher limits
 
 ## Relevant Skills
 
-- referral-program
-- pricing-strategy
-- analytics-tracking
+* referral-program
+* pricing-strategy
+* analytics-tracking

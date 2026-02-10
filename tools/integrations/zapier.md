@@ -13,9 +13,9 @@ Workflow automation platform connecting apps without code.
 
 ## Authentication
 
-- **Type**: API Key
-- **Header**: `X-API-Key: {api_key}`
-- **Get key**: Settings > API in Zapier account
+* **Type**: API Key
+* **Header**: `X-API-Key: {api_key}`
+* **Get key**: Settings > API in Zapier account
 
 ## Common Agent Operations
 
@@ -83,26 +83,31 @@ POST https://hooks.zapier.com/hooks/catch/{account_id}/{hook_id}/
 ## Common Marketing Automations
 
 ### Lead capture to CRM
+
 ```
 Typeform → Zapier → HubSpot
 ```
 
 ### New customer notifications
+
 ```
 Stripe (new customer) → Zapier → Slack
 ```
 
 ### Email sequence triggers
+
 ```
 Form submission → Zapier → Customer.io
 ```
 
 ### Social proof automation
+
 ```
 New review → Zapier → Twitter/Slack
 ```
 
 ### Referral tracking
+
 ```
 New referral → Zapier → Spreadsheet + Slack
 ```
@@ -123,28 +128,28 @@ When sending to Zapier, structure data as flat JSON:
 
 ## Key Concepts
 
-- **Zap** - Automated workflow
-- **Trigger** - Event that starts a Zap
-- **Action** - Task performed by Zap
-- **Task** - Single action execution
-- **Filter** - Conditional logic
-- **Path** - Branching logic
+* **Zap** - Automated workflow
+* **Trigger** - Event that starts a Zap
+* **Action** - Task performed by Zap
+* **Task** - Single action execution
+* **Filter** - Conditional logic
+* **Path** - Branching logic
 
 ## When to Use
 
-- Connecting marketing tools without code
-- Automating lead routing
-- Syncing data between platforms
-- Triggering notifications
-- Building marketing workflows
+* Connecting marketing tools without code
+* Automating lead routing
+* Syncing data between platforms
+* Triggering notifications
+* Building marketing workflows
 
 ## Rate Limits
 
-- 100 requests per minute
-- Task limits by plan tier
+* 100 requests per minute
+* Task limits by plan tier
 
 ## Relevant Skills
 
-- email-sequence
-- analytics-tracking
-- referral-program
+* email-sequence
+* analytics-tracking
+* referral-program

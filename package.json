@@ -9,13 +9,35 @@
   },
   "devDependencies": {
     "remark-cli": "^12.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-lint-emphasis-marker": "^4.0.1",
+    "remark-lint-heading-style": "^4.0.1",
+    "remark-lint-strong-marker": "^4.0.1",
+    "remark-lint-unordered-list-marker-style": "^4.0.1",
     "remark-preset-lint-consistent": "^6.0.0",
     "remark-preset-lint-recommended": "^7.0.0"
   },
   "remarkConfig": {
     "plugins": [
+      "remark-frontmatter",
       "remark-preset-lint-consistent",
-      "remark-preset-lint-recommended"
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-heading-style",
+        "atx"
+      ],
+      [
+        "remark-lint-unordered-list-marker-style",
+        "*"
+      ],
+      [
+        "remark-lint-emphasis-marker",
+        "*"
+      ],
+      [
+        "remark-lint-strong-marker",
+        "*"
+      ]
     ]
   }
 }

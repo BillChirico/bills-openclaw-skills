@@ -1,7 +1,8 @@
----
+***
+
 name: product-marketing-context
 description: "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' or wants to avoid repeating foundational information across marketing tasks. Creates a `product-marketing-context.md` file that other marketing skills reference."
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Product Marketing Context
 
@@ -16,9 +17,10 @@ The document is stored at a `product-marketing-context.md` file.
 First, check if a `product-marketing-context.md` file already exists.
 
 **If it exists:**
-- Read it and summarize what's captured
-- Ask which sections they want to update
-- Only gather info for those sections
+
+* Read it and summarize what's captured
+* Ask which sections they want to update
+* Only gather info for those sections
 
 **If it doesn't exist, offer two options:**
 
@@ -31,6 +33,7 @@ Most users prefer option 1. After presenting the draft, ask: "What needs correct
 ### Step 2: Gather Information
 
 **If auto-drafting:**
+
 1. Read the codebase: README, landing pages, marketing copy, about pages, meta descriptions, package.json, any existing docs
 2. Draft all sections based on what you find
 3. Present the draft and ask what needs correcting or is missing
@@ -40,6 +43,7 @@ Most users prefer option 1. After presenting the draft, ask: "What needs correct
 Walk through each section below conversationally, one at a time. Don't dump all questions at once.
 
 For each section:
+
 1. Briefly explain what you're capturing
 2. Ask relevant questions
 3. Confirm accuracy
@@ -47,82 +51,96 @@ For each section:
 
 **Important:** Push for verbatim customer language. Exact phrases are more valuable than polished descriptions.
 
----
+***
 
 ## Sections to Capture
 
 ### 1. Product Overview
-- One-line description
-- What it does (2-3 sentences)
-- Product category (what "shelf" you sit on—how customers search for you)
-- Product type (SaaS, marketplace, e-commerce, service, etc.)
-- Business model and pricing
+
+* One-line description
+* What it does (2-3 sentences)
+* Product category (what "shelf" you sit on—how customers search for you)
+* Product type (SaaS, marketplace, e-commerce, service, etc.)
+* Business model and pricing
 
 ### 2. Target Audience
-- Target company type (industry, size, stage)
-- Target decision-makers (roles, departments)
-- Primary use case (the main problem you solve)
-- Jobs to be done (2-3 things customers "hire" you for)
-- Specific use cases or scenarios
+
+* Target company type (industry, size, stage)
+* Target decision-makers (roles, departments)
+* Primary use case (the main problem you solve)
+* Jobs to be done (2-3 things customers "hire" you for)
+* Specific use cases or scenarios
 
 ### 3. Personas (B2B only)
+
 If multiple stakeholders are involved in buying, capture for each:
-- User, Champion, Decision Maker, Financial Buyer, Technical Influencer
-- What each cares about, their challenge, and the value you promise them
+
+* User, Champion, Decision Maker, Financial Buyer, Technical Influencer
+* What each cares about, their challenge, and the value you promise them
 
 ### 4. Problems & Pain Points
-- Core challenge customers face before finding you
-- Why current solutions fall short
-- What it costs them (time, money, opportunities)
-- Emotional tension (stress, fear, doubt)
+
+* Core challenge customers face before finding you
+* Why current solutions fall short
+* What it costs them (time, money, opportunities)
+* Emotional tension (stress, fear, doubt)
 
 ### 5. Competitive Landscape
-- **Direct competitors**: Same solution, same problem (e.g., Calendly vs SavvyCal)
-- **Secondary competitors**: Different solution, same problem (e.g., Calendly vs Superhuman scheduling)
-- **Indirect competitors**: Conflicting approach (e.g., Calendly vs personal assistant)
-- How each falls short for customers
+
+* **Direct competitors**: Same solution, same problem (e.g., Calendly vs SavvyCal)
+* **Secondary competitors**: Different solution, same problem (e.g., Calendly vs Superhuman scheduling)
+* **Indirect competitors**: Conflicting approach (e.g., Calendly vs personal assistant)
+* How each falls short for customers
 
 ### 6. Differentiation
-- Key differentiators (capabilities alternatives lack)
-- How you solve it differently
-- Why that's better (benefits)
-- Why customers choose you over alternatives
+
+* Key differentiators (capabilities alternatives lack)
+* How you solve it differently
+* Why that's better (benefits)
+* Why customers choose you over alternatives
 
 ### 7. Objections & Anti-Personas
-- Top 3 objections heard in sales and how to address them
-- Who is NOT a good fit (anti-persona)
+
+* Top 3 objections heard in sales and how to address them
+* Who is NOT a good fit (anti-persona)
 
 ### 8. Switching Dynamics
+
 The JTBD Four Forces:
-- **Push**: What frustrations drive them away from current solution
-- **Pull**: What attracts them to you
-- **Habit**: What keeps them stuck with current approach
-- **Anxiety**: What worries them about switching
+
+* **Push**: What frustrations drive them away from current solution
+* **Pull**: What attracts them to you
+* **Habit**: What keeps them stuck with current approach
+* **Anxiety**: What worries them about switching
 
 ### 9. Customer Language
-- How customers describe the problem (verbatim)
-- How they describe your solution (verbatim)
-- Words/phrases to use
-- Words/phrases to avoid
-- Glossary of product-specific terms
+
+* How customers describe the problem (verbatim)
+* How they describe your solution (verbatim)
+* Words/phrases to use
+* Words/phrases to avoid
+* Glossary of product-specific terms
 
 ### 10. Brand Voice
-- Tone (professional, casual, playful, etc.)
-- Communication style (direct, conversational, technical)
-- Brand personality (3-5 adjectives)
+
+* Tone (professional, casual, playful, etc.)
+* Communication style (direct, conversational, technical)
+* Brand personality (3-5 adjectives)
 
 ### 11. Proof Points
-- Key metrics or results to cite
-- Notable customers/logos
-- Testimonial snippets
-- Main value themes and supporting evidence
+
+* Key metrics or results to cite
+* Notable customers/logos
+* Testimonial snippets
+* Main value themes and supporting evidence
 
 ### 12. Goals
-- Primary business goal
-- Key conversion action (what you want people to do)
-- Current metrics (if known)
 
----
+* Primary business goal
+* Key conversion action (what you want people to do)
+* Current metrics (if known)
+
+***
 
 ## Step 3: Create the Document
 
@@ -219,21 +237,21 @@ After gathering information, create a `product-marketing-context.md` file with t
 **Current metrics:**
 ```
 
----
+***
 
 ## Step 4: Confirm and Save
 
-- Show the completed document
-- Ask if anything needs adjustment
-- Save to a `product-marketing-context.md` file
-- Tell them: "Other marketing skills will now use this context automatically. Run `/product-marketing-context` anytime to update it."
+* Show the completed document
+* Ask if anything needs adjustment
+* Save to a `product-marketing-context.md` file
+* Tell them: "Other marketing skills will now use this context automatically. Run `/product-marketing-context` anytime to update it."
 
----
+***
 
 ## Tips
 
-- **Be specific**: Ask "What's the #1 frustration that brings them to you?" not "What problem do they solve?"
-- **Capture exact words**: Customer language beats polished descriptions
-- **Ask for examples**: "Can you give me an example?" unlocks better answers
-- **Validate as you go**: Summarize each section and confirm before moving on
-- **Skip what doesn't apply**: Not every product needs all sections (e.g., Personas for B2C)
+* **Be specific**: Ask "What's the #1 frustration that brings them to you?" not "What problem do they solve?"
+* **Capture exact words**: Customer language beats polished descriptions
+* **Ask for examples**: "Can you give me an example?" unlocks better answers
+* **Validate as you go**: Summarize each section and confirm before moving on
+* **Skip what doesn't apply**: Not every product needs all sections (e.g., Personas for B2C)

@@ -1,7 +1,8 @@
----
+***
+
 name: referral-program
 description: "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' or 'partner program.' This skill covers program design, incentive structure, and growth optimization."
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Referral & Affiliate Programs
 
@@ -15,54 +16,62 @@ If a product-marketing-context.md exists in the workspace, read it first for con
 Gather this context (ask if not provided):
 
 ### 1. Program Type
-- Customer referral program, affiliate program, or both?
-- B2B or B2C?
-- What's the average customer LTV?
-- What's your current CAC from other channels?
+
+* Customer referral program, affiliate program, or both?
+* B2B or B2C?
+* What's the average customer LTV?
+* What's your current CAC from other channels?
 
 ### 2. Current State
-- Existing referral/affiliate program?
-- Current referral rate (% who refer)?
-- What incentives have you tried?
+
+* Existing referral/affiliate program?
+* Current referral rate (% who refer)?
+* What incentives have you tried?
 
 ### 3. Product Fit
-- Is your product shareable?
-- Does it have network effects?
-- Do customers naturally talk about it?
+
+* Is your product shareable?
+* Does it have network effects?
+* Do customers naturally talk about it?
 
 ### 4. Resources
-- Tools/platforms you use or consider?
-- Budget for referral incentives?
 
----
+* Tools/platforms you use or consider?
+* Budget for referral incentives?
+
+***
 
 ## Referral vs. Affiliate
 
 ### Customer Referral Programs
 
 **Best for:**
-- Existing customers recommending to their network
-- Products with natural word-of-mouth
-- Lower-ticket or self-serve products
+
+* Existing customers recommending to their network
+* Products with natural word-of-mouth
+* Lower-ticket or self-serve products
 
 **Characteristics:**
-- Referrer is an existing customer
-- One-time or limited rewards
-- Higher trust, lower volume
+
+* Referrer is an existing customer
+* One-time or limited rewards
+* Higher trust, lower volume
 
 ### Affiliate Programs
 
 **Best for:**
-- Reaching audiences you don't have access to
-- Content creators, influencers, bloggers
-- Higher-ticket products that justify commissions
+
+* Reaching audiences you don't have access to
+* Content creators, influencers, bloggers
+* Higher-ticket products that justify commissions
 
 **Characteristics:**
-- Affiliates may not be customers
-- Ongoing commission relationship
-- Higher volume, variable trust
 
----
+* Affiliates may not be customers
+* Ongoing commission relationship
+* Higher volume, variable trust
+
+***
 
 ## Referral Program Design
 
@@ -75,14 +84,16 @@ Trigger Moment → Share Action → Convert Referred → Reward → (Loop)
 ### Step 1: Identify Trigger Moments
 
 **High-intent moments:**
-- Right after first "aha" moment
-- After achieving a milestone
-- After exceptional support
-- After renewing or upgrading
+
+* Right after first "aha" moment
+* After achieving a milestone
+* After exceptional support
+* After renewing or upgrading
 
 ### Step 2: Design Share Mechanism
 
 **Ranked by effectiveness:**
+
 1. In-product sharing (highest conversion)
 2. Personalized link
 3. Email invitation
@@ -99,22 +110,24 @@ Trigger Moment → Share Action → Convert Referred → Reward → (Loop)
 
 **For examples and incentive sizing**: See [references/program-examples.md](references/program-examples.md)
 
----
+***
 
 ## Program Optimization
 
 ### Improving Referral Rate
 
 **If few customers are referring:**
-- Ask at better moments
-- Simplify sharing process
-- Test different incentive types
-- Make referral prominent in product
+
+* Ask at better moments
+* Simplify sharing process
+* Test different incentive types
+* Make referral prominent in product
 
 **If referrals aren't converting:**
-- Improve landing experience for referred users
-- Strengthen incentive for new users
-- Ensure referrer's endorsement is visible
+
+* Improve landing experience for referred users
+* Strengthen incentive for new users
+* Ensure referrer's endorsement is visible
 
 ### A/B Tests to Run
 
@@ -134,57 +147,62 @@ Trigger Moment → Share Action → Convert Referred → Reward → (Loop)
 | Fraud/abuse | Add verification, limits |
 | One-time referrers | Add tiered/gamified rewards |
 
----
+***
 
 ## Measuring Success
 
 ### Key Metrics
 
 **Program health:**
-- Active referrers (referred someone in last 30 days)
-- Referral conversion rate
-- Rewards earned/paid
+
+* Active referrers (referred someone in last 30 days)
+* Referral conversion rate
+* Rewards earned/paid
 
 **Business impact:**
-- % of new customers from referrals
-- CAC via referral vs. other channels
-- LTV of referred customers
-- Referral program ROI
+
+* % of new customers from referrals
+* CAC via referral vs. other channels
+* LTV of referred customers
+* Referral program ROI
 
 ### Typical Findings
 
-- Referred customers have 16-25% higher LTV
-- Referred customers have 18-37% lower churn
-- Referred customers refer others at 2-3x rate
+* Referred customers have 16-25% higher LTV
+* Referred customers have 18-37% lower churn
+* Referred customers refer others at 2-3x rate
 
----
+***
 
 ## Launch Checklist
 
 ### Before Launch
-- [ ] Define program goals and success metrics
-- [ ] Design incentive structure
-- [ ] Build or configure referral tool
-- [ ] Create referral landing page
-- [ ] Set up tracking and attribution
-- [ ] Define fraud prevention rules
-- [ ] Create terms and conditions
-- [ ] Test complete referral flow
+
+* \[ ] Define program goals and success metrics
+* \[ ] Design incentive structure
+* \[ ] Build or configure referral tool
+* \[ ] Create referral landing page
+* \[ ] Set up tracking and attribution
+* \[ ] Define fraud prevention rules
+* \[ ] Create terms and conditions
+* \[ ] Test complete referral flow
 
 ### Launch
-- [ ] Announce to existing customers
-- [ ] Add in-app referral prompts
-- [ ] Update website with program details
-- [ ] Brief support team
+
+* \[ ] Announce to existing customers
+* \[ ] Add in-app referral prompts
+* \[ ] Update website with program details
+* \[ ] Brief support team
 
 ### Post-Launch (First 30 Days)
-- [ ] Review conversion funnel
-- [ ] Identify top referrers
-- [ ] Gather feedback
-- [ ] Fix friction points
-- [ ] Send reminder emails to non-referrers
 
----
+* \[ ] Review conversion funnel
+* \[ ] Identify top referrers
+* \[ ] Gather feedback
+* \[ ] Fix friction points
+* \[ ] Send reminder emails to non-referrers
+
+***
 
 ## Email Sequences
 
@@ -207,18 +225,18 @@ They get [their reward] too.
 
 ### Referral Nurture Sequence
 
-- Day 7: Remind about referral program
-- Day 30: "Know anyone who'd benefit?"
-- Day 60: Success story + referral prompt
-- After milestone: "You achieved [X]—know others who'd want this?"
+* Day 7: Remind about referral program
+* Day 30: "Know anyone who'd benefit?"
+* Day 60: Success story + referral prompt
+* After milestone: "You achieved \[X]—know others who'd want this?"
 
----
+***
 
 ## Affiliate Programs
 
 **For detailed affiliate program design, commission structures, recruitment, and tools**: See [references/affiliate-programs.md](references/affiliate-programs.md)
 
----
+***
 
 ## Task-Specific Questions
 
@@ -229,7 +247,7 @@ They get [their reward] too.
 5. What's your budget for rewards/commissions?
 6. Is your product naturally shareable?
 
----
+***
 
 ## Tool Integrations
 
@@ -243,11 +261,11 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key tools
 | **Dub.co** | Link tracking and attribution | [dub-co.md](../../tools/integrations/dub-co.md) |
 | **Stripe** | Payment processing (for commission tracking) | [stripe.md](../../tools/integrations/stripe.md) |
 
----
+***
 
 ## Related Skills
 
-- **launch-strategy**: For launching referral program effectively
-- **email-sequence**: For referral nurture campaigns
-- **marketing-psychology**: For understanding referral motivation
-- **analytics-tracking**: For tracking referral attribution
+* **launch-strategy**: For launching referral program effectively
+* **email-sequence**: For referral nurture campaigns
+* **marketing-psychology**: For understanding referral motivation
+* **analytics-tracking**: For tracking referral attribution

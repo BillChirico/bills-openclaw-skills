@@ -13,10 +13,10 @@ Pay-per-click advertising platform for search, display, and video campaigns.
 
 ## Authentication
 
-- **Type**: OAuth 2.0
-- **Scopes**: `https://www.googleapis.com/auth/adwords`
-- **Setup**: Create credentials in Google Cloud Console, link to Google Ads account
-- **Headers**: `developer-token`, `login-customer-id` (for MCC)
+* **Type**: OAuth 2.0
+* **Scopes**: `https://www.googleapis.com/auth/adwords`
+* **Setup**: Create credentials in Google Cloud Console, link to Google Ads account
+* **Headers**: `developer-token`, `login-customer-id` (for MCC)
 
 ## Common Agent Operations
 
@@ -117,12 +117,12 @@ POST https://googleads.googleapis.com/v14/customers/{customer_id}/campaignBudget
 
 ## Campaign Types
 
-- `SEARCH` - Search network text ads
-- `DISPLAY` - Display network
-- `SHOPPING` - Product shopping ads
-- `VIDEO` - YouTube video ads
-- `PERFORMANCE_MAX` - AI-optimized across channels
-- `DEMAND_GEN` - Discovery/Demand Gen
+* `SEARCH` - Search network text ads
+* `DISPLAY` - Display network
+* `SHOPPING` - Product shopping ads
+* `VIDEO` - YouTube video ads
+* `PERFORMANCE_MAX` - AI-optimized across channels
+* `DEMAND_GEN` - Discovery/Demand Gen
 
 ## GAQL (Google Ads Query Language)
 
@@ -141,19 +141,19 @@ LIMIT 10
 
 ## When to Use
 
-- Managing search advertising campaigns
-- Analyzing campaign performance
-- Adjusting budgets and bids
-- Keyword research and management
-- Conversion tracking analysis
+* Managing search advertising campaigns
+* Analyzing campaign performance
+* Adjusting budgets and bids
+* Keyword research and management
+* Conversion tracking analysis
 
 ## Rate Limits
 
-- 15,000 operations per day (basic)
-- Higher limits with developer token levels
+* 15,000 operations per day (basic)
+* Higher limits with developer token levels
 
 ## Relevant Skills
 
-- paid-ads
-- analytics-tracking
-- page-cro
+* paid-ads
+* analytics-tracking
+* page-cro

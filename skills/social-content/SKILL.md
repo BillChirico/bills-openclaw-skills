@@ -1,7 +1,8 @@
----
+***
+
 name: social-content
 description: "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.' This skill covers content creation, repurposing, and platform-specific strategies."
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Social Content
 
@@ -15,26 +16,30 @@ If a product-marketing-context.md exists in the workspace, read it first for con
 Gather this context (ask if not provided):
 
 ### 1. Goals
-- What's the primary objective? (Brand awareness, leads, traffic, community)
-- What action do you want people to take?
-- Are you building personal brand, company brand, or both?
+
+* What's the primary objective? (Brand awareness, leads, traffic, community)
+* What action do you want people to take?
+* Are you building personal brand, company brand, or both?
 
 ### 2. Audience
-- Who are you trying to reach?
-- What platforms are they most active on?
-- What content do they engage with?
+
+* Who are you trying to reach?
+* What platforms are they most active on?
+* What content do they engage with?
 
 ### 3. Brand Voice
-- What's your tone? (Professional, casual, witty, authoritative)
-- Any topics to avoid?
-- Any specific terminology or style guidelines?
+
+* What's your tone? (Professional, casual, witty, authoritative)
+* Any topics to avoid?
+* Any specific terminology or style guidelines?
 
 ### 4. Resources
-- How much time can you dedicate to social?
-- Do you have existing content to repurpose?
-- Can you create video content?
 
----
+* How much time can you dedicate to social?
+* Do you have existing content to repurpose?
+* Can you create video content?
+
+***
 
 ## Platform Quick Reference
 
@@ -48,7 +53,7 @@ Gather this context (ask if not provided):
 
 **For detailed platform strategies**: See [references/platforms.md](references/platforms.md)
 
----
+***
 
 ## Content Pillars Framework
 
@@ -67,41 +72,46 @@ Build your content around 3-5 pillars that align with your expertise and audienc
 ### Pillar Development Questions
 
 For each pillar, ask:
+
 1. What unique perspective do you have?
 2. What questions does your audience ask?
 3. What content has performed well before?
 4. What can you create consistently?
 5. What aligns with business goals?
 
----
+***
 
 ## Hook Formulas
 
 The first line determines whether anyone reads the rest.
 
 ### Curiosity Hooks
-- "I was wrong about [common belief]."
-- "The real reason [outcome] happens isn't what you think."
-- "[Impressive result] — and it only took [surprisingly short time]."
+
+* "I was wrong about \[common belief]."
+* "The real reason \[outcome] happens isn't what you think."
+* "\[Impressive result] — and it only took \[surprisingly short time]."
 
 ### Story Hooks
-- "Last week, [unexpected thing] happened."
-- "I almost [big mistake/failure]."
-- "3 years ago, I [past state]. Today, [current state]."
+
+* "Last week, \[unexpected thing] happened."
+* "I almost \[big mistake/failure]."
+* "3 years ago, I \[past state]. Today, \[current state]."
 
 ### Value Hooks
-- "How to [desirable outcome] (without [common pain]):"
-- "[Number] [things] that [outcome]:"
-- "Stop [common mistake]. Do this instead:"
+
+* "How to \[desirable outcome] (without \[common pain]):"
+* "\[Number] \[things] that \[outcome]:"
+* "Stop \[common mistake]. Do this instead:"
 
 ### Contrarian Hooks
-- "Unpopular opinion: [bold statement]"
-- "[Common advice] is wrong. Here's why:"
-- "I stopped [common practice] and [positive result]."
+
+* "Unpopular opinion: \[bold statement]"
+* "\[Common advice] is wrong. Here's why:"
+* "I stopped \[common practice] and \[positive result]."
 
 **For post templates and more hooks**: See [references/post-templates.md](references/post-templates.md)
 
----
+***
 
 ## Content Repurposing System
 
@@ -125,7 +135,7 @@ Turn one piece of content into many:
 4. **Schedule across the week** (spread distribution)
 5. **Update and reshare** (evergreen content can repeat)
 
----
+***
 
 ## Content Calendar Structure
 
@@ -148,7 +158,7 @@ Turn one piece of content into many:
 5. Schedule everything
 6. Leave room for real-time engagement
 
----
+***
 
 ## Engagement Strategy
 
@@ -161,19 +171,19 @@ Turn one piece of content into many:
 
 ### Quality Comments
 
-- Add new insight, not just "Great post!"
-- Share a related experience
-- Ask a thoughtful follow-up question
-- Respectfully disagree with nuance
+* Add new insight, not just "Great post!"
+* Share a related experience
+* Ask a thoughtful follow-up question
+* Respectfully disagree with nuance
 
 ### Building Relationships
 
-- Identify 20-50 accounts in your space
-- Consistently engage with their content
-- Share their content with credit
-- Eventually collaborate (podcasts, co-created content)
+* Identify 20-50 accounts in your space
+* Consistently engage with their content
+* Share their content with credit
+* Eventually collaborate (podcasts, co-created content)
 
----
+***
 
 ## Analytics & Optimization
 
@@ -187,43 +197,47 @@ Turn one piece of content into many:
 
 ### Weekly Review
 
-- Top 3 performing posts (why did they work?)
-- Bottom 3 posts (what can you learn?)
-- Follower growth trend
-- Engagement rate trend
-- Best posting times (from data)
+* Top 3 performing posts (why did they work?)
+* Bottom 3 posts (what can you learn?)
+* Follower growth trend
+* Engagement rate trend
+* Best posting times (from data)
 
 ### Optimization Actions
 
 **If engagement is low:**
-- Test new hooks
-- Post at different times
-- Try different formats
-- Increase engagement with others
+
+* Test new hooks
+* Post at different times
+* Try different formats
+* Increase engagement with others
 
 **If reach is declining:**
-- Avoid external links in post body
-- Increase posting frequency
-- Engage more in comments
-- Test video/visual content
 
----
+* Avoid external links in post body
+* Increase posting frequency
+* Engage more in comments
+* Test video/visual content
+
+***
 
 ## Content Ideas by Situation
 
 ### When You're Starting Out
-- Document your journey
-- Share what you're learning
-- Curate and comment on industry content
-- Engage heavily with established accounts
+
+* Document your journey
+* Share what you're learning
+* Curate and comment on industry content
+* Engage heavily with established accounts
 
 ### When You're Stuck
-- Repurpose old high-performing content
-- Ask your audience what they want
-- Comment on industry news
-- Share a failure or lesson learned
 
----
+* Repurpose old high-performing content
+* Ask your audience what they want
+* Comment on industry news
+* Share a failure or lesson learned
+
+***
 
 ## Scheduling Best Practices
 
@@ -235,12 +249,12 @@ Turn one piece of content into many:
 
 ### Queue Management
 
-- Maintain 1-2 weeks of scheduled content
-- Review queue weekly for relevance
-- Leave gaps for spontaneous posts
-- Adjust timing based on performance data
+* Maintain 1-2 weeks of scheduled content
+* Review queue weekly for relevance
+* Leave gaps for spontaneous posts
+* Adjust timing based on performance data
 
----
+***
 
 ## Reverse Engineering Viral Content
 
@@ -255,7 +269,7 @@ Instead of guessing, analyze what's working for top creators in your niche:
 
 **For the complete framework**: See [references/reverse-engineering.md](references/reverse-engineering.md)
 
----
+***
 
 ## Task-Specific Questions
 
@@ -266,11 +280,11 @@ Instead of guessing, analyze what's working for top creators in your niche:
 5. How much time can you dedicate weekly?
 6. Are you building personal brand, company brand, or both?
 
----
+***
 
 ## Related Skills
 
-- **copywriting**: For longer-form content that feeds social
-- **launch-strategy**: For coordinating social with launches
-- **email-sequence**: For nurturing social audience via email
-- **marketing-psychology**: For understanding what drives engagement
+* **copywriting**: For longer-form content that feeds social
+* **launch-strategy**: For coordinating social with launches
+* **email-sequence**: For nurturing social audience via email
+* **marketing-psychology**: For understanding what drives engagement

@@ -14,7 +14,7 @@ competitor_data/
 └── ...
 ```
 
----
+***
 
 ## Competitor Data Template
 
@@ -94,7 +94,7 @@ migration_from:
   time_estimate: "1-3 days for small team"
 ```
 
----
+***
 
 ## Your Product Data
 
@@ -117,24 +117,25 @@ not_ideal_for:
   - [Who should use something else]
 ```
 
----
+***
 
 ## Page Generation
 
 Each page pulls from centralized data:
 
-- **[Competitor] Alternative page**: Pulls competitor data + your data
-- **[Competitor] Alternatives page**: Pulls competitor data + your data + other alternatives
-- **You vs [Competitor] page**: Pulls your data + competitor data
-- **[A] vs [B] page**: Pulls both competitor data + your data
+* **\[Competitor] Alternative page**: Pulls competitor data + your data
+* **\[Competitor] Alternatives page**: Pulls competitor data + your data + other alternatives
+* **You vs \[Competitor] page**: Pulls your data + competitor data
+* **\[A] vs \[B] page**: Pulls both competitor data + your data
 
 **Benefits**:
-- Update competitor pricing once, updates everywhere
-- Add new feature comparison once, appears on all pages
-- Consistent accuracy across pages
-- Easier to maintain at scale
 
----
+* Update competitor pricing once, updates everywhere
+* Add new feature comparison once, appears on all pages
+* Consistent accuracy across pages
+* Easier to maintain at scale
+
+***
 
 ## Index Page Structure
 
@@ -142,19 +143,21 @@ Each page pulls from centralized data:
 
 **URL**: `/alternatives` or `/alternatives/index`
 
-**Purpose**: Lists all "[Competitor] Alternative" pages
+**Purpose**: Lists all "\[Competitor] Alternative" pages
 
 **Page structure**:
-1. Headline: "[Your Product] as an Alternative"
+
+1. Headline: "\[Your Product] as an Alternative"
 2. Brief intro on why people switch to you
 3. List of all alternative pages with:
-   - Competitor name/logo
-   - One-line summary of key differentiator vs. that competitor
-   - Link to full comparison
+   * Competitor name/logo
+   * One-line summary of key differentiator vs. that competitor
+   * Link to full comparison
 4. Common reasons people switch (aggregated)
 5. CTA
 
 **Example**:
+
 ```markdown
 ## Explore [Your Product] as an Alternative
 
@@ -165,49 +168,54 @@ Looking to switch? See how [Your Product] compares to the tools you're evaluatin
 - **[Monday Alternative](/alternatives/monday)** — Better for teams who need [Z]
 ```
 
----
+***
 
 ### Vs Comparisons Index
 
 **URL**: `/vs` or `/compare`
 
-**Purpose**: Lists all "You vs [Competitor]" and "[A] vs [B]" pages
+**Purpose**: Lists all "You vs \[Competitor]" and "\[A] vs \[B]" pages
 
 **Page structure**:
-1. Headline: "Compare [Your Product]"
-2. Section: "[Your Product] vs Competitors" — list of direct comparisons
-3. Section: "Head-to-Head Comparisons" — list of [A] vs [B] pages
+
+1. Headline: "Compare \[Your Product]"
+2. Section: "\[Your Product] vs Competitors" — list of direct comparisons
+3. Section: "Head-to-Head Comparisons" — list of \[A] vs \[B] pages
 4. Brief methodology note
 5. CTA
 
----
+***
 
 ### Index Page Best Practices
 
 **Keep them updated**: When you add a new comparison page, add it to the relevant index.
 
 **Internal linking**:
-- Link from index → individual pages
-- Link from individual pages → back to index
-- Cross-link between related comparisons
+
+* Link from index → individual pages
+* Link from individual pages → back to index
+* Cross-link between related comparisons
 
 **SEO value**:
-- Index pages can rank for broad terms like "project management tool comparisons"
-- Pass link equity to individual comparison pages
-- Help search engines discover all comparison content
+
+* Index pages can rank for broad terms like "project management tool comparisons"
+* Pass link equity to individual comparison pages
+* Help search engines discover all comparison content
 
 **Sorting options**:
-- By popularity (search volume)
-- Alphabetically
-- By category/use case
-- By date added (show freshness)
+
+* By popularity (search volume)
+* Alphabetically
+* By category/use case
+* By date added (show freshness)
 
 **Include on index pages**:
-- Last updated date for credibility
-- Number of pages/comparisons available
-- Quick filters if you have many comparisons
 
----
+* Last updated date for credibility
+* Number of pages/comparisons available
+* Quick filters if you have many comparisons
+
+***
 
 ## Footer Navigation
 
@@ -243,10 +251,11 @@ Footer
 ```
 
 **Guidelines**:
-- Include up to 8 links per column (top competitors by search volume)
-- Add "View all" link to the full index page
-- Only create columns for formats you've actually built pages for
-- Prioritize competitors with highest search volume
+
+* Include up to 8 links per column (top competitors by search volume)
+* Add "View all" link to the full index page
+* Only create columns for formats you've actually built pages for
+* Prioritize competitors with highest search volume
 
 ### Why Footer Links Matter
 
@@ -257,7 +266,7 @@ Footer
 
 ### Implementation Notes
 
-- Update footer when adding new high-priority comparison pages
-- Keep footer clean—don't list every comparison, just the top ones
-- Match column headers to your URL structure (e.g., "vs" column → `/vs/` URLs)
-- Consider mobile: columns may stack, so order by priority
+* Update footer when adding new high-priority comparison pages
+* Keep footer clean—don't list every comparison, just the top ones
+* Match column headers to your URL structure (e.g., "vs" column → `/vs/` URLs)
+* Consider mobile: columns may stack, so order by priority

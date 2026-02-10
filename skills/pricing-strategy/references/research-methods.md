@@ -7,28 +7,30 @@ The Van Westendorp survey identifies the acceptable price range for your product
 ### The Four Questions
 
 Ask each respondent:
-1. "At what price would you consider [product] to be so expensive that you would not consider buying it?" (Too expensive)
-2. "At what price would you consider [product] to be priced so low that you would question its quality?" (Too cheap)
-3. "At what price would you consider [product] to be starting to get expensive, but you still might consider it?" (Expensive/high side)
-4. "At what price would you consider [product] to be a bargain—a great buy for the money?" (Cheap/good value)
+
+1. "At what price would you consider \[product] to be so expensive that you would not consider buying it?" (Too expensive)
+2. "At what price would you consider \[product] to be priced so low that you would question its quality?" (Too cheap)
+3. "At what price would you consider \[product] to be starting to get expensive, but you still might consider it?" (Expensive/high side)
+4. "At what price would you consider \[product] to be a bargain—a great buy for the money?" (Cheap/good value)
 
 ### How to Analyze
 
 1. Plot cumulative distributions for each question
 2. Find the intersections:
-   - **Point of Marginal Cheapness (PMC):** "Too cheap" crosses "Expensive"
-   - **Point of Marginal Expensiveness (PME):** "Too expensive" crosses "Cheap"
-   - **Optimal Price Point (OPP):** "Too cheap" crosses "Too expensive"
-   - **Indifference Price Point (IDP):** "Expensive" crosses "Cheap"
+   * **Point of Marginal Cheapness (PMC):** "Too cheap" crosses "Expensive"
+   * **Point of Marginal Expensiveness (PME):** "Too expensive" crosses "Cheap"
+   * **Optimal Price Point (OPP):** "Too cheap" crosses "Too expensive"
+   * **Indifference Price Point (IDP):** "Expensive" crosses "Cheap"
 
 **The acceptable price range:** PMC to PME
 **Optimal pricing zone:** Between OPP and IDP
 
 ### Survey Tips
-- Need 100-300 respondents for reliable data
-- Segment by persona (different willingness to pay)
-- Use realistic product descriptions
-- Consider adding purchase intent questions
+
+* Need 100-300 respondents for reliable data
+* Segment by persona (different willingness to pay)
+* Use realistic product descriptions
+* Consider adding purchase intent questions
 
 ### Sample Output
 
@@ -45,7 +47,7 @@ Current price: $39/mo (below optimal)
 Opportunity: 25-50% price increase without significant demand impact
 ```
 
----
+***
 
 ## MaxDiff Analysis (Best-Worst Scaling)
 
@@ -75,9 +77,10 @@ Which feature is LEAST important to you?
 ### Analyzing Results
 
 Features are ranked by utility score:
-- High utility = Must-have (include in base tier)
-- Medium utility = Differentiator (use for tier separation)
-- Low utility = Nice-to-have (premium tier or cut)
+
+* High utility = Must-have (include in base tier)
+* Medium utility = Differentiator (use for tier separation)
+* Low utility = Nice-to-have (premium tier or cut)
 
 ### Using MaxDiff for Packaging
 
@@ -88,15 +91,15 @@ Features are ranked by utility score:
 | 50-80% | Higher tiers only |
 | Bottom 20% | Consider cutting or premium add-on |
 
----
+***
 
 ## Willingness to Pay Surveys
 
 **Direct method (simple but biased):**
-"How much would you pay for [product]?"
+"How much would you pay for \[product]?"
 
 **Better: Gabor-Granger method:**
-"Would you buy [product] at [$X]?" (Yes/No)
+"Would you buy \[product] at \[$X]?" (Yes/No)
 Vary price across respondents to build demand curve.
 
 **Even better: Conjoint analysis:**
@@ -104,25 +107,29 @@ Show product bundles at different prices
 Respondents choose preferred option
 Statistical analysis reveals price sensitivity per feature
 
----
+***
 
 ## Usage-Value Correlation Analysis
 
 ### 1. Instrument usage data
+
 Track how customers use your product:
-- Feature usage frequency
-- Volume metrics (users, records, API calls)
-- Outcome metrics (revenue generated, time saved)
+
+* Feature usage frequency
+* Volume metrics (users, records, API calls)
+* Outcome metrics (revenue generated, time saved)
 
 ### 2. Correlate with customer success
-- Which usage patterns predict retention?
-- Which usage patterns predict expansion?
-- Which customers pay the most, and why?
+
+* Which usage patterns predict retention?
+* Which usage patterns predict expansion?
+* Which customers pay the most, and why?
 
 ### 3. Identify value thresholds
-- At what usage level do customers "get it"?
-- At what usage level do they expand?
-- At what usage level should price increase?
+
+* At what usage level do customers "get it"?
+* At what usage level do they expand?
+* At what usage level should price increase?
 
 ### Example Analysis
 

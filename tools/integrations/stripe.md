@@ -13,9 +13,9 @@ Payment processing, subscriptions, and billing for internet businesses.
 
 ## Authentication
 
-- **Type**: API Key
-- **Header**: `Authorization: Bearer sk_live_xxx` or `sk_test_xxx`
-- **Keys**: Secret key (server), Publishable key (client)
+* **Type**: API Key
+* **Header**: `Authorization: Bearer sk_live_xxx` or `sk_test_xxx`
+* **Keys**: Secret key (server), Publishable key (client)
 
 ## Common Agent Operations
 
@@ -118,31 +118,31 @@ stripe customers retrieve cus_xxx
 
 ## Key Objects
 
-- **Customer** - User billing profile
-- **Subscription** - Recurring billing
-- **Price** - Pricing configuration
-- **Product** - What you sell
-- **Invoice** - Billing document
-- **PaymentIntent** - One-time payment
-- **Checkout Session** - Hosted payment page
+* **Customer** - User billing profile
+* **Subscription** - Recurring billing
+* **Price** - Pricing configuration
+* **Product** - What you sell
+* **Invoice** - Billing document
+* **PaymentIntent** - One-time payment
+* **Checkout Session** - Hosted payment page
 
 ## When to Use
 
-- Processing payments
-- Managing subscriptions
-- Creating checkout flows
-- Handling billing portal
-- Querying customer data
-- Revenue analytics
+* Processing payments
+* Managing subscriptions
+* Creating checkout flows
+* Handling billing portal
+* Querying customer data
+* Revenue analytics
 
 ## Rate Limits
 
-- 100 read requests per second
-- 100 write requests per second
-- Higher limits available on request
+* 100 read requests per second
+* 100 write requests per second
+* Higher limits available on request
 
 ## Relevant Skills
 
-- pricing-strategy
-- referral-program (Stripe-integrated affiliate tools)
-- analytics-tracking (revenue tracking)
+* pricing-strategy
+* referral-program (Stripe-integrated affiliate tools)
+* analytics-tracking (revenue tracking)

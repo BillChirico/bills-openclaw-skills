@@ -13,9 +13,9 @@ Content management system for blogs and websites.
 
 ## Authentication
 
-- **Type**: Application Password, JWT, or OAuth
-- **Header**: `Authorization: Basic {base64(username:app_password)}`
-- **Setup**: Users > Your Profile > Application Passwords
+* **Type**: Application Password, JWT, or OAuth
+* **Header**: `Authorization: Basic {base64(username:app_password)}`
+* **Setup**: Users > Your Profile > Application Passwords
 
 ## Common Agent Operations
 
@@ -136,12 +136,12 @@ wp plugin update --all
 
 ## Post Statuses
 
-- `publish` - Live on site
-- `draft` - Not published
-- `pending` - Awaiting review
-- `private` - Private post
-- `future` - Scheduled
-- `trash` - In trash
+* `publish` - Live on site
+* `draft` - Not published
+* `pending` - Awaiting review
+* `private` - Private post
+* `future` - Scheduled
+* `trash` - In trash
 
 ## Common Endpoints
 
@@ -157,19 +157,19 @@ wp plugin update --all
 
 ## When to Use
 
-- Blog content management
-- Page updates
-- Media management
-- Site configuration
-- Plugin/theme management
+* Blog content management
+* Page updates
+* Media management
+* Site configuration
+* Plugin/theme management
 
 ## Rate Limits
 
-- No default limits
-- Server/host dependent
+* No default limits
+* Server/host dependent
 
 ## Relevant Skills
 
-- content-strategy
-- seo-audit
-- programmatic-seo
+* content-strategy
+* seo-audit
+* programmatic-seo

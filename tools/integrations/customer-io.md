@@ -13,9 +13,9 @@ Behavior-based messaging platform for email, push, SMS, and in-app.
 
 ## Authentication
 
-- **Track API**: Site ID + API Key (Basic auth)
-- **App API**: Bearer token
-- **Header**: `Authorization: Basic {base64(site_id:api_key)}`
+* **Track API**: Site ID + API Key (Basic auth)
+* **App API**: Bearer token
+* **Header**: `Authorization: Basic {base64(site_id:api_key)}`
 
 ## Common Agent Operations
 
@@ -155,33 +155,33 @@ _cio.page();
 
 ## Key Concepts
 
-- **People** - Customers and leads
-- **Segments** - Dynamic groups based on attributes/behavior
-- **Campaigns** - Automated message sequences
-- **Broadcasts** - One-time sends
-- **Transactional** - Triggered messages
+* **People** - Customers and leads
+* **Segments** - Dynamic groups based on attributes/behavior
+* **Campaigns** - Automated message sequences
+* **Broadcasts** - One-time sends
+* **Transactional** - Triggered messages
 
 ## Attribute Types
 
-- Standard: `email`, `created_at`, `unsubscribed`
-- Custom: Any key you define
-- Computed: Aggregations from events
+* Standard: `email`, `created_at`, `unsubscribed`
+* Custom: Any key you define
+* Computed: Aggregations from events
 
 ## When to Use
 
-- Behavior-based email automation
-- Multi-channel messaging (email, push, SMS)
-- Onboarding sequences
-- Re-engagement campaigns
-- Transactional messages
+* Behavior-based email automation
+* Multi-channel messaging (email, push, SMS)
+* Onboarding sequences
+* Re-engagement campaigns
+* Transactional messages
 
 ## Rate Limits
 
-- Track API: 100 requests/second
-- App API: 10 requests/second
+* Track API: 100 requests/second
+* App API: 10 requests/second
 
 ## Relevant Skills
 
-- email-sequence
-- onboarding-cro
-- analytics-tracking
+* email-sequence
+* onboarding-cro
+* analytics-tracking

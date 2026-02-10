@@ -1,7 +1,8 @@
----
+***
+
 name: schema-markup
 description: When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions "schema markup," "structured data," "JSON-LD," "rich snippets," "schema.org," "FAQ schema," "product schema," "review schema," or "breadcrumb schema." For broader SEO issues, see seo-audit.
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Schema Markup
 
@@ -20,31 +21,35 @@ Before implementing schema, understand:
 
 3. **Goals** - Which rich results are you targeting? What's the business value?
 
----
+***
 
 ## Core Principles
 
 ### 1. Accuracy First
-- Schema must accurately represent page content
-- Don't markup content that doesn't exist
-- Keep updated when content changes
+
+* Schema must accurately represent page content
+* Don't markup content that doesn't exist
+* Keep updated when content changes
 
 ### 2. Use JSON-LD
-- Google recommends JSON-LD format
-- Easier to implement and maintain
-- Place in `<head>` or end of `<body>`
+
+* Google recommends JSON-LD format
+* Easier to implement and maintain
+* Place in `<head>` or end of `<body>`
 
 ### 3. Follow Google's Guidelines
-- Only use markup Google supports
-- Avoid spam tactics
-- Review eligibility requirements
+
+* Only use markup Google supports
+* Avoid spam tactics
+* Review eligibility requirements
 
 ### 4. Validate Everything
-- Test before deploying
-- Monitor Search Console
-- Fix errors promptly
 
----
+* Test before deploying
+* Monitor Search Console
+* Fix errors promptly
+
+***
 
 ## Common Schema Types
 
@@ -55,7 +60,7 @@ Before implementing schema, understand:
 | Article | Blog posts, news | headline, image, datePublished, author |
 | Product | Product pages | name, image, offers |
 | SoftwareApplication | SaaS/app pages | name, offers |
-| FAQPage | FAQ content | mainEntity (Q&A array) |
+| FAQPage | FAQ content | mainEntity (Q\&A array) |
 | HowTo | Tutorials | name, step |
 | BreadcrumbList | Any page with breadcrumbs | itemListElement |
 | LocalBusiness | Local business pages | name, address |
@@ -63,29 +68,34 @@ Before implementing schema, understand:
 
 **For complete JSON-LD examples**: See [references/schema-examples.md](references/schema-examples.md)
 
----
+***
 
 ## Quick Reference
 
 ### Organization (Company Page)
+
 Required: name, url
 Recommended: logo, sameAs (social profiles), contactPoint
 
 ### Article/BlogPosting
+
 Required: headline, image, datePublished, author
 Recommended: dateModified, publisher, description
 
 ### Product
+
 Required: name, image, offers (price + availability)
 Recommended: sku, brand, aggregateRating, review
 
 ### FAQPage
+
 Required: mainEntity (array of Question/Answer pairs)
 
 ### BreadcrumbList
+
 Required: itemListElement (array with position, name, item)
 
----
+***
 
 ## Multiple Schema Types
 
@@ -102,14 +112,15 @@ You can combine multiple schema types on one page using `@graph`:
 }
 ```
 
----
+***
 
 ## Validation and Testing
 
 ### Tools
-- **Google Rich Results Test**: https://search.google.com/test/rich-results
-- **Schema.org Validator**: https://validator.schema.org/
-- **Search Console**: Enhancements reports
+
+* **Google Rich Results Test**: https://search.google.com/test/rich-results
+* **Schema.org Validator**: https://validator.schema.org/
+* **Search Console**: Enhancements reports
 
 ### Common Errors
 
@@ -119,29 +130,33 @@ You can combine multiple schema types on one page using `@graph`:
 
 **Mismatch with page content** - Schema doesn't match visible content
 
----
+***
 
 ## Implementation
 
 ### Static Sites
-- Add JSON-LD directly in HTML template
-- Use includes/partials for reusable schema
+
+* Add JSON-LD directly in HTML template
+* Use includes/partials for reusable schema
 
 ### Dynamic Sites (React, Next.js)
-- Component that renders schema
-- Server-side rendered for SEO
-- Serialize data to JSON-LD
+
+* Component that renders schema
+* Server-side rendered for SEO
+* Serialize data to JSON-LD
 
 ### CMS / WordPress
-- Plugins (Yoast, Rank Math, Schema Pro)
-- Theme modifications
-- Custom fields to structured data
 
----
+* Plugins (Yoast, Rank Math, Schema Pro)
+* Theme modifications
+* Custom fields to structured data
+
+***
 
 ## Output Format
 
 ### Schema Implementation
+
 ```json
 // Full JSON-LD code block
 {
@@ -152,12 +167,13 @@ You can combine multiple schema types on one page using `@graph`:
 ```
 
 ### Testing Checklist
-- [ ] Validates in Rich Results Test
-- [ ] No errors or warnings
-- [ ] Matches page content
-- [ ] All required properties included
 
----
+* \[ ] Validates in Rich Results Test
+* \[ ] No errors or warnings
+* \[ ] Matches page content
+* \[ ] All required properties included
+
+***
 
 ## Task-Specific Questions
 
@@ -167,9 +183,9 @@ You can combine multiple schema types on one page using `@graph`:
 4. Is there existing schema on the page?
 5. What's your tech stack?
 
----
+***
 
 ## Related Skills
 
-- **seo-audit**: For overall SEO including schema review
-- **programmatic-seo**: For templated schema at scale
+* **seo-audit**: For overall SEO including schema review
+* **programmatic-seo**: For templated schema at scale

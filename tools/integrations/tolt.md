@@ -13,9 +13,9 @@ Affiliate program management for SaaS, with Stripe and Paddle integration.
 
 ## Authentication
 
-- **Type**: API Key
-- **Header**: `Authorization: Bearer {api_key}`
-- **Get key**: Settings > API in Tolt dashboard
+* **Type**: API Key
+* **Header**: `Authorization: Bearer {api_key}`
+* **Get key**: Settings > API in Tolt dashboard
 
 ## Common Agent Operations
 
@@ -111,34 +111,34 @@ window.tolt.identify(stripeCustomerId);
 
 ## Key Features
 
-- **Stripe native** - Automatic commission tracking
-- **Paddle support** - Works with Paddle billing
-- **Affiliate dashboard** - White-labeled portal
-- **Payout automation** - PayPal and Wise payouts
-- **Custom commission tiers** - Different rates per affiliate
+* **Stripe native** - Automatic commission tracking
+* **Paddle support** - Works with Paddle billing
+* **Affiliate dashboard** - White-labeled portal
+* **Payout automation** - PayPal and Wise payouts
+* **Custom commission tiers** - Different rates per affiliate
 
 ## Key Objects
 
-- **Affiliate** - Partner in your program
-- **Referral** - Tracked conversion
-- **Commission** - Earned affiliate payment
-- **Payout** - Processed payment to affiliate
-- **Program** - Campaign configuration
+* **Affiliate** - Partner in your program
+* **Referral** - Tracked conversion
+* **Commission** - Earned affiliate payment
+* **Payout** - Processed payment to affiliate
+* **Program** - Campaign configuration
 
 ## When to Use
 
-- Setting up SaaS affiliate programs
-- Managing affiliate relationships
-- Tracking Stripe or Paddle-based referrals
-- Processing affiliate payouts
-- Building affiliate dashboards
+* Setting up SaaS affiliate programs
+* Managing affiliate relationships
+* Tracking Stripe or Paddle-based referrals
+* Processing affiliate payouts
+* Building affiliate dashboards
 
 ## Rate Limits
 
-- 100 requests per minute
-- Higher limits on enterprise plans
+* 100 requests per minute
+* Higher limits on enterprise plans
 
 ## Relevant Skills
 
-- referral-program
-- pricing-strategy
+* referral-program
+* pricing-strategy

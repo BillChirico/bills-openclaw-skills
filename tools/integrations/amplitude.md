@@ -13,8 +13,8 @@ Product analytics platform for user behavior, retention, and experimentation.
 
 ## Authentication
 
-- **HTTP API**: API Key (public for events)
-- **Export/Dashboard API**: API Key + Secret Key
+* **HTTP API**: API Key (public for events)
+* **Export/Dashboard API**: API Key + Secret Key
 
 ## Common Agent Operations
 
@@ -79,6 +79,7 @@ Authorization: Basic {base64(api_key:secret_key)}
 ### Query with SQL (Snowflake)
 
 For Amplitude customers with SQL access:
+
 ```sql
 SELECT event_type, COUNT(*) as count
 FROM events
@@ -108,28 +109,28 @@ amplitude.track('Feature Used', {
 
 ## Key Concepts
 
-- **Events** - User actions with properties
-- **User Properties** - Persistent user attributes
-- **Cohorts** - Behavioral segments
-- **Funnels** - Multi-step conversion analysis
-- **Retention** - User return patterns
-- **Journeys** - User path analysis
+* **Events** - User actions with properties
+* **User Properties** - Persistent user attributes
+* **Cohorts** - Behavioral segments
+* **Funnels** - Multi-step conversion analysis
+* **Retention** - User return patterns
+* **Journeys** - User path analysis
 
 ## When to Use
 
-- Tracking product analytics
-- Analyzing user funnels
-- Cohort analysis and retention
-- Experimentation and A/B testing
-- User journey mapping
+* Tracking product analytics
+* Analyzing user funnels
+* Cohort analysis and retention
+* Experimentation and A/B testing
+* User journey mapping
 
 ## Rate Limits
 
-- HTTP API: 1000 events/second
-- Export API: 360 requests/hour
+* HTTP API: 1000 events/second
+* Export API: 360 requests/hour
 
 ## Relevant Skills
 
-- analytics-tracking
-- ab-test-setup
-- onboarding-cro
+* analytics-tracking
+* ab-test-setup
+* onboarding-cro

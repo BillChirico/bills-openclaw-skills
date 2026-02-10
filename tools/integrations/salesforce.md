@@ -13,9 +13,9 @@ Enterprise CRM platform for sales, service, and marketing.
 
 ## Authentication
 
-- **Type**: OAuth 2.0 (Web Server Flow or JWT Bearer)
-- **Header**: `Authorization: Bearer {access_token}`
-- **Instance URL**: Use instance_url from auth response
+* **Type**: OAuth 2.0 (Web Server Flow or JWT Bearer)
+* **Header**: `Authorization: Bearer {access_token}`
+* **Instance URL**: Use instance\_url from auth response
 
 ## Common Agent Operations
 
@@ -123,28 +123,28 @@ ORDER BY CreatedDate DESC
 
 ## Key Objects
 
-- **Lead** - Potential customer
-- **Contact** - Person at account
-- **Account** - Company/organization
-- **Opportunity** - Sales deal
-- **Case** - Support ticket
-- **Campaign** - Marketing campaign
+* **Lead** - Potential customer
+* **Contact** - Person at account
+* **Account** - Company/organization
+* **Opportunity** - Sales deal
+* **Case** - Support ticket
+* **Campaign** - Marketing campaign
 
 ## When to Use
 
-- Enterprise CRM operations
-- Complex sales processes
-- Multi-object relationships
-- Custom object management
-- Marketing campaign tracking
+* Enterprise CRM operations
+* Complex sales processes
+* Multi-object relationships
+* Custom object management
+* Marketing campaign tracking
 
 ## Rate Limits
 
-- 15,000 API calls per 24 hours (Enterprise)
-- Higher limits available
+* 15,000 API calls per 24 hours (Enterprise)
+* Higher limits available
 
 ## Relevant Skills
 
-- email-sequence
-- analytics-tracking
-- paid-ads
+* email-sequence
+* analytics-tracking
+* paid-ads

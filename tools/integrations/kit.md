@@ -13,9 +13,9 @@ Email marketing platform for creators and newsletter businesses.
 
 ## Authentication
 
-- **Type**: API Key or API Secret
-- **Parameter**: `api_key={key}` or `api_secret={secret}` in query/body
-- **Get key**: Settings > Advanced in Kit dashboard
+* **Type**: API Key or API Secret
+* **Parameter**: `api_key={key}` or `api_secret={secret}` in query/body
+* **Get key**: Settings > Advanced in Kit dashboard
 
 ## Common Agent Operations
 
@@ -133,35 +133,35 @@ POST https://api.convertkit.com/v3/broadcasts
 
 ## Key Concepts
 
-- **Subscribers** - Email contacts
-- **Forms** - Signup forms
-- **Sequences** - Automated email series
-- **Tags** - Subscriber labels
-- **Broadcasts** - One-time sends
-- **Custom Fields** - Subscriber attributes
+* **Subscribers** - Email contacts
+* **Forms** - Signup forms
+* **Sequences** - Automated email series
+* **Tags** - Subscriber labels
+* **Broadcasts** - One-time sends
+* **Custom Fields** - Subscriber attributes
 
 ## Subscriber States
 
-- `active` - Can receive emails
-- `unsubscribed` - Opted out
-- `bounced` - Email bounced
-- `complained` - Marked as spam
-- `inactive` - Cold subscriber
+* `active` - Can receive emails
+* `unsubscribed` - Opted out
+* `bounced` - Email bounced
+* `complained` - Marked as spam
+* `inactive` - Cold subscriber
 
 ## When to Use
 
-- Creator/newsletter businesses
-- Simple email automation
-- Form-based list building
-- Tagging and segmentation
-- Course email sequences
+* Creator/newsletter businesses
+* Simple email automation
+* Form-based list building
+* Tagging and segmentation
+* Course email sequences
 
 ## Rate Limits
 
-- 120 requests per minute
-- Batch endpoints available
+* 120 requests per minute
+* Batch endpoints available
 
 ## Relevant Skills
 
-- email-sequence
-- content-strategy
+* email-sequence
+* content-strategy

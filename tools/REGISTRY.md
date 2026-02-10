@@ -8,7 +8,7 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 2. **Check integration methods** - See what APIs, MCPs, CLIs, or SDKs are available
 3. **Read integration guides** - Detailed setup and common operations in `integrations/`
 
----
+***
 
 ## Tool Index
 
@@ -44,7 +44,7 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 | wordpress | CMS | ✓ | - | ✓ | ✓ | [wordpress.md](integrations/wordpress.md) |
 | webflow | CMS | ✓ | - | ✓ | ✓ | [webflow.md](integrations/webflow.md) |
 
----
+***
 
 ## By Category
 
@@ -158,37 +158,41 @@ E-commerce platforms and content management systems.
 
 **Agent recommendation**: Shopify for e-commerce. Webflow for marketing sites. WordPress for blogs.
 
----
+***
 
 ## MCP-Enabled Tools
 
 These tools have Model Context Protocol servers available, enabling direct agent interaction:
 
-- **ga4** - Google Analytics 4 data access
-- **stripe** - Payment and subscription management
-- **mailchimp** - Email campaign management
-- **google-ads** - Ad campaign management
-- **resend** - Transactional email sending
-- **zapier** - Workflow automation
+* **ga4** - Google Analytics 4 data access
+* **stripe** - Payment and subscription management
+* **mailchimp** - Email campaign management
+* **google-ads** - Ad campaign management
+* **resend** - Transactional email sending
+* **zapier** - Workflow automation
 
 To use MCP tools, ensure the appropriate MCP server is configured in your environment.
 
----
+***
 
 ## Quick Start by Use Case
 
 ### Setting up analytics tracking
+
 1. Read [ga4.md](integrations/ga4.md) for web analytics
 2. Read [segment.md](integrations/segment.md) if routing to multiple tools
 
 ### Launching a referral program
+
 1. Read [rewardful.md](integrations/rewardful.md) or [tolt.md](integrations/tolt.md) for Stripe-based programs
 2. Read [dub-co.md](integrations/dub-co.md) for link tracking
 
 ### Setting up email automation
+
 1. Read [customer-io.md](integrations/customer-io.md) for behavior-based automation
 2. Read [resend.md](integrations/resend.md) for transactional email
 
 ### Running paid ads
+
 1. Read [google-ads.md](integrations/google-ads.md) for search campaigns
 2. Read [meta-ads.md](integrations/meta-ads.md) for social campaigns

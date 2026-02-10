@@ -4,7 +4,7 @@ Replace complex or pompous words with plain English alternatives.
 
 Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Government Style Manual (2024), plainlanguage.gov
 
----
+***
 
 ## A
 
@@ -40,7 +40,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | attempt | try |
 | authorise | allow, let |
 
----
+***
 
 ## B
 
@@ -51,7 +51,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | bestow | give |
 | by means of | by |
 
----
+***
 
 ## C
 
@@ -78,7 +78,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | consumption | use |
 | currently | now |
 
----
+***
 
 ## D
 
@@ -103,7 +103,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | duration | time, length |
 | dwelling | home |
 
----
+***
 
 ## E
 
@@ -130,7 +130,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | expenditure | spending |
 | expire | run out |
 
----
+***
 
 ## F
 
@@ -148,7 +148,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | furnish | give, provide |
 | furthermore | also, and |
 
----
+***
 
 ## G-H
 
@@ -158,7 +158,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | henceforth | from now on |
 | hitherto | until now |
 
----
+***
 
 ## I
 
@@ -191,7 +191,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | irrespective of | despite |
 | issue | give, send |
 
----
+***
 
 ## L-M
 
@@ -207,7 +207,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | modification | change |
 | moreover | also, and |
 
----
+***
 
 ## N-O
 
@@ -233,7 +233,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | outstanding | unpaid |
 | owing to | because |
 
----
+***
 
 ## P
 
@@ -266,7 +266,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | purchase | buy |
 | pursuant to | under |
 
----
+***
 
 ## R
 
@@ -290,7 +290,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | retain | keep |
 | revised | changed, new |
 
----
+***
 
 ## S
 
@@ -311,7 +311,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | supplement | add to |
 | supplementary | extra |
 
----
+***
 
 ## T-U
 
@@ -329,7 +329,7 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | uniform | same |
 | utilise | use |
 
----
+***
 
 ## V-Z
 
@@ -347,30 +347,30 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | with respect to | about |
 | zone | area |
 
----
+***
 
 ## Phrases to Remove Entirely
 
 These phrases often add nothing. Delete them:
 
-- a total of
-- absolutely
-- actually
-- all things being equal
-- as a matter of fact
-- at the end of the day
-- at this moment in time
-- basically
-- currently (when "now" or nothing works)
-- I am of the opinion that (use: I think)
-- in due course (use: soon, or say when)
-- in the final analysis
-- it should be understood
-- last but not least
-- obviously
-- of course
-- quite
-- really
-- the fact of the matter is
-- to all intents and purposes
-- very
+* a total of
+* absolutely
+* actually
+* all things being equal
+* as a matter of fact
+* at the end of the day
+* at this moment in time
+* basically
+* currently (when "now" or nothing works)
+* I am of the opinion that (use: I think)
+* in due course (use: soon, or say when)
+* in the final analysis
+* it should be understood
+* last but not least
+* obviously
+* of course
+* quite
+* really
+* the fact of the matter is
+* to all intents and purposes
+* very

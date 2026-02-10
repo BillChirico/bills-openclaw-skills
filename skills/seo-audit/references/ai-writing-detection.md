@@ -4,7 +4,7 @@ Words, phrases, and punctuation patterns commonly associated with AI-generated t
 
 Sources: Grammarly (2025), Microsoft 365 Life Hacks (2025), GPTHuman (2025), Walter Writes (2025), Textero (2025), Plagiarism Today (2025), Rolling Stone (2025), MDPI Blog (2025)
 
----
+***
 
 ## Em Dashes: The Primary AI Tell
 
@@ -13,12 +13,14 @@ Sources: Grammarly (2025), Microsoft 365 Life Hacks (2025), GPTHuman (2025), Wal
 Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, or parenthetical information. While they have legitimate uses in writing, AI models drastically overuse them.
 
 ### Why Em Dashes Signal AI Writing
-- AI models were trained on edited books, academic papers, and style guides where em dashes appear frequently
-- AI uses em dashes as a shortcut for sentence variety instead of commas, colons, or parentheses
-- Most human writers rarely use em dashes because they don't exist as a standard keyboard key
-- The overuse is so consistent that it has become the unofficial signature of ChatGPT writing
+
+* AI models were trained on edited books, academic papers, and style guides where em dashes appear frequently
+* AI uses em dashes as a shortcut for sentence variety instead of commas, colons, or parentheses
+* Most human writers rarely use em dashes because they don't exist as a standard keyboard key
+* The overuse is so consistent that it has become the unofficial signature of ChatGPT writing
 
 ### What To Do Instead
+
 | Instead of | Use |
 |------------|-----|
 | The results—which were surprising—showed... | The results, which were surprising, showed... |
@@ -27,13 +29,14 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 | Communication skills—both written and verbal—are essential | Communication skills (both written and verbal) are essential |
 
 ### Guidelines
-- Use commas for most parenthetical information
-- Use colons to introduce explanations or lists
-- Use parentheses for supplementary information
-- Reserve em dashes for rare, deliberate emphasis only
-- If you find yourself using more than one em dash per page, revise
 
----
+* Use commas for most parenthetical information
+* Use colons to introduce explanations or lists
+* Use parentheses for supplementary information
+* Reserve em dashes for rare, deliberate emphasis only
+* If you find yourself using more than one em dash per page, revise
+
+***
 
 ## Overused Verbs
 
@@ -55,7 +58,7 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 | ascertain | find out, determine, establish |
 | elucidate | explain, clarify, make clear |
 
----
+***
 
 ## Overused Adjectives
 
@@ -76,7 +79,7 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 | multifaceted | complex, varied, diverse |
 | holistic | complete, whole, comprehensive |
 
----
+***
 
 ## Overused Transitions and Connectors
 
@@ -91,75 +94,79 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 | it is worth noting that | note that, importantly |
 | in the realm of | in, within, regarding |
 | in the landscape of | in, within |
-| in today's [anything] | currently, now, today |
+| in today's \[anything] | currently, now, today |
 
----
+***
 
 ## Phrases That Signal AI Writing
 
 ### Opening Phrases to Avoid
-- "In today's fast-paced world..."
-- "In today's digital age..."
-- "In an era of..."
-- "In the ever-evolving landscape of..."
-- "In the realm of..."
-- "It's important to note that..."
-- "Let's delve into..."
-- "Imagine a world where..."
+
+* "In today's fast-paced world..."
+* "In today's digital age..."
+* "In an era of..."
+* "In the ever-evolving landscape of..."
+* "In the realm of..."
+* "It's important to note that..."
+* "Let's delve into..."
+* "Imagine a world where..."
 
 ### Transitional Phrases to Avoid
-- "That being said..."
-- "With that in mind..."
-- "It's worth mentioning that..."
-- "At its core..."
-- "To put it simply..."
-- "In essence..."
-- "This begs the question..."
+
+* "That being said..."
+* "With that in mind..."
+* "It's worth mentioning that..."
+* "At its core..."
+* "To put it simply..."
+* "In essence..."
+* "This begs the question..."
 
 ### Concluding Phrases to Avoid
-- "In conclusion..."
-- "To sum up..."
-- "By [doing X], you can [achieve Y]..."
-- "In the final analysis..."
-- "All things considered..."
-- "At the end of the day..."
+
+* "In conclusion..."
+* "To sum up..."
+* "By \[doing X], you can \[achieve Y]..."
+* "In the final analysis..."
+* "All things considered..."
+* "At the end of the day..."
 
 ### Structural Patterns to Avoid
-- "Whether you're a [X], [Y], or [Z]..." (listing three examples after "whether")
-- "It's not just [X], it's also [Y]..."
-- "Think of [X] as [elaborate metaphor]..."
-- Starting sentences with "By" followed by a gerund: "By understanding X, you can Y..."
 
----
+* "Whether you're a \[X], \[Y], or \[Z]..." (listing three examples after "whether")
+* "It's not just \[X], it's also \[Y]..."
+* "Think of \[X] as \[elaborate metaphor]..."
+* Starting sentences with "By" followed by a gerund: "By understanding X, you can Y..."
+
+***
 
 ## Filler Words and Empty Intensifiers
 
 These words often add nothing to meaning. Remove them or find specific alternatives:
 
-- absolutely
-- actually
-- basically
-- certainly
-- clearly
-- definitely
-- essentially
-- extremely
-- fundamentally
-- incredibly
-- interestingly
-- naturally
-- obviously
-- quite
-- really
-- significantly
-- simply
-- surely
-- truly
-- ultimately
-- undoubtedly
-- very
+* absolutely
+* actually
+* basically
+* certainly
+* clearly
+* definitely
+* essentially
+* extremely
+* fundamentally
+* incredibly
+* interestingly
+* naturally
+* obviously
+* quite
+* really
+* significantly
+* simply
+* surely
+* truly
+* ultimately
+* undoubtedly
+* very
 
----
+***
 
 ## Academic-Specific AI Tells
 
@@ -178,7 +185,7 @@ These words often add nothing to meaning. Remove them or find specific alternati
 | in terms of | regarding, for, about |
 | the fact that | that (or rewrite sentence) |
 
----
+***
 
 ## How to Self-Check
 

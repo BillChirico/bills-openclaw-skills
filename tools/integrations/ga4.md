@@ -13,9 +13,9 @@ Web analytics platform for tracking user behavior, conversions, and marketing pe
 
 ## Authentication
 
-- **Type**: OAuth 2.0 or Service Account
-- **Scopes**: `https://www.googleapis.com/auth/analytics.readonly` (read), `https://www.googleapis.com/auth/analytics.edit` (write)
-- **Setup**: Create credentials in Google Cloud Console
+* **Type**: OAuth 2.0 or Service Account
+* **Scopes**: `https://www.googleapis.com/auth/analytics.readonly` (read), `https://www.googleapis.com/auth/analytics.edit` (write)
+* **Setup**: Create credentials in Google Cloud Console
 
 ## Common Agent Operations
 
@@ -89,38 +89,40 @@ POST https://www.google-analytics.com/mp/collect?measurement_id={measurement_id}
 ## Key Dimensions & Metrics
 
 ### Common Dimensions
-- `sessionSource` - Traffic source
-- `sessionMedium` - Traffic medium
-- `sessionCampaignName` - Campaign name
-- `landingPage` - Entry page
-- `deviceCategory` - Device type
-- `country` - User country
+
+* `sessionSource` - Traffic source
+* `sessionMedium` - Traffic medium
+* `sessionCampaignName` - Campaign name
+* `landingPage` - Entry page
+* `deviceCategory` - Device type
+* `country` - User country
 
 ### Common Metrics
-- `sessions` - Total sessions
-- `activeUsers` - Active users
-- `newUsers` - New users
-- `conversions` - Conversion events
-- `engagementRate` - Engaged sessions rate
-- `averageSessionDuration` - Session duration
+
+* `sessions` - Total sessions
+* `activeUsers` - Active users
+* `newUsers` - New users
+* `conversions` - Conversion events
+* `engagementRate` - Engaged sessions rate
+* `averageSessionDuration` - Session duration
 
 ## When to Use
 
-- Tracking website traffic and user behavior
-- Measuring marketing campaign performance
-- Setting up conversion tracking
-- Analyzing user journeys and funnels
-- Attribution modeling
+* Tracking website traffic and user behavior
+* Measuring marketing campaign performance
+* Setting up conversion tracking
+* Analyzing user journeys and funnels
+* Attribution modeling
 
 ## Rate Limits
 
-- Data API: 10 requests per second per property
-- Admin API: Varies by endpoint
-- Measurement Protocol: 1M hits/day for free tier
+* Data API: 10 requests per second per property
+* Admin API: Varies by endpoint
+* Measurement Protocol: 1M hits/day for free tier
 
 ## Relevant Skills
 
-- analytics-tracking
-- ab-test-setup
-- seo-audit
-- page-cro
+* analytics-tracking
+* ab-test-setup
+* seo-audit
+* page-cro

@@ -2,7 +2,7 @@
 
 Reusable content block patterns optimized for answer engines and AI citation.
 
----
+***
 
 ## Answer Engine Optimization (AEO) Patterns
 
@@ -10,7 +10,7 @@ These patterns help content appear in featured snippets, AI Overviews, voice sea
 
 ### Definition Block
 
-Use for "What is [X]?" queries.
+Use for "What is \[X]?" queries.
 
 ```markdown
 ## What is [Term]?
@@ -19,6 +19,7 @@ Use for "What is [X]?" queries.
 ```
 
 **Example:**
+
 ```markdown
 ## What is Answer Engine Optimization?
 
@@ -27,7 +28,7 @@ Answer Engine Optimization (AEO) is the practice of structuring content so AI-po
 
 ### Step-by-Step Block
 
-Use for "How to [X]" queries. Optimal for list snippets.
+Use for "How to \[X]" queries. Optimal for list snippets.
 
 ```markdown
 ## How to [Action/Goal]
@@ -44,6 +45,7 @@ Use for "How to [X]" queries. Optimal for list snippets.
 ```
 
 **Example:**
+
 ```markdown
 ## How to Optimize Content for Featured Snippets
 
@@ -60,7 +62,7 @@ Most featured snippets appear within 2-4 weeks of publishing well-optimized cont
 
 ### Comparison Table Block
 
-Use for "[X] vs [Y]" queries. Optimal for table snippets.
+Use for "\[X] vs \[Y]" queries. Optimal for table snippets.
 
 ```markdown
 ## [Option A] vs [Option B]: [Brief Descriptor]
@@ -78,7 +80,7 @@ Use for "[X] vs [Y]" queries. Optimal for table snippets.
 
 ### Pros and Cons Block
 
-Use for evaluation queries: "Is [X] worth it?", "Should I [X]?"
+Use for evaluation queries: "Is \[X] worth it?", "Should I \[X]?"
 
 ```markdown
 ## Advantages and Disadvantages of [Topic]
@@ -121,14 +123,15 @@ Use for topic pages with multiple common questions. Essential for FAQ schema.
 ```
 
 **Tips for FAQ questions:**
-- Use natural question phrasing ("How do I..." not "How does one...")
-- Include question words: what, how, why, when, where, who, which
-- Match "People Also Ask" queries from search results
-- Keep answers between 50-100 words
+
+* Use natural question phrasing ("How do I..." not "How does one...")
+* Include question words: what, how, why, when, where, who, which
+* Match "People Also Ask" queries from search results
+* Keep answers between 50-100 words
 
 ### Listicle Block
 
-Use for "Best [X]", "Top [X]", "[Number] ways to [X]" queries.
+Use for "Best \[X]", "Top \[X]", "\[Number] ways to \[X]" queries.
 
 ```markdown
 ## [Number] Best [Items] for [Goal/Purpose]
@@ -148,7 +151,7 @@ Use for "Best [X]", "Top [X]", "[Number] ways to [X]" queries.
 [Why it's included in 2-3 sentences with specific benefits]
 ```
 
----
+***
 
 ## Generative Engine Optimization (GEO) Patterns
 
@@ -163,6 +166,7 @@ Statistics increase AI citation rates by 15-30%. Always include sources.
 ```
 
 **Example:**
+
 ```markdown
 Mobile optimization is no longer optional for SEO success. According to Google's 2024 Core Web Vitals report, 70% of web traffic now comes from mobile devices, and pages failing mobile usability standards see 24% higher bounce rates. This makes mobile-first indexing a critical ranking factor.
 ```
@@ -176,6 +180,7 @@ Named expert attribution adds credibility and increases citation likelihood.
 ```
 
 **Example:**
+
 ```markdown
 "The shift from keyword-driven search to intent-driven discovery represents the most significant change in SEO since mobile-first indexing," says Rand Fishkin, Co-founder of SparkToro. This perspective highlights why content strategies must evolve beyond traditional keyword optimization.
 ```
@@ -189,6 +194,7 @@ Structure claims for easy AI extraction with clear attribution.
 ```
 
 **Example:**
+
 ```markdown
 E-E-A-T is the cornerstone of Google's content quality evaluation. Google's Search Quality Rater Guidelines confirm that trust is the most critical factor, stating that "untrustworthy pages have low E-E-A-T no matter how experienced, expert, or authoritative they may seem." This means content creators must prioritize transparency and accuracy above all other optimization tactics.
 ```
@@ -202,6 +208,7 @@ Create quotable, standalone statements that AI can extract directly.
 ```
 
 **Example:**
+
 ```markdown
 **Ideal blog post length for SEO**: The optimal length for SEO blog posts is 1,500-2,500 words for competitive topics. This range allows comprehensive topic coverage while maintaining reader engagement. HubSpot research shows long-form content earns 77% more backlinks than short articles, directly impacting search rankings.
 ```
@@ -221,59 +228,66 @@ Evidence supporting this includes:
 [Concluding statement connecting evidence to actionable insight].
 ```
 
----
+***
 
 ## Domain-Specific GEO Tactics
 
 Different content domains benefit from different authority signals.
 
 ### Technology Content
-- Emphasize technical precision and correct terminology
-- Include version numbers and dates for software/tools
-- Reference official documentation
-- Add code examples where relevant
+
+* Emphasize technical precision and correct terminology
+* Include version numbers and dates for software/tools
+* Reference official documentation
+* Add code examples where relevant
 
 ### Health/Medical Content
-- Cite peer-reviewed studies with publication details
-- Include expert credentials (MD, RN, etc.)
-- Note study limitations and context
-- Add "last reviewed" dates
+
+* Cite peer-reviewed studies with publication details
+* Include expert credentials (MD, RN, etc.)
+* Note study limitations and context
+* Add "last reviewed" dates
 
 ### Financial Content
-- Reference regulatory bodies (SEC, FTC, etc.)
-- Include specific numbers with timeframes
-- Note that information is educational, not advice
-- Cite recognized financial institutions
+
+* Reference regulatory bodies (SEC, FTC, etc.)
+* Include specific numbers with timeframes
+* Note that information is educational, not advice
+* Cite recognized financial institutions
 
 ### Legal Content
-- Cite specific laws, statutes, and regulations
-- Reference jurisdiction clearly
-- Include professional disclaimers
-- Note when professional consultation is advised
+
+* Cite specific laws, statutes, and regulations
+* Reference jurisdiction clearly
+* Include professional disclaimers
+* Note when professional consultation is advised
 
 ### Business/Marketing Content
-- Include case studies with measurable results
-- Reference industry research and reports
-- Add percentage changes and timeframes
-- Quote recognized thought leaders
 
----
+* Include case studies with measurable results
+* Reference industry research and reports
+* Add percentage changes and timeframes
+* Quote recognized thought leaders
+
+***
 
 ## Voice Search Optimization
 
 Voice queries are conversational and question-based. Optimize for these patterns:
 
 ### Question Formats for Voice
-- "What is..."
-- "How do I..."
-- "Where can I find..."
-- "Why does..."
-- "When should I..."
-- "Who is..."
+
+* "What is..."
+* "How do I..."
+* "Where can I find..."
+* "Why does..."
+* "When should I..."
+* "Who is..."
 
 ### Voice-Optimized Answer Structure
-- Lead with direct answer (under 30 words ideal)
-- Use natural, conversational language
-- Avoid jargon unless targeting expert audience
-- Include local context where relevant
-- Structure for single spoken response
+
+* Lead with direct answer (under 30 words ideal)
+* Use natural, conversational language
+* Avoid jargon unless targeting expert audience
+* Include local context where relevant
+* Structure for single spoken response

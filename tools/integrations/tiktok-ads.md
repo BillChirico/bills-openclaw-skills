@@ -13,9 +13,9 @@ Advertising platform for TikTok's short-form video audience.
 
 ## Authentication
 
-- **Type**: Access Token
-- **Header**: `Access-Token: {access_token}`
-- **Setup**: Create app in TikTok for Business, get access token
+* **Type**: Access Token
+* **Header**: `Access-Token: {access_token}`
+* **Setup**: Create app in TikTok for Business, get access token
 
 ## Common Agent Operations
 
@@ -116,46 +116,49 @@ Access-Token: {access_token}
 
 ## Campaign Objectives
 
-- `REACH` - Brand awareness
-- `TRAFFIC` - Website traffic
-- `VIDEO_VIEWS` - Video views
-- `LEAD_GENERATION` - Lead forms
-- `CONVERSIONS` - Website conversions
-- `APP_PROMOTION` - App installs
+* `REACH` - Brand awareness
+* `TRAFFIC` - Website traffic
+* `VIDEO_VIEWS` - Video views
+* `LEAD_GENERATION` - Lead forms
+* `CONVERSIONS` - Website conversions
+* `APP_PROMOTION` - App installs
 
 ## Targeting Options
 
 ### Demographics
-- Age ranges
-- Gender
-- Languages
-- Locations
+
+* Age ranges
+* Gender
+* Languages
+* Locations
 
 ### Interests & Behavior
-- Interest categories
-- Video interactions
-- Creator interactions
-- Hashtag interactions
+
+* Interest categories
+* Video interactions
+* Creator interactions
+* Hashtag interactions
 
 ### Custom Audiences
-- Customer file uploads
-- Website visitors (pixel)
-- App activity
-- Engagement audiences
+
+* Customer file uploads
+* Website visitors (pixel)
+* App activity
+* Engagement audiences
 
 ## When to Use
 
-- Reaching younger demographics (18-34)
-- Video-first advertising
-- Viral/creative campaigns
-- App promotion
+* Reaching younger demographics (18-34)
+* Video-first advertising
+* Viral/creative campaigns
+* App promotion
 
 ## Rate Limits
 
-- 10 requests/second
-- 100,000 requests/day
+* 10 requests/second
+* 100,000 requests/day
 
 ## Relevant Skills
 
-- paid-ads
-- analytics-tracking
+* paid-ads
+* analytics-tracking

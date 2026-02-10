@@ -1,7 +1,8 @@
----
+***
+
 name: analytics-tracking
 description: When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," or "tracking plan." For A/B test measurement, see ab-test-setup.
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Analytics Tracking
 
@@ -18,31 +19,35 @@ Before implementing tracking, understand:
 2. **Current State** - What tracking exists? What tools are in use?
 3. **Technical Context** - What's the tech stack? Any privacy/compliance requirements?
 
----
+***
 
 ## Core Principles
 
 ### 1. Track for Decisions, Not Data
-- Every event should inform a decision
-- Avoid vanity metrics
-- Quality > quantity of events
+
+* Every event should inform a decision
+* Avoid vanity metrics
+* Quality > quantity of events
 
 ### 2. Start with the Questions
-- What do you need to know?
-- What actions will you take based on this data?
-- Work backwards to what you need to track
+
+* What do you need to know?
+* What actions will you take based on this data?
+* Work backwards to what you need to track
 
 ### 3. Name Things Consistently
-- Naming conventions matter
-- Establish patterns before implementing
-- Document everything
+
+* Naming conventions matter
+* Establish patterns before implementing
+* Document everything
 
 ### 4. Maintain Data Quality
-- Validate implementation
-- Monitor for issues
-- Clean data > more data
 
----
+* Validate implementation
+* Monitor for issues
+* Clean data > more data
+
+***
 
 ## Tracking Plan Framework
 
@@ -64,7 +69,7 @@ Event Name | Category | Properties | Trigger | Notes
 
 **For comprehensive event lists**: See [references/event-library.md](references/event-library.md)
 
----
+***
 
 ## Event Naming Conventions
 
@@ -79,13 +84,14 @@ checkout_payment_completed
 ```
 
 ### Best Practices
-- Lowercase with underscores
-- Be specific: `cta_hero_clicked` vs. `button_clicked`
-- Include context in properties, not event name
-- Avoid spaces and special characters
-- Document decisions
 
----
+* Lowercase with underscores
+* Be specific: `cta_hero_clicked` vs. `button_clicked`
+* Include context in properties, not event name
+* Avoid spaces and special characters
+* Document decisions
+
+***
 
 ## Essential Events
 
@@ -93,23 +99,23 @@ checkout_payment_completed
 
 | Event | Properties |
 |-------|------------|
-| cta_clicked | button_text, location |
-| form_submitted | form_type |
-| signup_completed | method, source |
-| demo_requested | - |
+| cta\_clicked | button\_text, location |
+| form\_submitted | form\_type |
+| signup\_completed | method, source |
+| demo\_requested | - |
 
 ### Product/App
 
 | Event | Properties |
 |-------|------------|
-| onboarding_step_completed | step_number, step_name |
-| feature_used | feature_name |
-| purchase_completed | plan, value |
-| subscription_cancelled | reason |
+| onboarding\_step\_completed | step\_number, step\_name |
+| feature\_used | feature\_name |
+| purchase\_completed | plan, value |
+| subscription\_cancelled | reason |
 
 **For full event library by business type**: See [references/event-library.md](references/event-library.md)
 
----
+***
 
 ## Event Properties
 
@@ -117,18 +123,19 @@ checkout_payment_completed
 
 | Category | Properties |
 |----------|------------|
-| Page | page_title, page_location, page_referrer |
-| User | user_id, user_type, account_id, plan_type |
+| Page | page\_title, page\_location, page\_referrer |
+| User | user\_id, user\_type, account\_id, plan\_type |
 | Campaign | source, medium, campaign, content, term |
-| Product | product_id, product_name, category, price |
+| Product | product\_id, product\_name, category, price |
 
 ### Best Practices
-- Use consistent property names
-- Include relevant context
-- Don't duplicate automatic properties
-- Avoid PII in properties
 
----
+* Use consistent property names
+* Include relevant context
+* Don't duplicate automatic properties
+* Avoid PII in properties
+
+***
 
 ## GA4 Implementation
 
@@ -151,7 +158,7 @@ gtag('event', 'signup_completed', {
 
 **For detailed GA4 implementation**: See [references/ga4-implementation.md](references/ga4-implementation.md)
 
----
+***
 
 ## Google Tag Manager
 
@@ -175,7 +182,7 @@ dataLayer.push({
 
 **For detailed GTM implementation**: See [references/gtm-implementation.md](references/gtm-implementation.md)
 
----
+***
 
 ## UTM Parameter Strategy
 
@@ -183,19 +190,20 @@ dataLayer.push({
 
 | Parameter | Purpose | Example |
 |-----------|---------|---------|
-| utm_source | Traffic source | google, newsletter |
-| utm_medium | Marketing medium | cpc, email, social |
-| utm_campaign | Campaign name | spring_sale |
-| utm_content | Differentiate versions | hero_cta |
-| utm_term | Paid search keywords | running+shoes |
+| utm\_source | Traffic source | google, newsletter |
+| utm\_medium | Marketing medium | cpc, email, social |
+| utm\_campaign | Campaign name | spring\_sale |
+| utm\_content | Differentiate versions | hero\_cta |
+| utm\_term | Paid search keywords | running+shoes |
 
 ### Naming Conventions
-- Lowercase everything
-- Use underscores or hyphens consistently
-- Be specific but concise: `blog_footer_cta`, not `cta1`
-- Document all UTMs in a spreadsheet
 
----
+* Lowercase everything
+* Use underscores or hyphens consistently
+* Be specific but concise: `blog_footer_cta`, not `cta1`
+* Document all UTMs in a spreadsheet
+
+***
 
 ## Debugging and Validation
 
@@ -209,12 +217,12 @@ dataLayer.push({
 
 ### Validation Checklist
 
-- [ ] Events firing on correct triggers
-- [ ] Property values populating correctly
-- [ ] No duplicate events
-- [ ] Works across browsers and mobile
-- [ ] Conversions recorded correctly
-- [ ] No PII leaking
+* \[ ] Events firing on correct triggers
+* \[ ] Property values populating correctly
+* \[ ] No duplicate events
+* \[ ] Works across browsers and mobile
+* \[ ] Conversions recorded correctly
+* \[ ] No PII leaking
 
 ### Common Issues
 
@@ -224,23 +232,25 @@ dataLayer.push({
 | Wrong values | Variable path, data layer structure |
 | Duplicate events | Multiple containers, trigger firing twice |
 
----
+***
 
 ## Privacy and Compliance
 
 ### Considerations
-- Cookie consent required in EU/UK/CA
-- No PII in analytics properties
-- Data retention settings
-- User deletion capabilities
+
+* Cookie consent required in EU/UK/CA
+* No PII in analytics properties
+* Data retention settings
+* User deletion capabilities
 
 ### Implementation
-- Use consent mode (wait for consent)
-- IP anonymization
-- Only collect what you need
-- Integrate with consent management platform
 
----
+* Use consent mode (wait for consent)
+* IP anonymization
+* Only collect what you need
+* Integrate with consent management platform
+
+***
 
 ## Output Format
 
@@ -272,7 +282,7 @@ dataLayer.push({
 | Signup | signup_completed | Once per session |
 ```
 
----
+***
 
 ## Task-Specific Questions
 
@@ -283,7 +293,7 @@ dataLayer.push({
 5. Are there privacy/consent requirements?
 6. What's already tracked?
 
----
+***
 
 ## Tool Integrations
 
@@ -297,10 +307,10 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key analy
 | **PostHog** | Open-source analytics, session replay | - | [posthog.md](../../tools/integrations/posthog.md) |
 | **Segment** | Customer data platform, routing | - | [segment.md](../../tools/integrations/segment.md) |
 
----
+***
 
 ## Related Skills
 
-- **ab-test-setup**: For experiment tracking
-- **seo-audit**: For organic traffic analysis
-- **page-cro**: For conversion optimization (uses this data)
+* **ab-test-setup**: For experiment tracking
+* **seo-audit**: For organic traffic analysis
+* **page-cro**: For conversion optimization (uses this data)
