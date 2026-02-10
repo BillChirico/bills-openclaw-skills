@@ -1,39 +1,64 @@
 # Bill's OpenClaw Skills
 
-Marketing skills converted from [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills).
+Custom [OpenClaw](https://github.com/openclaw/openclaw) skills for marketing, SEO, CRO, and growth.
+
+## Structure
+
+```
+skills/          # OpenClaw skill directories (SKILL.md + references)
+tools/           # Integration guides for marketing platforms
+├── REGISTRY.md  # Tool index with capabilities matrix
+└── integrations/  # Per-platform setup & usage guides
+```
+
+## Skills
 
 | Skill | Description |
 |-------|-------------|
-| ab-test-setup | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test,"... |
-| analytics-tracking | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "se... |
-| competitor-alternatives | "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when th... |
-| content-strategy | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also ... |
-| copy-editing | "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this cop... |
-| copywriting | When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pri... |
-| email-sequence | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email pro... |
-| form-cro | When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms... |
-| free-tool-strategy | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or br... |
-| launch-strategy | "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mention... |
-| marketing-ideas | "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the u... |
-| marketing-psychology | "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when... |
-| onboarding-cro | When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also us... |
-| page-cro | When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing ... |
-| paid-ads | "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X,... |
-| paywall-upgrade-cro | When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use wh... |
-| popup-cro | When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also ... |
-| pricing-strategy | "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions '... |
-| product-marketing-context | "When the user wants to create or update their product marketing context document. Also use when the user mentions 'prod... |
-| programmatic-seo | When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "progr... |
-| referral-program | "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. A... |
-| schema-markup | When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user men... |
-| seo-audit | When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit,"... |
-| signup-flow-cro | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the use... |
-| social-content | "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, T... |
+| [ab-test-setup](skills/ab-test-setup) | Plan, design, and implement A/B tests and experiments |
+| [analytics-tracking](skills/analytics-tracking) | Set up, improve, or audit analytics tracking and measurement |
+| [competitor-alternatives](skills/competitor-alternatives) | Create competitor comparison and alternative pages for SEO |
+| [content-strategy](skills/content-strategy) | Plan content strategy, topics, and editorial calendars |
+| [copy-editing](skills/copy-editing) | Edit, review, and improve existing marketing copy |
+| [copywriting](skills/copywriting) | Write or rewrite marketing copy for any page |
+| [email-sequence](skills/email-sequence) | Create or optimize email sequences and drip campaigns |
+| [form-cro](skills/form-cro) | Optimize lead capture, contact, and checkout forms |
+| [free-tool-strategy](skills/free-tool-strategy) | Plan and build free tools for lead gen and SEO |
+| [launch-strategy](skills/launch-strategy) | Plan product launches, PH launches, and announcements |
+| [marketing-ideas](skills/marketing-ideas) | Generate marketing ideas and growth strategies |
+| [marketing-psychology](skills/marketing-psychology) | Apply behavioral science and psychology to marketing |
+| [onboarding-cro](skills/onboarding-cro) | Optimize post-signup onboarding and activation |
+| [page-cro](skills/page-cro) | Optimize conversions on marketing and landing pages |
+| [paid-ads](skills/paid-ads) | Run paid ad campaigns on Google, Meta, LinkedIn, X |
+| [paywall-upgrade-cro](skills/paywall-upgrade-cro) | Optimize in-app paywalls, upgrade screens, and upsells |
+| [popup-cro](skills/popup-cro) | Create and optimize popups, modals, and banners |
+| [pricing-strategy](skills/pricing-strategy) | Pricing decisions, packaging, and monetization |
+| [product-marketing-context](skills/product-marketing-context) | Create product marketing context documents |
+| [programmatic-seo](skills/programmatic-seo) | Create SEO pages at scale with templates and data |
+| [referral-program](skills/referral-program) | Build and optimize referral and affiliate programs |
+| [schema-markup](skills/schema-markup) | Add and optimize schema markup and structured data |
+| [seo-audit](skills/seo-audit) | Audit and diagnose SEO issues |
+| [signup-flow-cro](skills/signup-flow-cro) | Optimize signup, registration, and trial activation |
+| [social-content](skills/social-content) | Create and optimize social media content |
 
-## Tools
+## Tools & Integrations
 
-See the `tools/` directory for integration references.
+See [`tools/REGISTRY.md`](tools/REGISTRY.md) for a full index of 29 marketing platform integrations (GA4, Stripe, HubSpot, Shopify, etc.) with API/MCP/CLI/SDK availability.
+
+## Installation
+
+```bash
+# Copy a skill into your OpenClaw workspace
+cp -r skills/launch-strategy/ ~/.openclaw/workspace/skills/
+
+# Or symlink the whole skills directory
+ln -s /path/to/bills-openclaw-skills/skills/* ~/.openclaw/workspace/skills/
+```
 
 ## Credits
 
 Marketing skills originally created by [Corey Haines](https://github.com/coreyhaines31) in [marketingskills](https://github.com/coreyhaines31/marketingskills). Converted to OpenClaw format with minor adaptations. All credit for the marketing knowledge, frameworks, and strategies goes to him. 🙏
+
+## License
+
+MIT
