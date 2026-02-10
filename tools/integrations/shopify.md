@@ -13,9 +13,9 @@ E-commerce platform for online stores and retail.
 
 ## Authentication
 
-* **Type**: Access Token (Custom App or OAuth)
-* **Header**: `X-Shopify-Access-Token: {access_token}`
-* **Base URL**: `https://{shop}.myshopify.com/admin/api/2024-01/`
+- **Type**: Access Token (Custom App or OAuth)
+- **Header**: `X-Shopify-Access-Token: {access_token}`
+- **Base URL**: `https://{shop}.myshopify.com/admin/api/2024-01/`
 
 ## Common Agent Operations
 
@@ -157,20 +157,20 @@ shopify app create node
 
 ## When to Use
 
-* E-commerce store management
-* Product catalog operations
-* Order processing
-* Customer data management
-* Inventory tracking
+- E-commerce store management
+- Product catalog operations
+- Order processing
+- Customer data management
+- Inventory tracking
 
 ## Rate Limits
 
-* REST: 2 requests/second
-* GraphQL: 50 points/second
-* Bulk operations available
+- REST: 2 requests/second
+- GraphQL: 50 points/second
+- Bulk operations available
 
 ## Relevant Skills
 
-* analytics-tracking
-* email-sequence
-* referral-program
+- analytics-tracking
+- email-sequence
+- referral-program

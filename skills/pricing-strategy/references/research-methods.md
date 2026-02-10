@@ -17,20 +17,20 @@ Ask each respondent:
 
 1. Plot cumulative distributions for each question
 2. Find the intersections:
-   * **Point of Marginal Cheapness (PMC):** "Too cheap" crosses "Expensive"
-   * **Point of Marginal Expensiveness (PME):** "Too expensive" crosses "Cheap"
-   * **Optimal Price Point (OPP):** "Too cheap" crosses "Too expensive"
-   * **Indifference Price Point (IDP):** "Expensive" crosses "Cheap"
+   - **Point of Marginal Cheapness (PMC):** "Too cheap" crosses "Expensive"
+   - **Point of Marginal Expensiveness (PME):** "Too expensive" crosses "Cheap"
+   - **Optimal Price Point (OPP):** "Too cheap" crosses "Too expensive"
+   - **Indifference Price Point (IDP):** "Expensive" crosses "Cheap"
 
 **The acceptable price range:** PMC to PME
 **Optimal pricing zone:** Between OPP and IDP
 
 ### Survey Tips
 
-* Need 100-300 respondents for reliable data
-* Segment by persona (different willingness to pay)
-* Use realistic product descriptions
-* Consider adding purchase intent questions
+- Need 100-300 respondents for reliable data
+- Segment by persona (different willingness to pay)
+- Use realistic product descriptions
+- Consider adding purchase intent questions
 
 ### Sample Output
 
@@ -78,9 +78,9 @@ Which feature is LEAST important to you?
 
 Features are ranked by utility score:
 
-* High utility = Must-have (include in base tier)
-* Medium utility = Differentiator (use for tier separation)
-* Low utility = Nice-to-have (premium tier or cut)
+- High utility = Must-have (include in base tier)
+- Medium utility = Differentiator (use for tier separation)
+- Low utility = Nice-to-have (premium tier or cut)
 
 ### Using MaxDiff for Packaging
 
@@ -115,21 +115,21 @@ Statistical analysis reveals price sensitivity per feature
 
 Track how customers use your product:
 
-* Feature usage frequency
-* Volume metrics (users, records, API calls)
-* Outcome metrics (revenue generated, time saved)
+- Feature usage frequency
+- Volume metrics (users, records, API calls)
+- Outcome metrics (revenue generated, time saved)
 
 ### 2. Correlate with customer success
 
-* Which usage patterns predict retention?
-* Which usage patterns predict expansion?
-* Which customers pay the most, and why?
+- Which usage patterns predict retention?
+- Which usage patterns predict expansion?
+- Which customers pay the most, and why?
 
 ### 3. Identify value thresholds
 
-* At what usage level do customers "get it"?
-* At what usage level do they expand?
-* At what usage level should price increase?
+- At what usage level do customers "get it"?
+- At what usage level do they expand?
+- At what usage level should price increase?
 
 ### Example Analysis
 

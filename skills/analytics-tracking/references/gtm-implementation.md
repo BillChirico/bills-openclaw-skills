@@ -10,12 +10,12 @@ Tags are code snippets that execute when triggered.
 
 **Common tag types:**
 
-* GA4 Configuration (base setup)
-* GA4 Event (custom events)
-* Google Ads Conversion
-* Facebook Pixel
-* LinkedIn Insight Tag
-* Custom HTML (for other pixels)
+- GA4 Configuration (base setup)
+- GA4 Event (custom events)
+- Google Ads Conversion
+- Facebook Pixel
+- LinkedIn Insight Tag
+- Custom HTML (for other pixels)
 
 ### Triggers
 
@@ -23,17 +23,17 @@ Triggers define when tags fire.
 
 **Built-in triggers:**
 
-* Page View: All Pages, DOM Ready, Window Loaded
-* Click: All Elements, Just Links
-* Form Submission
-* Scroll Depth
-* Timer
-* Element Visibility
+- Page View: All Pages, DOM Ready, Window Loaded
+- Click: All Elements, Just Links
+- Form Submission
+- Scroll Depth
+- Timer
+- Element Visibility
 
 **Custom triggers:**
 
-* Custom Event (from dataLayer)
-* Trigger Groups (multiple conditions)
+- Custom Event (from dataLayer)
+- Trigger Groups (multiple conditions)
 
 ### Variables
 
@@ -41,18 +41,18 @@ Variables capture dynamic values.
 
 **Built-in (enable as needed):**
 
-* Click Text, Click URL, Click ID, Click Classes
-* Page Path, Page URL, Page Hostname
-* Referrer
-* Form Element, Form ID
+- Click Text, Click URL, Click ID, Click Classes
+- Page Path, Page URL, Page Hostname
+- Referrer
+- Form Element, Form ID
 
 **User-defined:**
 
-* Data Layer variables
-* JavaScript variables
-* Lookup tables
-* RegEx tables
-* Constants
+- Data Layer variables
+- JavaScript variables
+- Lookup tables
+- RegEx tables
+- Constants
 
 ***
 
@@ -201,9 +201,9 @@ dataLayer.push({
 
 **Settings:**
 
-* Measurement ID: G-XXXXXXXX
-* Send page view: Checked (for pageviews)
-* User Properties: Add any user-level dimensions
+- Measurement ID: G-XXXXXXXX
+- Send page view: Checked (for pageviews)
+- User Properties: Add any user-level dimensions
 
 **Trigger:** All Pages
 
@@ -213,9 +213,9 @@ dataLayer.push({
 
 **Settings:**
 
-* Configuration Tag: Select your config tag
-* Event Name: {{DL - event\_name}} or hardcode
-* Event Parameters: Add parameters from dataLayer
+- Configuration Tag: Select your config tag
+- Event Name: {{DL - event\_name}} or hardcode
+- Event Parameters: Add parameters from dataLayer
 
 **Trigger:** Custom Event with event name match
 
@@ -266,30 +266,30 @@ dataLayer.push({
 
 **What to check:**
 
-* Tags fired on this event
-* Tags not fired (and why)
-* Variables and their values
-* Data layer contents
+- Tags fired on this event
+- Tags not fired (and why)
+- Variables and their values
+- Data layer contents
 
 ### Debug Tips
 
 **Tag not firing:**
 
-* Check trigger conditions
-* Verify data layer push
-* Check tag sequencing
+- Check trigger conditions
+- Verify data layer push
+- Check tag sequencing
 
 **Wrong variable value:**
 
-* Check data layer structure
-* Verify variable path (nested objects)
-* Check timing (data may not exist yet)
+- Check data layer structure
+- Verify variable path (nested objects)
+- Check timing (data may not exist yet)
 
 **Multiple firings:**
 
-* Check trigger uniqueness
-* Look for duplicate tags
-* Check tag firing options
+- Check trigger uniqueness
+- Look for duplicate tags
+- Check tag firing options
 
 ***
 
@@ -299,18 +299,18 @@ dataLayer.push({
 
 Use workspaces for team collaboration:
 
-* Default workspace for production
-* Separate workspaces for large changes
-* Merge when ready
+- Default workspace for production
+- Separate workspaces for large changes
+- Merge when ready
 
 ### Version Management
 
 **Best practices:**
 
-* Name every version descriptively
-* Add notes explaining changes
-* Review changes before publish
-* Keep production version noted
+- Name every version descriptively
+- Add notes explaining changes
+- Review changes before publish
+- Keep production version noted
 
 **Version notes example:**
 
@@ -361,17 +361,17 @@ Tag Configuration > Advanced Settings > Tag Sequencing
 
 **Use cases:**
 
-* Config tag before event tags
-* Pixel initialization before tracking
-* Cleanup after conversion
+- Config tag before event tags
+- Pixel initialization before tracking
+- Cleanup after conversion
 
 ### Exception Handling
 
 **Trigger exceptions** - Prevent tag from firing:
 
-* Exclude certain pages
-* Exclude internal traffic
-* Exclude during testing
+- Exclude certain pages
+- Exclude internal traffic
+- Exclude during testing
 
 ### Custom JavaScript Variables
 

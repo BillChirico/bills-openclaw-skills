@@ -17,9 +17,9 @@ Reference for calculating sample sizes and test duration.
 
 **MDE (Minimum Detectable Effect)**: The smallest improvement you care about detecting. Set this based on:
 
-* Business impact (is a 5% lift meaningful?)
-* Implementation cost (worth the effort?)
-* Realistic expectations (what have past tests shown?)
+- Business impact (is a 5% lift meaningful?)
+- Implementation cost (worth the effort?)
+- Realistic expectations (what have past tests shown?)
 
 **Statistical significance (95%)**: Means there's less than 5% chance the observed difference is due to random chance.
 
@@ -93,41 +93,41 @@ Duration (days) = (Sample per variant × Number of variants) / (Daily traffic ×
 
 **Scenario 1: High-traffic page**
 
-* Need: 10,000 per variant (2 variants = 20,000 total)
-* Daily traffic: 5,000 visitors
-* 100% exposed to test
-* Duration: 20,000 / 5,000 = **4 days**
+- Need: 10,000 per variant (2 variants = 20,000 total)
+- Daily traffic: 5,000 visitors
+- 100% exposed to test
+- Duration: 20,000 / 5,000 = **4 days**
 
 **Scenario 2: Medium-traffic page**
 
-* Need: 30,000 per variant (60,000 total)
-* Daily traffic: 2,000 visitors
-* 100% exposed
-* Duration: 60,000 / 2,000 = **30 days**
+- Need: 30,000 per variant (60,000 total)
+- Daily traffic: 2,000 visitors
+- 100% exposed
+- Duration: 60,000 / 2,000 = **30 days**
 
 **Scenario 3: Low-traffic with partial exposure**
 
-* Need: 15,000 per variant (30,000 total)
-* Daily traffic: 500 visitors
-* 50% exposed to test
-* Effective daily: 250
-* Duration: 30,000 / 250 = **120 days** (too long!)
+- Need: 15,000 per variant (30,000 total)
+- Daily traffic: 500 visitors
+- 50% exposed to test
+- Effective daily: 250
+- Duration: 30,000 / 250 = **120 days** (too long!)
 
 ### Minimum Duration Rules
 
 Even with sufficient sample size, run tests for at least:
 
-* **1 full week**: To capture day-of-week variation
-* **2 business cycles**: If B2B (weekday vs. weekend patterns)
-* **Through paydays**: If e-commerce (beginning/end of month)
+- **1 full week**: To capture day-of-week variation
+- **2 business cycles**: If B2B (weekday vs. weekend patterns)
+- **Through paydays**: If e-commerce (beginning/end of month)
 
 ### Maximum Duration Guidelines
 
 Avoid running tests longer than 4-8 weeks:
 
-* Novelty effects wear off
-* External factors intervene
-* Opportunity cost of other tests
+- Novelty effects wear off
+- External factors intervene
+- Opportunity cost of other tests
 
 ***
 
@@ -138,26 +138,26 @@ Avoid running tests longer than 4-8 weeks:
 **Evan Miller's Calculator**
 https://www.evanmiller.org/ab-testing/sample-size.html
 
-* Simple interface
-* Bookmark-worthy
+- Simple interface
+- Bookmark-worthy
 
 **Optimizely's Calculator**
 https://www.optimizely.com/sample-size-calculator/
 
-* Business-friendly language
-* Duration estimates
+- Business-friendly language
+- Duration estimates
 
 **AB Test Guide Calculator**
 https://www.abtestguide.com/calc/
 
-* Includes Bayesian option
-* Multiple test types
+- Includes Bayesian option
+- Multiple test types
 
 **VWO Duration Calculator**
 https://vwo.com/tools/ab-test-duration-calculator/
 
-* Duration-focused
-* Good for planning
+- Duration-focused
+- Good for planning
 
 ***
 
@@ -174,9 +174,9 @@ With more than 2 variants (A/B/n tests), you need more sample:
 
 **Why?** More comparisons increase chance of false positives. You're comparing:
 
-* A vs B
-* A vs C
-* B vs C (sometimes)
+- A vs B
+- A vs C
+- B vs C (sometimes)
 
 Apply Bonferroni correction or use tools that handle this automatically.
 
@@ -235,21 +235,21 @@ Statistical method that adjusts for multiple looks at data.
 
 ### When to use
 
-* High-risk changes
-* Need to stop bad variants early
-* Time-sensitive decisions
+- High-risk changes
+- Need to stop bad variants early
+- Time-sensitive decisions
 
 ### Tools that support it
 
-* Optimizely (Stats Accelerator)
-* VWO (SmartStats)
-* PostHog (Bayesian approach)
+- Optimizely (Stats Accelerator)
+- VWO (SmartStats)
+- PostHog (Bayesian approach)
 
 ### Tradeoff
 
-* More flexibility to stop early
-* Slightly larger sample size requirement
-* More complex analysis
+- More flexibility to stop early
+- Slightly larger sample size requirement
+- More complex analysis
 
 ***
 

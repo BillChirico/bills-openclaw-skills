@@ -13,9 +13,9 @@ Developer-friendly transactional email service with modern API.
 
 ## Authentication
 
-* **Type**: API Key
-* **Header**: `Authorization: Bearer {api_key}`
-* **Get key**: API Keys section in Resend dashboard
+- **Type**: API Key
+- **Header**: `Authorization: Bearer {api_key}`
+- **Get key**: API Keys section in Resend dashboard
 
 ## Common Agent Operations
 
@@ -129,13 +129,13 @@ await resend.emails.send({
 
 ## Email Statuses
 
-* `queued` - Email queued for delivery
-* `sent` - Email sent to recipient server
-* `delivered` - Email delivered
-* `opened` - Email opened (if tracking enabled)
-* `clicked` - Link clicked (if tracking enabled)
-* `bounced` - Email bounced
-* `complained` - Marked as spam
+- `queued` - Email queued for delivery
+- `sent` - Email sent to recipient server
+- `delivered` - Email delivered
+- `opened` - Email opened (if tracking enabled)
+- `clicked` - Link clicked (if tracking enabled)
+- `bounced` - Email bounced
+- `complained` - Marked as spam
 
 ## Webhook Events
 
@@ -150,19 +150,19 @@ await resend.emails.send({
 
 ## When to Use
 
-* Sending transactional emails
-* Welcome emails, password resets
-* Receipt and notification emails
-* Developer-friendly email integration
-* React-based email templates
+- Sending transactional emails
+- Welcome emails, password resets
+- Receipt and notification emails
+- Developer-friendly email integration
+- React-based email templates
 
 ## Rate Limits
 
-* Free: 100 emails/day, 3,000/month
-* Pro: 100 emails/second
-* Higher limits on scale plans
+- Free: 100 emails/day, 3,000/month
+- Pro: 100 emails/second
+- Higher limits on scale plans
 
 ## Relevant Skills
 
-* email-sequence
-* onboarding-cro
+- email-sequence
+- onboarding-cro

@@ -13,9 +13,9 @@ Product analytics platform for tracking user behavior and retention.
 
 ## Authentication
 
-* **Ingestion**: Project token (public)
-* **Query API**: Service Account (username:secret as Basic auth)
-* **Export**: API Secret
+- **Ingestion**: Project token (public)
+- **Query API**: Service Account (username:secret as Basic auth)
+- **Export**: API Secret
 
 ## Common Agent Operations
 
@@ -110,28 +110,28 @@ mixpanel.track('Feature Used', {
 
 ## Key Concepts
 
-* **Events** - User actions (signup, purchase, etc.)
-* **Properties** - Attributes on events
-* **User Profiles** - Persistent user data
-* **Cohorts** - Saved user segments
-* **Funnels** - Conversion sequences
-* **Retention** - User return patterns
+- **Events** - User actions (signup, purchase, etc.)
+- **Properties** - Attributes on events
+- **User Profiles** - Persistent user data
+- **Cohorts** - Saved user segments
+- **Funnels** - Conversion sequences
+- **Retention** - User return patterns
 
 ## When to Use
 
-* Tracking product usage events
-* Analyzing conversion funnels
-* Measuring feature adoption
-* Retention analysis
-* User segmentation
+- Tracking product usage events
+- Analyzing conversion funnels
+- Measuring feature adoption
+- Retention analysis
+- User segmentation
 
 ## Rate Limits
 
-* Ingestion: No hard limit (batch recommended)
-* Query API: Varies by plan
+- Ingestion: No hard limit (batch recommended)
+- Query API: Varies by plan
 
 ## Relevant Skills
 
-* analytics-tracking
-* ab-test-setup
-* onboarding-cro
+- analytics-tracking
+- ab-test-setup
+- onboarding-cro

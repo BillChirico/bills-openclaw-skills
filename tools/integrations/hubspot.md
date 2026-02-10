@@ -13,9 +13,9 @@ CRM platform for marketing, sales, and customer service.
 
 ## Authentication
 
-* **Type**: Private App Token or OAuth 2.0
-* **Header**: `Authorization: Bearer {access_token}`
-* **Get token**: Settings > Integrations > Private Apps
+- **Type**: Private App Token or OAuth 2.0
+- **Header**: `Authorization: Bearer {access_token}`
+- **Get token**: Settings > Integrations > Private Apps
 
 ## Common Agent Operations
 
@@ -136,45 +136,45 @@ hs accounts list
 
 ## Key Objects
 
-* **Contacts** - People in CRM
-* **Companies** - Organizations
-* **Deals** - Sales opportunities
-* **Tickets** - Support tickets
-* **Products** - Items for sale
-* **Line Items** - Deal line items
+- **Contacts** - People in CRM
+- **Companies** - Organizations
+- **Deals** - Sales opportunities
+- **Tickets** - Support tickets
+- **Products** - Items for sale
+- **Line Items** - Deal line items
 
 ## Common Properties
 
 ### Contact Properties
 
-* `email` - Email address
-* `firstname`, `lastname` - Name
-* `lifecyclestage` - Funnel stage
-* `hs_lead_status` - Lead status
+- `email` - Email address
+- `firstname`, `lastname` - Name
+- `lifecyclestage` - Funnel stage
+- `hs_lead_status` - Lead status
 
 ### Deal Properties
 
-* `dealname` - Deal name
-* `amount` - Deal value
-* `dealstage` - Pipeline stage
-* `closedate` - Expected close
+- `dealname` - Deal name
+- `amount` - Deal value
+- `dealstage` - Pipeline stage
+- `closedate` - Expected close
 
 ## When to Use
 
-* Managing contacts and leads
-* Tracking sales deals
-* Marketing automation
-* Form submissions
-* Email campaigns
-* Customer service tickets
+- Managing contacts and leads
+- Tracking sales deals
+- Marketing automation
+- Form submissions
+- Email campaigns
+- Customer service tickets
 
 ## Rate Limits
 
-* 100 requests per 10 seconds
-* Higher limits on enterprise plans
+- 100 requests per 10 seconds
+- Higher limits on enterprise plans
 
 ## Relevant Skills
 
-* email-sequence
-* analytics-tracking
-* referral-program
+- email-sequence
+- analytics-tracking
+- referral-program

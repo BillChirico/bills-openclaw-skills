@@ -16,19 +16,19 @@ If a product-marketing-context.md exists in the workspace, read it first for con
 Before designing a programmatic SEO strategy, understand:
 
 1. **Business Context**
-   * What's the product/service?
-   * Who is the target audience?
-   * What's the conversion goal for these pages?
+   - What's the product/service?
+   - Who is the target audience?
+   - What's the conversion goal for these pages?
 
 2. **Opportunity Assessment**
-   * What search patterns exist?
-   * How many potential pages?
-   * What's the search volume distribution?
+   - What search patterns exist?
+   - How many potential pages?
+   - What's the search volume distribution?
 
 3. **Competitive Landscape**
-   * Who ranks for these terms now?
-   * What do their pages look like?
-   * Can you realistically compete?
+   - Who ranks for these terms now?
+   - What do their pages look like?
+   - Can you realistically compete?
 
 ***
 
@@ -36,9 +36,9 @@ Before designing a programmatic SEO strategy, understand:
 
 ### 1. Unique Value Per Page
 
-* Every page must provide value specific to that page
-* Not just swapped variables in a template
-* Maximize unique content—the more differentiated, the better
+- Every page must provide value specific to that page
+- Not just swapped variables in a template
+- Maximize unique content—the more differentiated, the better
 
 ### 2. Proprietary Data Wins
 
@@ -54,8 +54,8 @@ Hierarchy of data defensibility:
 
 **Always use subfolders, not subdomains**:
 
-* Good: `yoursite.com/templates/resume/`
-* Bad: `templates.yoursite.com/resume/`
+- Good: `yoursite.com/templates/resume/`
+- Bad: `templates.yoursite.com/resume/`
 
 ### 4. Genuine Search Intent Match
 
@@ -67,10 +67,10 @@ Better to have 100 great pages than 10,000 thin ones.
 
 ### 6. Avoid Google Penalties
 
-* No doorway pages
-* No keyword stuffing
-* No duplicate content
-* Genuine utility for users
+- No doorway pages
+- No keyword stuffing
+- No duplicate content
+- Genuine utility for users
 
 ***
 
@@ -118,60 +118,60 @@ You can layer multiple playbooks (e.g., "Best coworking spaces in San Diego").
 
 **Identify the pattern:**
 
-* What's the repeating structure?
-* What are the variables?
-* How many unique combinations exist?
+- What's the repeating structure?
+- What are the variables?
+- How many unique combinations exist?
 
 **Validate demand:**
 
-* Aggregate search volume
-* Volume distribution (head vs. long tail)
-* Trend direction
+- Aggregate search volume
+- Volume distribution (head vs. long tail)
+- Trend direction
 
 ### 2. Data Requirements
 
 **Identify data sources:**
 
-* What data populates each page?
-* Is it first-party, scraped, licensed, public?
-* How is it updated?
+- What data populates each page?
+- Is it first-party, scraped, licensed, public?
+- How is it updated?
 
 ### 3. Template Design
 
 **Page structure:**
 
-* Header with target keyword
-* Unique intro (not just variables swapped)
-* Data-driven sections
-* Related pages / internal links
-* CTAs appropriate to intent
+- Header with target keyword
+- Unique intro (not just variables swapped)
+- Data-driven sections
+- Related pages / internal links
+- CTAs appropriate to intent
 
 **Ensuring uniqueness:**
 
-* Each page needs unique value
-* Conditional content based on data
-* Original insights/analysis per page
+- Each page needs unique value
+- Conditional content based on data
+- Original insights/analysis per page
 
 ### 4. Internal Linking Architecture
 
 **Hub and spoke model:**
 
-* Hub: Main category page
-* Spokes: Individual programmatic pages
-* Cross-links between related spokes
+- Hub: Main category page
+- Spokes: Individual programmatic pages
+- Cross-links between related spokes
 
 **Avoid orphan pages:**
 
-* Every page reachable from main site
-* XML sitemap for all pages
-* Breadcrumbs with structured data
+- Every page reachable from main site
+- XML sitemap for all pages
+- Breadcrumbs with structured data
 
 ### 5. Indexation Strategy
 
-* Prioritize high-volume patterns
-* Noindex very thin variations
-* Manage crawl budget thoughtfully
-* Separate sitemaps by page type
+- Prioritize high-volume patterns
+- Noindex very thin variations
+- Manage crawl budget thoughtfully
+- Separate sitemaps by page type
 
 ***
 
@@ -181,28 +181,28 @@ You can layer multiple playbooks (e.g., "Best coworking spaces in San Diego").
 
 **Content quality:**
 
-* \[ ] Each page provides unique value
-* \[ ] Answers search intent
-* \[ ] Readable and useful
+- \[ ] Each page provides unique value
+- \[ ] Answers search intent
+- \[ ] Readable and useful
 
 **Technical SEO:**
 
-* \[ ] Unique titles and meta descriptions
-* \[ ] Proper heading structure
-* \[ ] Schema markup implemented
-* \[ ] Page speed acceptable
+- \[ ] Unique titles and meta descriptions
+- \[ ] Proper heading structure
+- \[ ] Schema markup implemented
+- \[ ] Page speed acceptable
 
 **Internal linking:**
 
-* \[ ] Connected to site architecture
-* \[ ] Related pages linked
-* \[ ] No orphan pages
+- \[ ] Connected to site architecture
+- \[ ] Related pages linked
+- \[ ] No orphan pages
 
 **Indexation:**
 
-* \[ ] In XML sitemap
-* \[ ] Crawlable
-* \[ ] No conflicting noindex
+- \[ ] In XML sitemap
+- \[ ] Crawlable
+- \[ ] No conflicting noindex
 
 ### Post-Launch Monitoring
 
@@ -214,11 +214,11 @@ Watch for: Thin content warnings, Ranking drops, Manual actions, Crawl errors
 
 ## Common Mistakes
 
-* **Thin content**: Just swapping city names in identical content
-* **Keyword cannibalization**: Multiple pages targeting same keyword
-* **Over-generation**: Creating pages with no search demand
-* **Poor data quality**: Outdated or incorrect information
-* **Ignoring UX**: Pages exist for Google, not users
+- **Thin content**: Just swapping city names in identical content
+- **Keyword cannibalization**: Multiple pages targeting same keyword
+- **Over-generation**: Creating pages with no search demand
+- **Poor data quality**: Outdated or incorrect information
+- **Ignoring UX**: Pages exist for Google, not users
 
 ***
 
@@ -226,16 +226,16 @@ Watch for: Thin content warnings, Ranking drops, Manual actions, Crawl errors
 
 ### Strategy Document
 
-* Opportunity analysis
-* Implementation plan
-* Content guidelines
+- Opportunity analysis
+- Implementation plan
+- Content guidelines
 
 ### Page Template
 
-* URL structure
-* Title/meta templates
-* Content outline
-* Schema markup
+- URL structure
+- Title/meta templates
+- Content outline
+- Schema markup
 
 ***
 
@@ -252,6 +252,6 @@ Watch for: Thin content warnings, Ranking drops, Manual actions, Crawl errors
 
 ## Related Skills
 
-* **seo-audit**: For auditing programmatic pages after launch
-* **schema-markup**: For adding structured data
-* **competitor-alternatives**: For comparison page frameworks
+- **seo-audit**: For auditing programmatic pages after launch
+- **schema-markup**: For adding structured data
+- **competitor-alternatives**: For comparison page frameworks

@@ -13,9 +13,9 @@ Customer data platform for collecting, routing, and activating user data.
 
 ## Authentication
 
-* **Tracking**: Write Key (per source)
-* **API**: Access Token (OAuth 2.0)
-* **Header**: `Authorization: Bearer {access_token}`
+- **Tracking**: Write Key (per source)
+- **API**: Access Token (OAuth 2.0)
+- **Header**: `Authorization: Bearer {access_token}`
 
 ## Common Agent Operations
 
@@ -124,36 +124,36 @@ analytics.page('Pricing');
 
 ## Key Concepts
 
-* **Sources** - Where data comes from (website, app, server)
-* **Destinations** - Where data goes (analytics, CRM, ads)
-* **Tracking Plan** - Schema for events and properties
-* **Protocols** - Data governance and validation
-* **Personas** - Unified user profiles
-* **Audiences** - Computed user segments
+- **Sources** - Where data comes from (website, app, server)
+- **Destinations** - Where data goes (analytics, CRM, ads)
+- **Tracking Plan** - Schema for events and properties
+- **Protocols** - Data governance and validation
+- **Personas** - Unified user profiles
+- **Audiences** - Computed user segments
 
 ## Common Destinations
 
-* Analytics: GA4, Mixpanel, Amplitude
-* CRM: HubSpot, Salesforce
-* Email: Customer.io, Mailchimp
-* Ads: Google Ads, Meta
-* Data Warehouse: BigQuery, Snowflake
+- Analytics: GA4, Mixpanel, Amplitude
+- CRM: HubSpot, Salesforce
+- Email: Customer.io, Mailchimp
+- Ads: Google Ads, Meta
+- Data Warehouse: BigQuery, Snowflake
 
 ## When to Use
 
-* Centralizing event tracking
-* Routing data to multiple tools
-* Maintaining consistent tracking
-* Building unified user profiles
-* Syncing audiences across platforms
+- Centralizing event tracking
+- Routing data to multiple tools
+- Maintaining consistent tracking
+- Building unified user profiles
+- Syncing audiences across platforms
 
 ## Rate Limits
 
-* 500 requests/second per source
-* Batch up to 500KB or 32KB per event
+- 500 requests/second per source
+- Batch up to 500KB or 32KB per event
 
 ## Relevant Skills
 
-* analytics-tracking
-* email-sequence
-* paid-ads
+- analytics-tracking
+- email-sequence
+- paid-ads

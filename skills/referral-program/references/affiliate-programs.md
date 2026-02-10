@@ -6,26 +6,26 @@ Detailed guidance for building and managing affiliate programs.
 
 **Percentage of sale:**
 
-* Standard: 10-30% of first sale or first year
-* Works for: E-commerce, SaaS with clear pricing
-* Example: "Earn 25% of every sale you refer"
+- Standard: 10-30% of first sale or first year
+- Works for: E-commerce, SaaS with clear pricing
+- Example: "Earn 25% of every sale you refer"
 
 **Flat fee per action:**
 
-* Standard: $5-500 depending on value
-* Works for: Lead gen, trials, freemium
-* Example: "$50 for every qualified demo"
+- Standard: $5-500 depending on value
+- Works for: Lead gen, trials, freemium
+- Example: "$50 for every qualified demo"
 
 **Recurring commission:**
 
-* Standard: 10-25% of recurring revenue
-* Works for: Subscription products
-* Example: "20% of subscription for 12 months"
+- Standard: 10-25% of recurring revenue
+- Works for: Subscription products
+- Example: "20% of subscription for 12 months"
 
 **Tiered commission:**
 
-* Works for: Motivating high performers
-* Example: "20% for 1-10 sales, 25% for 11-25, 30% for 26+"
+- Works for: Motivating high performers
+- Example: "20% for 1-10 sales, 25% for 11-25, 30% for 26+"
 
 ***
 
@@ -47,12 +47,12 @@ How long after click does affiliate get credit?
 
 ### Where to find affiliates:
 
-* Existing customers who create content
-* Industry bloggers and reviewers
-* YouTubers in your niche
-* Newsletter writers
-* Complementary tool companies
-* Consultants and agencies
+- Existing customers who create content
+- Industry bloggers and reviewers
+- YouTubers in your niche
+- Newsletter writers
+- Complementary tool companies
+- Consultants and agencies
 
 ### Outreach template:
 
@@ -78,16 +78,16 @@ Would you be open to learning more?
 
 Provide affiliates with:
 
-* \[ ] Unique tracking links/codes
-* \[ ] Product overview and key benefits
-* \[ ] Target audience description
-* \[ ] Comparison to competitors
-* \[ ] Creative assets (logos, banners, images)
-* \[ ] Sample copy and talking points
-* \[ ] Case studies and testimonials
-* \[ ] Demo access or free account
-* \[ ] FAQ and objection handling
-* \[ ] Payment terms and schedule
+- \[ ] Unique tracking links/codes
+- \[ ] Product overview and key benefits
+- \[ ] Target audience description
+- \[ ] Comparison to competitors
+- \[ ] Creative assets (logos, banners, images)
+- \[ ] Sample copy and talking points
+- \[ ] Case studies and testimonials
+- \[ ] Demo access or free account
+- \[ ] FAQ and objection handling
+- \[ ] Payment terms and schedule
 
 ***
 
@@ -97,44 +97,44 @@ Provide affiliates with:
 
 **Full-featured platforms:**
 
-* ReferralCandy — E-commerce focused
-* Ambassador — Enterprise referral programs
-* Friendbuy — E-commerce and subscription
-* GrowSurf — SaaS and tech companies
-* Mention Me — AI-powered referral marketing
-* Viral Loops — Template-based campaigns
+- ReferralCandy — E-commerce focused
+- Ambassador — Enterprise referral programs
+- Friendbuy — E-commerce and subscription
+- GrowSurf — SaaS and tech companies
+- Mention Me — AI-powered referral marketing
+- Viral Loops — Template-based campaigns
 
 **Built-in options:**
 
-* Stripe (basic referral tracking)
-* HubSpot (CRM-integrated)
-* Segment (tracking and analytics)
+- Stripe (basic referral tracking)
+- HubSpot (CRM-integrated)
+- Segment (tracking and analytics)
 
 ### Affiliate Program Tools
 
 **Affiliate networks:**
 
-* ShareASale — Large merchant network
-* Impact — Enterprise partnerships
-* PartnerStack — SaaS focused
-* Tapfiliate — Simple SaaS affiliate tracking
-* FirstPromoter — SaaS affiliate management
+- ShareASale — Large merchant network
+- Impact — Enterprise partnerships
+- PartnerStack — SaaS focused
+- Tapfiliate — Simple SaaS affiliate tracking
+- FirstPromoter — SaaS affiliate management
 
 **Self-hosted:**
 
-* Rewardful — Stripe-integrated affiliates
-* Refersion — E-commerce affiliates
+- Rewardful — Stripe-integrated affiliates
+- Refersion — E-commerce affiliates
 
 ### Choosing a Tool
 
 Consider:
 
-* Integration with your payment system
-* Fraud detection capabilities
-* Payout management
-* Reporting and analytics
-* Customization options
-* Price vs. program scale
+- Integration with your payment system
+- Fraud detection capabilities
+- Payout management
+- Reporting and analytics
+- Customization options
+- Price vs. program scale
 
 ***
 
@@ -142,31 +142,31 @@ Consider:
 
 ### Common Referral Fraud
 
-* Self-referrals (creating fake accounts)
-* Referral rings (groups referring each other)
-* Coupon sites posting referral codes
-* Fake email addresses
-* VPN/device spoofing
+- Self-referrals (creating fake accounts)
+- Referral rings (groups referring each other)
+- Coupon sites posting referral codes
+- Fake email addresses
+- VPN/device spoofing
 
 ### Prevention Measures
 
 **Technical:**
 
-* Email verification required
-* Device fingerprinting
-* IP address monitoring
-* Delayed reward payout (after activation)
-* Minimum activity threshold
+- Email verification required
+- Device fingerprinting
+- IP address monitoring
+- Delayed reward payout (after activation)
+- Minimum activity threshold
 
 **Policy:**
 
-* Clear terms of service
-* Maximum referrals per period
-* Reward clawback for refunds/chargebacks
-* Manual review for suspicious patterns
+- Clear terms of service
+- Maximum referrals per period
+- Reward clawback for refunds/chargebacks
+- Manual review for suspicious patterns
 
 **Structural:**
 
-* Require referred user to take meaningful action
-* Cap lifetime rewards
-* Pay rewards in product credit (less attractive to fraudsters)
+- Require referred user to take meaningful action
+- Cap lifetime rewards
+- Pay rewards in product credit (less attractive to fraudsters)

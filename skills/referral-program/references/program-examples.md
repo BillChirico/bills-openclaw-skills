@@ -8,10 +8,10 @@ Real-world examples of successful referral programs.
 
 **Why it worked:**
 
-* Reward directly tied to product value
-* Low friction (just an email)
-* Both parties benefit equally
-* Gamified with progress tracking
+- Reward directly tied to product value
+- Low friction (just an email)
+- Both parties benefit equally
+- Gamified with progress tracking
 
 ***
 
@@ -21,10 +21,10 @@ Real-world examples of successful referral programs.
 
 **Why it worked:**
 
-* Immediate, clear value
-* Double-sided incentive
-* Easy to share (code/link)
-* Triggered at natural moments
+- Immediate, clear value
+- Double-sided incentive
+- Easy to share (code/link)
+- Triggered at natural moments
 
 ***
 
@@ -32,17 +32,17 @@ Real-world examples of successful referral programs.
 
 **Program:** Tiered rewards for subscriber referrals
 
-* 3 referrals: Newsletter stickers
-* 5 referrals: T-shirt
-* 10 referrals: Mug
-* 25 referrals: Hoodie
+- 3 referrals: Newsletter stickers
+- 5 referrals: T-shirt
+- 10 referrals: Mug
+- 25 referrals: Hoodie
 
 **Why it worked:**
 
-* Gamification drives ongoing engagement
-* Physical rewards are shareable (more referrals)
-* Low cost relative to subscriber value
-* Built status/identity
+- Gamification drives ongoing engagement
+- Physical rewards are shareable (more referrals)
+- Low cost relative to subscriber value
+- Built status/identity
 
 ***
 
@@ -52,9 +52,9 @@ Real-world examples of successful referral programs.
 
 **Why it worked:**
 
-* Targeted high-sharing audience (students)
-* Product naturally spreads in teams
-* Credit keeps users engaged
+- Targeted high-sharing audience (students)
+- Product naturally spreads in teams
+- Credit keeps users engaged
 
 ***
 
@@ -81,16 +81,16 @@ Max Referral Reward = (Customer LTV × Gross Margin) - Target CAC
 
 **Example:**
 
-* LTV: $1,200
-* Gross margin: 70%
-* Target CAC: $200
-* Max reward: ($1,200 × 0.70) - $200 = $640
+- LTV: $1,200
+- Gross margin: 70%
+- Target CAC: $200
+- Max reward: ($1,200 × 0.70) - $200 = $640
 
 **Typical referral rewards:**
 
-* B2C: $10-50 or 10-25% of first purchase
-* B2B SaaS: $50-500 or 1-3 months free
-* Enterprise: Higher, often custom
+- B2C: $10-50 or 10-25% of first purchase
+- B2B SaaS: $50-500 or 1-3 months free
+- Enterprise: Higher, often custom
 
 ***
 
@@ -109,9 +109,9 @@ K < 1 = Amplified growth (referrals supplement other acquisition)
 
 **Example:**
 
-* Average customer sends 3 invitations
-* 15% of invitations convert
-* K = 3 × 0.15 = 0.45
+- Average customer sends 3 invitations
+- 15% of invitations convert
+- K = 3 × 0.15 = 0.45
 
 **Referral rate:**
 
@@ -121,17 +121,17 @@ Referral Rate = (Customers who refer) / (Total customers)
 
 Benchmarks:
 
-* Good: 10-25% of customers refer
-* Great: 25-50%
-* Exceptional: 50%+
+- Good: 10-25% of customers refer
+- Great: 25-50%
+- Exceptional: 50%+
 
 **Referrals per referrer:**
 
 Benchmarks:
 
-* Average: 1-2 referrals per referrer
-* Good: 2-5
-* Exceptional: 5+
+- Average: 1-2 referrals per referrer
+- Good: 2-5
+- Exceptional: 5+
 
 ### Calculating Referral Program ROI
 
@@ -143,6 +143,6 @@ Program costs = Rewards paid + Tool costs + Management time
 
 **Track separately:**
 
-* Cost per referred customer (CAC via referral)
-* LTV of referred customers (often higher than average)
-* Payback period for referral rewards
+- Cost per referred customer (CAC via referral)
+- LTV of referred customers (often higher than average)
+- Payback period for referral rewards

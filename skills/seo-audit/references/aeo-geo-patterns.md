@@ -124,10 +124,10 @@ Use for topic pages with multiple common questions. Essential for FAQ schema.
 
 **Tips for FAQ questions:**
 
-* Use natural question phrasing ("How do I..." not "How does one...")
-* Include question words: what, how, why, when, where, who, which
-* Match "People Also Ask" queries from search results
-* Keep answers between 50-100 words
+- Use natural question phrasing ("How do I..." not "How does one...")
+- Include question words: what, how, why, when, where, who, which
+- Match "People Also Ask" queries from search results
+- Keep answers between 50-100 words
 
 ### Listicle Block
 
@@ -236,38 +236,38 @@ Different content domains benefit from different authority signals.
 
 ### Technology Content
 
-* Emphasize technical precision and correct terminology
-* Include version numbers and dates for software/tools
-* Reference official documentation
-* Add code examples where relevant
+- Emphasize technical precision and correct terminology
+- Include version numbers and dates for software/tools
+- Reference official documentation
+- Add code examples where relevant
 
 ### Health/Medical Content
 
-* Cite peer-reviewed studies with publication details
-* Include expert credentials (MD, RN, etc.)
-* Note study limitations and context
-* Add "last reviewed" dates
+- Cite peer-reviewed studies with publication details
+- Include expert credentials (MD, RN, etc.)
+- Note study limitations and context
+- Add "last reviewed" dates
 
 ### Financial Content
 
-* Reference regulatory bodies (SEC, FTC, etc.)
-* Include specific numbers with timeframes
-* Note that information is educational, not advice
-* Cite recognized financial institutions
+- Reference regulatory bodies (SEC, FTC, etc.)
+- Include specific numbers with timeframes
+- Note that information is educational, not advice
+- Cite recognized financial institutions
 
 ### Legal Content
 
-* Cite specific laws, statutes, and regulations
-* Reference jurisdiction clearly
-* Include professional disclaimers
-* Note when professional consultation is advised
+- Cite specific laws, statutes, and regulations
+- Reference jurisdiction clearly
+- Include professional disclaimers
+- Note when professional consultation is advised
 
 ### Business/Marketing Content
 
-* Include case studies with measurable results
-* Reference industry research and reports
-* Add percentage changes and timeframes
-* Quote recognized thought leaders
+- Include case studies with measurable results
+- Reference industry research and reports
+- Add percentage changes and timeframes
+- Quote recognized thought leaders
 
 ***
 
@@ -277,17 +277,17 @@ Voice queries are conversational and question-based. Optimize for these patterns
 
 ### Question Formats for Voice
 
-* "What is..."
-* "How do I..."
-* "Where can I find..."
-* "Why does..."
-* "When should I..."
-* "Who is..."
+- "What is..."
+- "How do I..."
+- "Where can I find..."
+- "Why does..."
+- "When should I..."
+- "Who is..."
 
 ### Voice-Optimized Answer Structure
 
-* Lead with direct answer (under 30 words ideal)
-* Use natural, conversational language
-* Avoid jargon unless targeting expert audience
-* Include local context where relevant
-* Structure for single spoken response
+- Lead with direct answer (under 30 words ideal)
+- Use natural, conversational language
+- Avoid jargon unless targeting expert audience
+- Include local context where relevant
+- Structure for single spoken response

@@ -13,9 +13,9 @@ B2B advertising platform with professional targeting.
 
 ## Authentication
 
-* **Type**: OAuth 2.0
-* **Header**: `Authorization: Bearer {access_token}`
-* **Scopes**: `r_ads`, `r_ads_reporting`, `rw_ads`
+- **Type**: OAuth 2.0
+- **Header**: `Authorization: Bearer {access_token}`
+- **Scopes**: `r_ads`, `r_ads_reporting`, `rw_ads`
 
 ## Common Agent Operations
 
@@ -121,47 +121,47 @@ POST https://api.linkedin.com/v2/audienceCountsV2
 
 ## Campaign Types
 
-* `SPONSORED_UPDATES` - Sponsored content
-* `TEXT_AD` - Text ads
-* `SPONSORED_INMAILS` - Message ads
-* `DYNAMIC` - Dynamic ads
+- `SPONSORED_UPDATES` - Sponsored content
+- `TEXT_AD` - Text ads
+- `SPONSORED_INMAILS` - Message ads
+- `DYNAMIC` - Dynamic ads
 
 ## Targeting Options
 
 ### Job-Based
 
-* Job titles
-* Job functions
-* Seniority levels
-* Years of experience
+- Job titles
+- Job functions
+- Seniority levels
+- Years of experience
 
 ### Company-Based
 
-* Company names
-* Industries
-* Company size
-* Company followers
+- Company names
+- Industries
+- Company size
+- Company followers
 
 ### Professional
 
-* Skills
-* Groups
-* Schools
-* Degrees
+- Skills
+- Groups
+- Schools
+- Degrees
 
 ## When to Use
 
-* B2B advertising
-* Job title targeting
-* Account-based marketing
-* Lead generation campaigns
+- B2B advertising
+- Job title targeting
+- Account-based marketing
+- Lead generation campaigns
 
 ## Rate Limits
 
-* 100 requests/day (basic)
-* 10,000 requests/day (Marketing Developer Platform)
+- 100 requests/day (basic)
+- 10,000 requests/day (Marketing Developer Platform)
 
 ## Relevant Skills
 
-* paid-ads
-* analytics-tracking
+- paid-ads
+- analytics-tracking

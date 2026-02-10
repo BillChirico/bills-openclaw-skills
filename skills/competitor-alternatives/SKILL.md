@@ -16,23 +16,23 @@ If a product-marketing-context.md exists in the workspace, read it first for con
 Before creating competitor pages, understand:
 
 1. **Your Product**
-   * Core value proposition
-   * Key differentiators
-   * Ideal customer profile
-   * Pricing model
-   * Strengths and honest weaknesses
+   - Core value proposition
+   - Key differentiators
+   - Ideal customer profile
+   - Pricing model
+   - Strengths and honest weaknesses
 
 2. **Competitive Landscape**
-   * Direct competitors
-   * Indirect/adjacent competitors
-   * Market positioning of each
-   * Search volume for competitor terms
+   - Direct competitors
+   - Indirect/adjacent competitors
+   - Market positioning of each
+   - Search volume for competitor terms
 
 3. **Goals**
-   * SEO traffic capture
-   * Sales enablement
-   * Conversion from competitor users
-   * Brand positioning
+   - SEO traffic capture
+   - Sales enablement
+   - Conversion from competitor users
+   - Brand positioning
 
 ***
 
@@ -40,30 +40,30 @@ Before creating competitor pages, understand:
 
 ### 1. Honesty Builds Trust
 
-* Acknowledge competitor strengths
-* Be accurate about your limitations
-* Don't misrepresent competitor features
-* Readers are comparing—they'll verify claims
+- Acknowledge competitor strengths
+- Be accurate about your limitations
+- Don't misrepresent competitor features
+- Readers are comparing—they'll verify claims
 
 ### 2. Depth Over Surface
 
-* Go beyond feature checklists
-* Explain *why* differences matter
-* Include use cases and scenarios
-* Show, don't just tell
+- Go beyond feature checklists
+- Explain *why* differences matter
+- Include use cases and scenarios
+- Show, don't just tell
 
 ### 3. Help Them Decide
 
-* Different tools fit different needs
-* Be clear about who you're best for
-* Be clear about who competitor is best for
-* Reduce evaluation friction
+- Different tools fit different needs
+- Be clear about who you're best for
+- Be clear about who competitor is best for
+- Reduce evaluation friction
 
 ### 4. Modular Content Architecture
 
-* Competitor data should be centralized
-* Updates propagate to all pages
-* Single source of truth per competitor
+- Competitor data should be centralized
+- Updates propagate to all pages
+- Single source of truth per competitor
 
 ***
 
@@ -187,13 +187,13 @@ Cover what transfers, what needs reconfiguration, support offered, and quotes fr
 
 Create a single source of truth for each competitor with:
 
-* Positioning and target audience
-* Pricing (all tiers)
-* Feature ratings
-* Strengths and weaknesses
-* Best for / not ideal for
-* Common complaints (from reviews)
-* Migration notes
+- Positioning and target audience
+- Pricing (all tiers)
+- Feature ratings
+- Strengths and weaknesses
+- Best for / not ideal for
+- Common complaints (from reviews)
+- Migration notes
 
 **For data structure and examples**: See [references/content-architecture.md](references/content-architecture.md)
 
@@ -213,9 +213,9 @@ For each competitor, gather:
 
 ### Ongoing Updates
 
-* **Quarterly**: Verify pricing, check for major feature changes
-* **When notified**: Customer mentions competitor change
-* **Annually**: Full refresh of all competitor data
+- **Quarterly**: Verify pricing, check for major feature changes
+- **When notified**: Customer mentions competitor change
+- **Annually**: Full refresh of all competitor data
 
 ***
 
@@ -232,9 +232,9 @@ For each competitor, gather:
 
 ### Internal Linking
 
-* Link between related competitor pages
-* Link from feature pages to relevant comparisons
-* Create hub page linking to all competitor content
+- Link between related competitor pages
+- Link from feature pages to relevant comparisons
+- Create hub page linking to all competitor content
 
 ### Schema Markup
 
@@ -269,7 +269,7 @@ Recommended pages to create with priority order based on search volume.
 
 ## Related Skills
 
-* **programmatic-seo**: For building competitor pages at scale
-* **copywriting**: For writing compelling comparison copy
-* **seo-audit**: For optimizing competitor pages
-* **schema-markup**: For FAQ and comparison schema
+- **programmatic-seo**: For building competitor pages at scale
+- **copywriting**: For writing compelling comparison copy
+- **seo-audit**: For optimizing competitor pages
+- **schema-markup**: For FAQ and comparison schema

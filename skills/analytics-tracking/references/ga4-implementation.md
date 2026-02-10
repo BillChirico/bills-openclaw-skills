@@ -6,10 +6,10 @@ Detailed implementation guide for Google Analytics 4.
 
 ### Data Streams
 
-* One stream per platform (web, iOS, Android)
-* Enable enhanced measurement for automatic tracking
-* Configure data retention (2 months default, 14 months max)
-* Enable Google Signals (for cross-device, if consented)
+- One stream per platform (web, iOS, Android)
+- Enable enhanced measurement for automatic tracking
+- Configure data retention (2 months default, 14 months max)
+- Enable Google Signals (for cross-device, if consented)
 
 ### Enhanced Measurement Events (Automatic)
 
@@ -28,22 +28,22 @@ Use Google's predefined events when possible for enhanced reporting:
 
 **All properties:**
 
-* login, sign\_up
-* share
-* search
+- login, sign\_up
+- share
+- search
 
 **E-commerce:**
 
-* view\_item, view\_item\_list
-* add\_to\_cart, remove\_from\_cart
-* begin\_checkout
-* add\_payment\_info
-* purchase, refund
+- view\_item, view\_item\_list
+- add\_to\_cart, remove\_from\_cart
+- begin\_checkout
+- add\_payment\_info
+- purchase, refund
 
 **Games:**
 
-* level\_up, unlock\_achievement
-* post\_score, spend\_virtual\_currency
+- level\_up, unlock\_achievement
+- post\_score, spend\_virtual\_currency
 
 Reference: https://support.google.com/analytics/answer/9267735
 
@@ -135,8 +135,8 @@ dataLayer.push({
 1. **Collect the event** - Ensure event is firing in GA4
 2. **Mark as conversion** - Admin > Events > Mark as conversion
 3. **Set counting method**:
-   * Once per session (leads, signups)
-   * Every event (purchases)
+   - Once per session (leads, signups)
+   - Every event (purchases)
 4. **Import to Google Ads** - For conversion-optimized bidding
 
 ### Conversion Values
@@ -159,23 +159,23 @@ Or set default value in GA4 Admin when marking conversion.
 
 **Custom dimensions:**
 
-* Properties you want to segment/filter by
-* User attributes (plan type, industry)
-* Content attributes (author, category)
+- Properties you want to segment/filter by
+- User attributes (plan type, industry)
+- Content attributes (author, category)
 
 **Custom metrics:**
 
-* Numeric values to aggregate
-* Scores, counts, durations
+- Numeric values to aggregate
+- Scores, counts, durations
 
 ### Setup Steps
 
 1. Admin > Data display > Custom definitions
 2. Create dimension or metric
 3. Choose scope:
-   * **Event**: Per event (content\_type)
-   * **User**: Per user (account\_type)
-   * **Item**: Per product (product\_category)
+   - **Event**: Per event (content\_type)
+   - **User**: Per user (account\_type)
+   - **Item**: Per product (product\_category)
 4. Enter parameter name (must match event parameter)
 
 ### Examples
@@ -196,27 +196,27 @@ Admin > Data display > Audiences
 
 **Use cases:**
 
-* Remarketing audiences (export to Ads)
-* Segment analysis
-* Trigger-based events
+- Remarketing audiences (export to Ads)
+- Segment analysis
+- Trigger-based events
 
 ### Audience Examples
 
 **High-intent visitors:**
 
-* Viewed pricing page
-* Did not convert
-* In last 7 days
+- Viewed pricing page
+- Did not convert
+- In last 7 days
 
 **Engaged users:**
 
-* 3+ sessions
-* Or 5+ minutes total engagement
+- 3+ sessions
+- Or 5+ minutes total engagement
 
 **Purchasers:**
 
-* Purchase event
-* For exclusion or lookalike
+- Purchase event
+- For exclusion or lookalike
 
 ***
 
@@ -226,9 +226,9 @@ Admin > Data display > Audiences
 
 Enable with:
 
-* URL parameter: `?debug_mode=true`
-* Chrome extension: GA Debugger
-* gtag: `'debug_mode': true` in config
+- URL parameter: `?debug_mode=true`
+- Chrome extension: GA Debugger
+- gtag: `'debug_mode': true` in config
 
 View at: Reports > Configure > DebugView
 
@@ -241,21 +241,21 @@ Reports > Real-time
 
 **Events not appearing:**
 
-* Check DebugView first
-* Verify gtag/GTM firing
-* Check filter exclusions
+- Check DebugView first
+- Verify gtag/GTM firing
+- Check filter exclusions
 
 **Parameter values missing:**
 
-* Custom dimension not created
-* Parameter name mismatch
-* Data still processing (24-48 hrs)
+- Custom dimension not created
+- Parameter name mismatch
+- Data still processing (24-48 hrs)
 
 **Conversions not recording:**
 
-* Event not marked as conversion
-* Event name doesn't match
-* Counting method (once vs. every)
+- Event not marked as conversion
+- Event name doesn't match
+- Counting method (once vs. every)
 
 ***
 
@@ -267,9 +267,9 @@ Admin > Data streams > \[Stream] > Configure tag settings > Define internal traf
 
 **Exclude:**
 
-* Internal IP addresses
-* Developer traffic
-* Testing environments
+- Internal IP addresses
+- Developer traffic
+- Testing environments
 
 ### Cross-Domain Tracking
 
@@ -283,8 +283,8 @@ For multiple domains sharing analytics:
 
 Admin > Data streams > \[Stream] > Configure tag settings
 
-* Session timeout (default 30 min)
-* Engaged session duration (10 sec default)
+- Session timeout (default 30 min)
+- Engaged session duration (10 sec default)
 
 ***
 
@@ -300,6 +300,6 @@ Admin > Data streams > \[Stream] > Configure tag settings
 
 Audiences created in GA4 can be used in Google Ads for:
 
-* Remarketing campaigns
-* Customer match
-* Similar audiences
+- Remarketing campaigns
+- Customer match
+- Similar audiences

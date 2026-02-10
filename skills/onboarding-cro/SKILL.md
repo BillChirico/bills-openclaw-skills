@@ -47,22 +47,22 @@ Show advancement. Celebrate completions. Make the path visible.
 
 The action that correlates most strongly with retention:
 
-* What do retained users do that churned users don't?
-* What's the earliest indicator of future engagement?
+- What do retained users do that churned users don't?
+- What's the earliest indicator of future engagement?
 
 **Examples by product type:**
 
-* Project management: Create first project + add team member
-* Analytics: Install tracking + see first report
-* Design tool: Create first design + export/share
-* Marketplace: Complete first transaction
+- Project management: Create first project + add team member
+- Analytics: Install tracking + see first report
+- Design tool: Create first design + export/share
+- Marketplace: Complete first transaction
 
 ### Activation Metrics
 
-* % of signups who reach activation
-* Time to activation
-* Steps to activation
-* Activation by cohort/source
+- % of signups who reach activation
+- Time to activation
+- Steps to activation
+- Activation by cohort/source
 
 ***
 
@@ -78,26 +78,26 @@ The action that correlates most strongly with retention:
 
 **Whatever you choose:**
 
-* Clear single next action
-* No dead ends
-* Progress indication if multi-step
+- Clear single next action
+- No dead ends
+- Progress indication if multi-step
 
 ### Onboarding Checklist Pattern
 
 **When to use:**
 
-* Multiple setup steps required
-* Product has several features to discover
-* Self-serve B2B products
+- Multiple setup steps required
+- Product has several features to discover
+- Self-serve B2B products
 
 **Best practices:**
 
-* 3-7 items (not overwhelming)
-* Order by value (most impactful first)
-* Start with quick wins
-* Progress bar/completion %
-* Celebration on completion
-* Dismiss option (don't trap users)
+- 3-7 items (not overwhelming)
+- Order by value (most impactful first)
+- Start with quick wins
+- Progress bar/completion %
+- Celebration on completion
+- Dismiss option (don't trap users)
 
 ### Empty States
 
@@ -105,10 +105,10 @@ Empty states are onboarding opportunities, not dead ends.
 
 **Good empty state:**
 
-* Explains what this area is for
-* Shows what it looks like with data
-* Clear primary action to add first item
-* Optional: Pre-populate with example data
+- Explains what this area is for
+- Shows what it looks like with data
+- Clear primary action to add first item
+- Optional: Pre-populate with example data
 
 ### Tooltips and Guided Tours
 
@@ -116,9 +116,9 @@ Empty states are onboarding opportunities, not dead ends.
 
 **Best practices:**
 
-* Max 3-5 steps per tour
-* Dismissable at any time
-* Don't repeat for returning users
+- Max 3-5 steps per tour
+- Dismissable at any time
+- Don't repeat for returning users
 
 ***
 
@@ -128,16 +128,16 @@ Empty states are onboarding opportunities, not dead ends.
 
 **Trigger-based emails:**
 
-* Welcome email (immediate)
-* Incomplete onboarding (24h, 72h)
-* Activation achieved (celebration + next step)
-* Feature discovery (days 3, 7, 14)
+- Welcome email (immediate)
+- Incomplete onboarding (24h, 72h)
+- Activation achieved (celebration + next step)
+- Feature discovery (days 3, 7, 14)
 
 **Email should:**
 
-* Reinforce in-app actions, not duplicate them
-* Drive back to product with specific CTA
-* Be personalized based on actions taken
+- Reinforce in-app actions, not duplicate them
+- Drive back to product with specific CTA
+- Be personalized based on actions taken
 
 ***
 
@@ -187,12 +187,12 @@ For each issue: Finding → Impact → Recommendation → Priority
 
 ### Onboarding Flow Design
 
-* Activation goal
-* Step-by-step flow
-* Checklist items (if applicable)
-* Empty state copy
-* Email sequence triggers
-* Metrics plan
+- Activation goal
+- Step-by-step flow
+- Checklist items (if applicable)
+- Empty state copy
+- Email sequence triggers
+- Metrics plan
 
 ***
 
@@ -211,10 +211,10 @@ For each issue: Finding → Impact → Recommendation → Priority
 
 When recommending experiments, consider tests for:
 
-* Flow simplification (step count, ordering)
-* Progress and motivation mechanics
-* Personalization by role or goal
-* Support and help availability
+- Flow simplification (step count, ordering)
+- Progress and motivation mechanics
+- Personalization by role or goal
+- Support and help availability
 
 **For comprehensive experiment ideas**: See [references/experiments.md](references/experiments.md)
 
@@ -232,7 +232,7 @@ When recommending experiments, consider tests for:
 
 ## Related Skills
 
-* **signup-flow-cro**: For optimizing the signup before onboarding
-* **email-sequence**: For onboarding email series
-* **paywall-upgrade-cro**: For converting to paid during/after onboarding
-* **ab-test-setup**: For testing onboarding changes
+- **signup-flow-cro**: For optimizing the signup before onboarding
+- **email-sequence**: For onboarding email series
+- **paywall-upgrade-cro**: For converting to paid during/after onboarding
+- **ab-test-setup**: For testing onboarding changes

@@ -199,11 +199,11 @@ Do this:
 
 Group features into meaningful categories:
 
-* Core functionality
-* Collaboration
-* Integrations
-* Security & compliance
-* Support & service
+- Core functionality
+- Collaboration
+- Integrations
+- Security & compliance
+- Support & service
 
 ### Include Ratings Where Useful
 

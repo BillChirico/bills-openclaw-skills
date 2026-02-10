@@ -17,27 +17,27 @@ Gather this context (ask if not provided):
 
 ### 1. Page Purpose
 
-* What type of page? (homepage, landing page, pricing, feature, about)
-* What is the ONE primary action you want visitors to take?
+- What type of page? (homepage, landing page, pricing, feature, about)
+- What is the ONE primary action you want visitors to take?
 
 ### 2. Audience
 
-* Who is the ideal customer?
-* What problem are they trying to solve?
-* What objections or hesitations do they have?
-* What language do they use to describe their problem?
+- Who is the ideal customer?
+- What problem are they trying to solve?
+- What objections or hesitations do they have?
+- What language do they use to describe their problem?
 
 ### 3. Product/Offer
 
-* What are you selling or offering?
-* What makes it different from alternatives?
-* What's the key transformation or outcome?
-* Any proof points (numbers, testimonials, case studies)?
+- What are you selling or offering?
+- What makes it different from alternatives?
+- What's the key transformation or outcome?
+- Any proof points (numbers, testimonials, case studies)?
 
 ### 4. Context
 
-* Where is traffic coming from? (ads, organic, email)
-* What do visitors already know before arriving?
+- Where is traffic coming from? (ads, organic, email)
+- What do visitors already know before arriving?
 
 ***
 
@@ -53,8 +53,8 @@ Features: What it does. Benefits: What that means for the customer.
 
 ### Specificity Over Vagueness
 
-* Vague: "Save time on your workflow"
-* Specific: "Cut your weekly reporting from 4 hours to 15 minutes"
+- Vague: "Save time on your workflow"
+- Specific: "Cut your weekly reporting from 4 hours to 15 minutes"
 
 ### Customer Language Over Company Language
 
@@ -79,11 +79,11 @@ Each section should advance one argument. Build a logical flow down the page.
 
 ### Quick Quality Check
 
-* Jargon that could confuse outsiders?
-* Sentences trying to do too much?
-* Passive voice constructions?
-* Exclamation points? (remove them)
-* Marketing buzzwords without substance?
+- Jargon that could confuse outsiders?
+- Sentences trying to do too much?
+- Passive voice constructions?
+- Exclamation points? (remove them)
+- Marketing buzzwords without substance?
 
 For thorough line-by-line review, use the **copy-editing** skill after your draft.
 
@@ -103,8 +103,8 @@ Get to the point. Don't bury the value in qualifications.
 
 Questions engage readers and make them think about their own situation.
 
-* "Hate returning stuff to Amazon?"
-* "Tired of chasing approvals?"
+- "Hate returning stuff to Amazon?"
+- "Tired of chasing approvals?"
 
 ### Use Analogies When Helpful
 
@@ -122,16 +122,16 @@ Puns and wit make copy memorable—but only if it fits the brand and doesn't und
 
 **Headline**
 
-* Your single most important message
-* Communicate core value proposition
-* Specific > generic
+- Your single most important message
+- Communicate core value proposition
+- Specific > generic
 
 **Example formulas:**
 
-* "{Achieve outcome} without {pain point}"
-* "The {category} for {audience}"
-* "Never {unpleasant event} again"
-* "{Question highlighting main pain point}"
+- "{Achieve outcome} without {pain point}"
+- "The {category} for {audience}"
+- "Never {unpleasant event} again"
+- "{Question highlighting main pain point}"
 
 **For comprehensive headline formulas**: See [references/copy-frameworks.md](references/copy-frameworks.md)
 
@@ -139,14 +139,14 @@ Puns and wit make copy memorable—but only if it fits the brand and doesn't und
 
 **Subheadline**
 
-* Expands on headline
-* Adds specificity
-* 1-2 sentences max
+- Expands on headline
+- Adds specificity
+- 1-2 sentences max
 
 **Primary CTA**
 
-* Action-oriented button text
-* Communicate what they get: "Start Free Trial" > "Sign Up"
+- Action-oriented button text
+- Communicate what they get: "Start Free Trial" > "Sign Up"
 
 ### Core Sections
 
@@ -167,23 +167,23 @@ Puns and wit make copy memorable—but only if it fits the brand and doesn't und
 
 **Weak CTAs (avoid):**
 
-* Submit, Sign Up, Learn More, Click Here, Get Started
+- Submit, Sign Up, Learn More, Click Here, Get Started
 
 **Strong CTAs (use):**
 
-* Start Free Trial
-* Get \[Specific Thing]
-* See \[Product] in Action
-* Create Your First \[Thing]
-* Download the Guide
+- Start Free Trial
+- Get \[Specific Thing]
+- See \[Product] in Action
+- Create Your First \[Thing]
+- Download the Guide
 
 **Formula:** \[Action Verb] + \[What They Get] + \[Qualifier if needed]
 
 Examples:
 
-* "Start My Free Trial"
-* "Get the Complete Checklist"
-* "See Pricing for My Team"
+- "Start My Free Trial"
+- "Get the Complete Checklist"
+- "See Pricing for My Team"
 
 ***
 
@@ -191,33 +191,33 @@ Examples:
 
 ### Homepage
 
-* Serve multiple audiences without being generic
-* Lead with broadest value proposition
-* Provide clear paths for different visitor intents
+- Serve multiple audiences without being generic
+- Lead with broadest value proposition
+- Provide clear paths for different visitor intents
 
 ### Landing Page
 
-* Single message, single CTA
-* Match headline to ad/traffic source
-* Complete argument on one page
+- Single message, single CTA
+- Match headline to ad/traffic source
+- Complete argument on one page
 
 ### Pricing Page
 
-* Help visitors choose the right plan
-* Address "which is right for me?" anxiety
-* Make recommended plan obvious
+- Help visitors choose the right plan
+- Address "which is right for me?" anxiety
+- Make recommended plan obvious
 
 ### Feature Page
 
-* Connect feature → benefit → outcome
-* Show use cases and examples
-* Clear path to try or buy
+- Connect feature → benefit → outcome
+- Show use cases and examples
+- Clear path to try or buy
 
 ### About Page
 
-* Tell the story of why you exist
-* Connect mission to customer benefit
-* Still include a CTA
+- Tell the story of why you exist
+- Connect mission to customer benefit
+- Still include a CTA
 
 ***
 
@@ -227,21 +227,21 @@ Before writing, establish:
 
 **Formality level:**
 
-* Casual/conversational
-* Professional but friendly
-* Formal/enterprise
+- Casual/conversational
+- Professional but friendly
+- Formal/enterprise
 
 **Brand personality:**
 
-* Playful or serious?
-* Bold or understated?
-* Technical or accessible?
+- Playful or serious?
+- Bold or understated?
+- Technical or accessible?
 
 Maintain consistency, but adjust intensity:
 
-* Headlines can be bolder
-* Body copy should be clearer
-* CTAs should be action-oriented
+- Headlines can be bolder
+- Body copy should be clearer
+- CTAs should be action-oriented
 
 ***
 
@@ -253,35 +253,35 @@ When writing copy, provide:
 
 Organized by section:
 
-* Headline, Subheadline, CTA
-* Section headers and body copy
-* Secondary CTAs
+- Headline, Subheadline, CTA
+- Section headers and body copy
+- Secondary CTAs
 
 ### Annotations
 
 For key elements, explain:
 
-* Why you made this choice
-* What principle it applies
+- Why you made this choice
+- What principle it applies
 
 ### Alternatives
 
 For headlines and CTAs, provide 2-3 options:
 
-* Option A: \[copy] — \[rationale]
-* Option B: \[copy] — \[rationale]
+- Option A: \[copy] — \[rationale]
+- Option B: \[copy] — \[rationale]
 
 ### Meta Content (if relevant)
 
-* Page title (for SEO)
-* Meta description
+- Page title (for SEO)
+- Meta description
 
 ***
 
 ## Related Skills
 
-* **copy-editing**: For polishing existing copy (use after your draft)
-* **page-cro**: If page structure/strategy needs work, not just copy
-* **email-sequence**: For email copywriting
-* **popup-cro**: For popup and modal copy
-* **ab-test-setup**: To test copy variations
+- **copy-editing**: For polishing existing copy (use after your draft)
+- **page-cro**: If page structure/strategy needs work, not just copy
+- **email-sequence**: For email copywriting
+- **popup-cro**: For popup and modal copy
+- **ab-test-setup**: To test copy variations

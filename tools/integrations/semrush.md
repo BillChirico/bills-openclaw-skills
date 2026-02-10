@@ -13,9 +13,9 @@ SEO and competitive analysis platform for keyword research and site audits.
 
 ## Authentication
 
-* **Type**: API Key
-* **Parameter**: `key={api_key}` in query string
-* **Get key**: My Profile > API in SEMrush dashboard
+- **Type**: API Key
+- **Parameter**: `key={api_key}` in query string
+- **Get key**: My Profile > API in SEMrush dashboard
 
 ## Common Agent Operations
 
@@ -75,28 +75,28 @@ Responses are CSV by default. Add `&export_escape=1` for proper escaping.
 
 ### Domain Report
 
-* `Db` - Database
-* `Dn` - Domain
-* `Rk` - Rank
-* `Or` - Organic keywords
-* `Ot` - Organic traffic
-* `Oc` - Organic cost
+- `Db` - Database
+- `Dn` - Domain
+- `Rk` - Rank
+- `Or` - Organic keywords
+- `Ot` - Organic traffic
+- `Oc` - Organic cost
 
 ### Keyword Report
 
-* `Ph` - Phrase/keyword
-* `Nq` - Search volume
-* `Cp` - CPC
-* `Co` - Competition
-* `Kd` - Keyword difficulty
-* `Nr` - Number of results
+- `Ph` - Phrase/keyword
+- `Nq` - Search volume
+- `Cp` - CPC
+- `Co` - Competition
+- `Kd` - Keyword difficulty
+- `Nr` - Number of results
 
 ### Backlinks
 
-* `source_url` - Linking page
-* `target_url` - Target page
-* `anchor` - Anchor text
-* `source_title` - Page title
+- `source_url` - Linking page
+- `target_url` - Target page
+- `anchor` - Anchor text
+- `source_title` - Page title
 
 ## Databases
 
@@ -104,21 +104,21 @@ Use country code: `us`, `uk`, `de`, `fr`, `ca`, `au`, etc.
 
 ## When to Use
 
-* Keyword research
-* Competitive analysis
-* Backlink analysis
-* Site audits
-* Rank tracking
-* Content gap analysis
+- Keyword research
+- Competitive analysis
+- Backlink analysis
+- Site audits
+- Rank tracking
+- Content gap analysis
 
 ## Rate Limits
 
-* Varies by plan (10-30K units/day)
-* Each API call costs units
+- Varies by plan (10-30K units/day)
+- Each API call costs units
 
 ## Relevant Skills
 
-* seo-audit
-* programmatic-seo
-* content-strategy
-* competitor-alternatives
+- seo-audit
+- programmatic-seo
+- content-strategy
+- competitor-alternatives

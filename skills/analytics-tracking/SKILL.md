@@ -25,27 +25,27 @@ Before implementing tracking, understand:
 
 ### 1. Track for Decisions, Not Data
 
-* Every event should inform a decision
-* Avoid vanity metrics
-* Quality > quantity of events
+- Every event should inform a decision
+- Avoid vanity metrics
+- Quality > quantity of events
 
 ### 2. Start with the Questions
 
-* What do you need to know?
-* What actions will you take based on this data?
-* Work backwards to what you need to track
+- What do you need to know?
+- What actions will you take based on this data?
+- Work backwards to what you need to track
 
 ### 3. Name Things Consistently
 
-* Naming conventions matter
-* Establish patterns before implementing
-* Document everything
+- Naming conventions matter
+- Establish patterns before implementing
+- Document everything
 
 ### 4. Maintain Data Quality
 
-* Validate implementation
-* Monitor for issues
-* Clean data > more data
+- Validate implementation
+- Monitor for issues
+- Clean data > more data
 
 ***
 
@@ -85,11 +85,11 @@ checkout_payment_completed
 
 ### Best Practices
 
-* Lowercase with underscores
-* Be specific: `cta_hero_clicked` vs. `button_clicked`
-* Include context in properties, not event name
-* Avoid spaces and special characters
-* Document decisions
+- Lowercase with underscores
+- Be specific: `cta_hero_clicked` vs. `button_clicked`
+- Include context in properties, not event name
+- Avoid spaces and special characters
+- Document decisions
 
 ***
 
@@ -130,10 +130,10 @@ checkout_payment_completed
 
 ### Best Practices
 
-* Use consistent property names
-* Include relevant context
-* Don't duplicate automatic properties
-* Avoid PII in properties
+- Use consistent property names
+- Include relevant context
+- Don't duplicate automatic properties
+- Avoid PII in properties
 
 ***
 
@@ -198,10 +198,10 @@ dataLayer.push({
 
 ### Naming Conventions
 
-* Lowercase everything
-* Use underscores or hyphens consistently
-* Be specific but concise: `blog_footer_cta`, not `cta1`
-* Document all UTMs in a spreadsheet
+- Lowercase everything
+- Use underscores or hyphens consistently
+- Be specific but concise: `blog_footer_cta`, not `cta1`
+- Document all UTMs in a spreadsheet
 
 ***
 
@@ -217,12 +217,12 @@ dataLayer.push({
 
 ### Validation Checklist
 
-* \[ ] Events firing on correct triggers
-* \[ ] Property values populating correctly
-* \[ ] No duplicate events
-* \[ ] Works across browsers and mobile
-* \[ ] Conversions recorded correctly
-* \[ ] No PII leaking
+- \[ ] Events firing on correct triggers
+- \[ ] Property values populating correctly
+- \[ ] No duplicate events
+- \[ ] Works across browsers and mobile
+- \[ ] Conversions recorded correctly
+- \[ ] No PII leaking
 
 ### Common Issues
 
@@ -238,17 +238,17 @@ dataLayer.push({
 
 ### Considerations
 
-* Cookie consent required in EU/UK/CA
-* No PII in analytics properties
-* Data retention settings
-* User deletion capabilities
+- Cookie consent required in EU/UK/CA
+- No PII in analytics properties
+- Data retention settings
+- User deletion capabilities
 
 ### Implementation
 
-* Use consent mode (wait for consent)
-* IP anonymization
-* Only collect what you need
-* Integrate with consent management platform
+- Use consent mode (wait for consent)
+- IP anonymization
+- Only collect what you need
+- Integrate with consent management platform
 
 ***
 
@@ -311,6 +311,6 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key analy
 
 ## Related Skills
 
-* **ab-test-setup**: For experiment tracking
-* **seo-audit**: For organic traffic analysis
-* **page-cro**: For conversion optimization (uses this data)
+- **ab-test-setup**: For experiment tracking
+- **seo-audit**: For organic traffic analysis
+- **page-cro**: For conversion optimization (uses this data)

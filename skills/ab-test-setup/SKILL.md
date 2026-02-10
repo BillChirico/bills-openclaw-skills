@@ -25,26 +25,26 @@ Before designing a test, understand:
 
 ### 1. Start with a Hypothesis
 
-* Not just "let's see what happens"
-* Specific prediction of outcome
-* Based on reasoning or data
+- Not just "let's see what happens"
+- Specific prediction of outcome
+- Based on reasoning or data
 
 ### 2. Test One Thing
 
-* Single variable per test
-* Otherwise you don't know what worked
+- Single variable per test
+- Otherwise you don't know what worked
 
 ### 3. Statistical Rigor
 
-* Pre-determine sample size
-* Don't peek and stop early
-* Commit to the methodology
+- Pre-determine sample size
+- Don't peek and stop early
+- Commit to the methodology
 
 ### 4. Measure What Matters
 
-* Primary metric tied to business value
-* Secondary metrics for context
-* Guardrail metrics to prevent harm
+- Primary metric tied to business value
+- Secondary metrics for context
+- Guardrail metrics to prevent harm
 
 ***
 
@@ -92,8 +92,8 @@ We'll know this is true when [metrics].
 
 **Calculators:**
 
-* [Evan Miller's](https://www.evanmiller.org/ab-testing/sample-size.html)
-* [Optimizely's](https://www.optimizely.com/sample-size-calculator/)
+- [Evan Miller's](https://www.evanmiller.org/ab-testing/sample-size.html)
+- [Optimizely's](https://www.optimizely.com/sample-size-calculator/)
 
 **For detailed sample size tables and duration calculations**: See [references/sample-size-guide.md](references/sample-size-guide.md)
 
@@ -103,25 +103,25 @@ We'll know this is true when [metrics].
 
 ### Primary Metric
 
-* Single metric that matters most
-* Directly tied to hypothesis
-* What you'll use to call the test
+- Single metric that matters most
+- Directly tied to hypothesis
+- What you'll use to call the test
 
 ### Secondary Metrics
 
-* Support primary metric interpretation
-* Explain why/how the change worked
+- Support primary metric interpretation
+- Explain why/how the change worked
 
 ### Guardrail Metrics
 
-* Things that shouldn't get worse
-* Stop test if significantly negative
+- Things that shouldn't get worse
+- Stop test if significantly negative
 
 ### Example: Pricing Page Test
 
-* **Primary**: Plan selection rate
-* **Secondary**: Time on page, plan distribution
-* **Guardrail**: Support tickets, refund rate
+- **Primary**: Plan selection rate
+- **Secondary**: Time on page, plan distribution
+- **Guardrail**: Support tickets, refund rate
 
 ***
 
@@ -138,9 +138,9 @@ We'll know this is true when [metrics].
 
 ### Best Practices
 
-* Single, meaningful change
-* Bold enough to make a difference
-* True to the hypothesis
+- Single, meaningful change
+- Bold enough to make a difference
+- True to the hypothesis
 
 ***
 
@@ -154,8 +154,8 @@ We'll know this is true when [metrics].
 
 **Considerations:**
 
-* Consistency: Users see same variant on return
-* Balanced exposure across time of day/week
+- Consistency: Users see same variant on return
+- Balanced exposure across time of day/week
 
 ***
 
@@ -163,15 +163,15 @@ We'll know this is true when [metrics].
 
 ### Client-Side
 
-* JavaScript modifies page after load
-* Quick to implement, can cause flicker
-* Tools: PostHog, Optimizely, VWO
+- JavaScript modifies page after load
+- Quick to implement, can cause flicker
+- Tools: PostHog, Optimizely, VWO
 
 ### Server-Side
 
-* Variant determined before render
-* No flicker, requires dev work
-* Tools: PostHog, LaunchDarkly, Split
+- Variant determined before render
+- No flicker, requires dev work
+- Tools: PostHog, LaunchDarkly, Split
 
 ***
 
@@ -179,26 +179,26 @@ We'll know this is true when [metrics].
 
 ### Pre-Launch Checklist
 
-* \[ ] Hypothesis documented
-* \[ ] Primary metric defined
-* \[ ] Sample size calculated
-* \[ ] Variants implemented correctly
-* \[ ] Tracking verified
-* \[ ] QA completed on all variants
+- \[ ] Hypothesis documented
+- \[ ] Primary metric defined
+- \[ ] Sample size calculated
+- \[ ] Variants implemented correctly
+- \[ ] Tracking verified
+- \[ ] QA completed on all variants
 
 ### During the Test
 
 **DO:**
 
-* Monitor for technical issues
-* Check segment quality
-* Document external factors
+- Monitor for technical issues
+- Check segment quality
+- Document external factors
 
 **DON'T:**
 
-* Peek at results and stop early
-* Make changes to variants
-* Add traffic from new sources
+- Peek at results and stop early
+- Make changes to variants
+- Add traffic from new sources
 
 ### The Peeking Problem
 
@@ -210,9 +210,9 @@ Looking at results before reaching sample size and stopping early leads to false
 
 ### Statistical Significance
 
-* 95% confidence = p-value < 0.05
-* Means <5% chance result is random
-* Not a guarantee—just a threshold
+- 95% confidence = p-value < 0.05
+- Means <5% chance result is random
+- Not a guarantee—just a threshold
 
 ### Analysis Checklist
 
@@ -238,10 +238,10 @@ Looking at results before reaching sample size and stopping early leads to false
 
 Document every test with:
 
-* Hypothesis
-* Variants (with screenshots)
-* Results (sample, metrics, significance)
-* Decision and learnings
+- Hypothesis
+- Variants (with screenshots)
+- Results (sample, metrics, significance)
+- Decision and learnings
 
 **For templates**: See [references/test-templates.md](references/test-templates.md)
 
@@ -251,21 +251,21 @@ Document every test with:
 
 ### Test Design
 
-* Testing too small a change (undetectable)
-* Testing too many things (can't isolate)
-* No clear hypothesis
+- Testing too small a change (undetectable)
+- Testing too many things (can't isolate)
+- No clear hypothesis
 
 ### Execution
 
-* Stopping early
-* Changing things mid-test
-* Not checking implementation
+- Stopping early
+- Changing things mid-test
+- Not checking implementation
 
 ### Analysis
 
-* Ignoring confidence intervals
-* Cherry-picking segments
-* Over-interpreting inconclusive results
+- Ignoring confidence intervals
+- Cherry-picking segments
+- Over-interpreting inconclusive results
 
 ***
 
@@ -282,6 +282,6 @@ Document every test with:
 
 ## Related Skills
 
-* **page-cro**: For generating test ideas based on CRO principles
-* **analytics-tracking**: For setting up test measurement
-* **copywriting**: For creating variant copy
+- **page-cro**: For generating test ideas based on CRO principles
+- **analytics-tracking**: For setting up test measurement
+- **copywriting**: For creating variant copy

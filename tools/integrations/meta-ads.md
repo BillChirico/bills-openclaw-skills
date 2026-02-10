@@ -13,9 +13,9 @@ Advertising platform for Facebook, Instagram, Messenger, and Audience Network.
 
 ## Authentication
 
-* **Type**: OAuth 2.0 Access Token
-* **Header**: Access token as query parameter
-* **Setup**: Create app in Meta Business Suite, generate System User token
+- **Type**: OAuth 2.0 Access Token
+- **Header**: Access token as query parameter
+- **Setup**: Create app in Meta Business Suite, generate System User token
 
 ## Common Agent Operations
 
@@ -104,12 +104,12 @@ access_token={access_token}
 
 ## Campaign Objectives
 
-* `AWARENESS` - Brand awareness
-* `TRAFFIC` - Website traffic
-* `ENGAGEMENT` - Post engagement
-* `LEADS` - Lead generation
-* `APP_PROMOTION` - App installs
-* `SALES` - Conversions/catalog sales
+- `AWARENESS` - Brand awareness
+- `TRAFFIC` - Website traffic
+- `ENGAGEMENT` - Post engagement
+- `LEADS` - Lead generation
+- `APP_PROMOTION` - App installs
+- `SALES` - Conversions/catalog sales
 
 ## Targeting Options
 
@@ -129,19 +129,19 @@ access_token={access_token}
 
 ## When to Use
 
-* Creating/managing Facebook and Instagram ads
-* Audience targeting and lookalikes
-* Campaign performance analysis
-* Retargeting setup
+- Creating/managing Facebook and Instagram ads
+- Audience targeting and lookalikes
+- Campaign performance analysis
+- Retargeting setup
 
 ## Rate Limits
 
-* 200 calls/hour per ad account
-* 60 calls/hour for marketing API
-* Use batch requests for efficiency
+- 200 calls/hour per ad account
+- 60 calls/hour for marketing API
+- Use batch requests for efficiency
 
 ## Relevant Skills
 
-* paid-ads
-* analytics-tracking
-* page-cro
+- paid-ads
+- analytics-tracking
+- page-cro

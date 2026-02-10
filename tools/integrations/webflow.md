@@ -13,9 +13,9 @@ Visual web design and CMS platform for marketing sites.
 
 ## Authentication
 
-* **Type**: API Token (Site token or OAuth)
-* **Header**: `Authorization: Bearer {api_token}`
-* **Get token**: Site Settings > Integrations > API Access
+- **Type**: API Token (Site token or OAuth)
+- **Header**: `Authorization: Bearer {api_token}`
+- **Get token**: Site Settings > Integrations > API Access
 
 ## Common Agent Operations
 
@@ -162,37 +162,37 @@ webflow devlink sync
 
 ## CMS Structure
 
-* **Collections** - Content types (like blog posts, team members)
-* **Items** - Individual entries in a collection
-* **Fields** - Data fields on items
+- **Collections** - Content types (like blog posts, team members)
+- **Items** - Individual entries in a collection
+- **Fields** - Data fields on items
 
 ## Common Field Types
 
-* `PlainText` - Simple text
-* `RichText` - Formatted content
-* `Image` - Image upload
-* `Link` - URL or page reference
-* `Reference` - Link to another collection
-* `Multi-Reference` - Multiple collection links
-* `Switch` - Boolean toggle
-* `Number` - Numeric value
-* `Date` - Date/time
+- `PlainText` - Simple text
+- `RichText` - Formatted content
+- `Image` - Image upload
+- `Link` - URL or page reference
+- `Reference` - Link to another collection
+- `Multi-Reference` - Multiple collection links
+- `Switch` - Boolean toggle
+- `Number` - Numeric value
+- `Date` - Date/time
 
 ## When to Use
 
-* Marketing site CMS management
-* Blog/content publishing
-* Form submission handling
-* Automated content updates
-* Programmatic SEO pages
+- Marketing site CMS management
+- Blog/content publishing
+- Form submission handling
+- Automated content updates
+- Programmatic SEO pages
 
 ## Rate Limits
 
-* 60 requests/minute (general)
-* 10 requests/minute (publishing)
+- 60 requests/minute (general)
+- 10 requests/minute (publishing)
 
 ## Relevant Skills
 
-* programmatic-seo
-* content-strategy
-* page-cro
+- programmatic-seo
+- content-strategy
+- page-cro

@@ -18,6 +18,11 @@
     "remark-preset-lint-recommended": "^7.0.0"
   },
   "remarkConfig": {
+    "settings": {
+      "bullet": "-",
+      "emphasis": "*",
+      "strong": "*"
+    },
     "plugins": [
       "remark-frontmatter",
       "remark-preset-lint-consistent",
@@ -28,7 +33,7 @@
       ],
       [
         "remark-lint-unordered-list-marker-style",
-        "*"
+        "-"
       ],
       [
         "remark-lint-emphasis-marker",

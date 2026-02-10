@@ -27,27 +27,27 @@ Before implementing schema, understand:
 
 ### 1. Accuracy First
 
-* Schema must accurately represent page content
-* Don't markup content that doesn't exist
-* Keep updated when content changes
+- Schema must accurately represent page content
+- Don't markup content that doesn't exist
+- Keep updated when content changes
 
 ### 2. Use JSON-LD
 
-* Google recommends JSON-LD format
-* Easier to implement and maintain
-* Place in `<head>` or end of `<body>`
+- Google recommends JSON-LD format
+- Easier to implement and maintain
+- Place in `<head>` or end of `<body>`
 
 ### 3. Follow Google's Guidelines
 
-* Only use markup Google supports
-* Avoid spam tactics
-* Review eligibility requirements
+- Only use markup Google supports
+- Avoid spam tactics
+- Review eligibility requirements
 
 ### 4. Validate Everything
 
-* Test before deploying
-* Monitor Search Console
-* Fix errors promptly
+- Test before deploying
+- Monitor Search Console
+- Fix errors promptly
 
 ***
 
@@ -118,9 +118,9 @@ You can combine multiple schema types on one page using `@graph`:
 
 ### Tools
 
-* **Google Rich Results Test**: https://search.google.com/test/rich-results
-* **Schema.org Validator**: https://validator.schema.org/
-* **Search Console**: Enhancements reports
+- **Google Rich Results Test**: https://search.google.com/test/rich-results
+- **Schema.org Validator**: https://validator.schema.org/
+- **Search Console**: Enhancements reports
 
 ### Common Errors
 
@@ -136,20 +136,20 @@ You can combine multiple schema types on one page using `@graph`:
 
 ### Static Sites
 
-* Add JSON-LD directly in HTML template
-* Use includes/partials for reusable schema
+- Add JSON-LD directly in HTML template
+- Use includes/partials for reusable schema
 
 ### Dynamic Sites (React, Next.js)
 
-* Component that renders schema
-* Server-side rendered for SEO
-* Serialize data to JSON-LD
+- Component that renders schema
+- Server-side rendered for SEO
+- Serialize data to JSON-LD
 
 ### CMS / WordPress
 
-* Plugins (Yoast, Rank Math, Schema Pro)
-* Theme modifications
-* Custom fields to structured data
+- Plugins (Yoast, Rank Math, Schema Pro)
+- Theme modifications
+- Custom fields to structured data
 
 ***
 
@@ -168,10 +168,10 @@ You can combine multiple schema types on one page using `@graph`:
 
 ### Testing Checklist
 
-* \[ ] Validates in Rich Results Test
-* \[ ] No errors or warnings
-* \[ ] Matches page content
-* \[ ] All required properties included
+- \[ ] Validates in Rich Results Test
+- \[ ] No errors or warnings
+- \[ ] Matches page content
+- \[ ] All required properties included
 
 ***
 
@@ -187,5 +187,5 @@ You can combine multiple schema types on one page using `@graph`:
 
 ## Related Skills
 
-* **seo-audit**: For overall SEO including schema review
-* **programmatic-seo**: For templated schema at scale
+- **seo-audit**: For overall SEO including schema review
+- **programmatic-seo**: For templated schema at scale

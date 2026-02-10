@@ -13,9 +13,9 @@ Email delivery platform for transactional and marketing emails.
 
 ## Authentication
 
-* **Type**: API Key
-* **Header**: `Authorization: Bearer {api_key}`
-* **Get key**: Settings > API Keys in SendGrid dashboard
+- **Type**: API Key
+- **Header**: `Authorization: Bearer {api_key}`
+- **Get key**: Settings > API Keys in SendGrid dashboard
 
 ## Common Agent Operations
 
@@ -145,17 +145,17 @@ await sgMail.send({
 
 ## When to Use
 
-* Transactional email at scale
-* Marketing email campaigns
-* Email validation
-* Deliverability management
+- Transactional email at scale
+- Marketing email campaigns
+- Email validation
+- Deliverability management
 
 ## Rate Limits
 
-* Free: 100 emails/day
-* Paid: Varies by plan (up to millions/month)
+- Free: 100 emails/day
+- Paid: Varies by plan (up to millions/month)
 
 ## Relevant Skills
 
-* email-sequence
-* analytics-tracking
+- email-sequence
+- analytics-tracking

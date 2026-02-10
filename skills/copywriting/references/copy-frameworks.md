@@ -122,41 +122,41 @@ Headline formulas, page section types, and structural templates.
 
 **Hero (Above the Fold)**
 
-* Headline + subheadline
-* Primary CTA
-* Supporting visual (product screenshot, hero image)
-* Optional: Social proof bar
+- Headline + subheadline
+- Primary CTA
+- Supporting visual (product screenshot, hero image)
+- Optional: Social proof bar
 
 **Social Proof Bar**
 
-* Customer logos (recognizable > many)
-* Key metric ("10,000+ teams")
-* Star rating with review count
-* Short testimonial snippet
+- Customer logos (recognizable > many)
+- Key metric ("10,000+ teams")
+- Star rating with review count
+- Short testimonial snippet
 
 **Problem/Pain Section**
 
-* Articulate their problem better than they can
-* Create recognition ("that's exactly my situation")
-* Hint at cost of not solving it
+- Articulate their problem better than they can
+- Create recognition ("that's exactly my situation")
+- Hint at cost of not solving it
 
 **Solution/Benefits Section**
 
-* Bridge from problem to your solution
-* 3-5 key benefits (not 10)
-* Each: headline + explanation + proof if available
+- Bridge from problem to your solution
+- 3-5 key benefits (not 10)
+- Each: headline + explanation + proof if available
 
 **How It Works**
 
-* 3-4 numbered steps
-* Reduces perceived complexity
-* Each step: action + outcome
+- 3-4 numbered steps
+- Reduces perceived complexity
+- Each step: action + outcome
 
 **Final CTA Section**
 
-* Recap value proposition
-* Repeat primary CTA
-* Risk reversal (guarantee, free trial)
+- Recap value proposition
+- Repeat primary CTA
+- Risk reversal (guarantee, free trial)
 
 ***
 
@@ -164,82 +164,82 @@ Headline formulas, page section types, and structural templates.
 
 **Testimonials**
 
-* Full quotes with names, roles, companies
-* Photos when possible
-* Specific results over vague praise
-* Formats: quote cards, video, tweet embeds
+- Full quotes with names, roles, companies
+- Photos when possible
+- Specific results over vague praise
+- Formats: quote cards, video, tweet embeds
 
 **Case Studies**
 
-* Problem → Solution → Results
-* Specific metrics and outcomes
-* Customer name and context
-* Can be snippets with "Read more" links
+- Problem → Solution → Results
+- Specific metrics and outcomes
+- Customer name and context
+- Can be snippets with "Read more" links
 
 **Use Cases**
 
-* Different ways product is used
-* Helps visitors self-identify
-* "For marketers who need X" format
+- Different ways product is used
+- Helps visitors self-identify
+- "For marketers who need X" format
 
 **Personas / "Built For" Sections**
 
-* Explicitly call out target audience
-* "Perfect for \[role]" blocks
-* Addresses "Is this for me?" question
+- Explicitly call out target audience
+- "Perfect for \[role]" blocks
+- Addresses "Is this for me?" question
 
 **FAQ Section**
 
-* Address common objections
-* Good for SEO
-* Reduces support burden
-* 5-10 most common questions
+- Address common objections
+- Good for SEO
+- Reduces support burden
+- 5-10 most common questions
 
 **Comparison Section**
 
-* vs. competitors (name them or don't)
-* vs. status quo (spreadsheets, manual processes)
-* Tables or side-by-side format
+- vs. competitors (name them or don't)
+- vs. status quo (spreadsheets, manual processes)
+- Tables or side-by-side format
 
 **Integrations / Partners**
 
-* Logos of tools you connect with
-* "Works with your stack" messaging
-* Builds credibility
+- Logos of tools you connect with
+- "Works with your stack" messaging
+- Builds credibility
 
 **Founder Story / Manifesto**
 
-* Why you built this
-* What you believe
-* Emotional connection
-* Differentiates from faceless competitors
+- Why you built this
+- What you believe
+- Emotional connection
+- Differentiates from faceless competitors
 
 **Demo / Product Tour**
 
-* Interactive demos
-* Video walkthroughs
-* GIF previews
-* Shows product in action
+- Interactive demos
+- Video walkthroughs
+- GIF previews
+- Shows product in action
 
 **Pricing Preview**
 
-* Teaser even on non-pricing pages
-* Starting price or "from $X/mo"
-* Moves decision-makers forward
+- Teaser even on non-pricing pages
+- Starting price or "from $X/mo"
+- Moves decision-makers forward
 
 **Guarantee / Risk Reversal**
 
-* Money-back guarantee
-* Free trial terms
-* "Cancel anytime"
-* Reduces friction
+- Money-back guarantee
+- Free trial terms
+- "Cancel anytime"
+- Reduces friction
 
 **Stats Section**
 
-* Key metrics that build credibility
-* "10,000+ customers"
-* "4.9/5 rating"
-* "$2M saved for customers"
+- Key metrics that build credibility
+- "10,000+ customers"
+- "4.9/5 rating"
+- "$2M saved for customers"
 
 ***
 
@@ -336,32 +336,32 @@ Good for ProductHunt, launches, or announcements.
 
 Start with phrases like:
 
-* "You know the feeling..."
-* "If you're like most \[role]..."
-* "Every day, \[audience] struggles with..."
-* "We've all been there..."
+- "You know the feeling..."
+- "If you're like most \[role]..."
+- "Every day, \[audience] struggles with..."
+- "We've all been there..."
 
 Then describe:
 
-* The specific frustration
-* The time/money wasted
-* The impact on their work/life
+- The specific frustration
+- The time/money wasted
+- The impact on their work/life
 
 ### Benefits Section
 
 For each benefit, include:
 
-* **Headline**: The outcome they get
-* **Body**: How it works (1-2 sentences)
-* **Proof**: Number, testimonial, or example (optional)
+- **Headline**: The outcome they get
+- **Body**: How it works (1-2 sentences)
+- **Proof**: Number, testimonial, or example (optional)
 
 ### How It Works Section
 
 Each step should be:
 
-* **Numbered**: Creates sense of progress
-* **Simple verb**: "Connect," "Set up," "Get"
-* **Outcome-oriented**: What they get from this step
+- **Numbered**: Creates sense of progress
+- **Simple verb**: "Connect," "Set up," "Get"
+- **Outcome-oriented**: What they get from this step
 
 Example:
 
@@ -373,13 +373,13 @@ Example:
 
 Best testimonials include:
 
-* Specific results ("increased conversions by 32%")
-* Before/after context ("We used to spend hours...")
-* Role + company for credibility
-* Something quotable and specific
+- Specific results ("increased conversions by 32%")
+- Before/after context ("We used to spend hours...")
+- Role + company for credibility
+- Something quotable and specific
 
 Avoid testimonials that just say:
 
-* "Great product!"
-* "Love it!"
-* "Easy to use!"
+- "Great product!"
+- "Love it!"
+- "Easy to use!"

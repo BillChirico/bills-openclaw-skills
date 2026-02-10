@@ -13,9 +13,9 @@ SEO toolset for backlink analysis, keyword research, and competitive research.
 
 ## Authentication
 
-* **Type**: API Token
-* **Header**: `Authorization: Bearer {api_token}`
-* **Get token**: Account Settings > API in Ahrefs dashboard
+- **Type**: API Token
+- **Header**: `Authorization: Bearer {api_token}`
+- **Get token**: Account Settings > API in Ahrefs dashboard
 
 ## Common Agent Operations
 
@@ -95,51 +95,51 @@ Authorization: Bearer {api_token}
 
 ### Domain Metrics
 
-* `domain_rating` - Domain Rating (DR)
-* `ahrefs_rank` - Ahrefs Rank
-* `referring_domains` - Referring domains count
-* `backlinks` - Total backlinks
-* `organic_traffic` - Estimated organic traffic
+- `domain_rating` - Domain Rating (DR)
+- `ahrefs_rank` - Ahrefs Rank
+- `referring_domains` - Referring domains count
+- `backlinks` - Total backlinks
+- `organic_traffic` - Estimated organic traffic
 
 ### Keyword Metrics
 
-* `volume` - Monthly search volume
-* `keyword_difficulty` - KD score (0-100)
-* `cpc` - Cost per click
-* `clicks` - Estimated monthly clicks
-* `global_volume` - Global search volume
+- `volume` - Monthly search volume
+- `keyword_difficulty` - KD score (0-100)
+- `cpc` - Cost per click
+- `clicks` - Estimated monthly clicks
+- `global_volume` - Global search volume
 
 ### Backlink Fields
 
-* `url_from` - Source URL
-* `url_to` - Target URL
-* `anchor` - Anchor text
-* `domain_rating_source` - Source DR
-* `first_seen` - First discovery date
+- `url_from` - Source URL
+- `url_to` - Target URL
+- `anchor` - Anchor text
+- `domain_rating_source` - Source DR
+- `first_seen` - First discovery date
 
 ## Modes
 
-* `domain` - Entire domain
-* `subdomains` - Domain + subdomains
-* `prefix` - URL prefix
-* `exact` - Exact URL
+- `domain` - Entire domain
+- `subdomains` - Domain + subdomains
+- `prefix` - URL prefix
+- `exact` - Exact URL
 
 ## When to Use
 
-* Backlink analysis
-* Link building research
-* Keyword research
-* Competitive analysis
-* Content gap analysis
-* Site audits
+- Backlink analysis
+- Link building research
+- Keyword research
+- Competitive analysis
+- Content gap analysis
+- Site audits
 
 ## Rate Limits
 
-* Varies by plan
-* 500-5000 rows per request
+- Varies by plan
+- 500-5000 rows per request
 
 ## Relevant Skills
 
-* seo-audit
-* content-strategy
-* competitor-alternatives
+- seo-audit
+- content-strategy
+- competitor-alternatives

@@ -11,16 +11,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* High intent—people need it now
-* Shareable/linkable assets
-* Natural for product-led companies
+- High intent—people need it now
+- Shareable/linkable assets
+- Natural for product-led companies
 
 **Value requirements**:
 
-* Actually usable templates (not just previews)
-* Multiple variations per type
-* Quality comparable to paid options
-* Easy download/use flow
+- Actually usable templates (not just previews)
+- Multiple variations per type
+- Quality comparable to paid options
+- Easy download/use flow
 
 **URL structure**: `/templates/[type]/` or `/templates/[category]/[type]/`
 
@@ -35,16 +35,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Comparison shoppers searching for guidance
-* High commercial intent
-* Evergreen with updates
+- Comparison shoppers searching for guidance
+- High commercial intent
+- Evergreen with updates
 
 **Value requirements**:
 
-* Genuine evaluation criteria
-* Real testing or expertise
-* Regular updates (date visible)
-* Not just affiliate-driven rankings
+- Genuine evaluation criteria
+- Real testing or expertise
+- Regular updates (date visible)
+- Not just affiliate-driven rankings
 
 **URL structure**: `/best/[category]/` or `/[category]/best/`
 
@@ -59,16 +59,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Instant utility
-* Extremely high search volume
-* Repeat usage potential
+- Instant utility
+- Extremely high search volume
+- Repeat usage potential
 
 **Value requirements**:
 
-* Accurate, real-time data
-* Fast, functional tool
-* Related conversions suggested
-* Mobile-friendly interface
+- Accurate, real-time data
+- Fast, functional tool
+- Related conversions suggested
+- Mobile-friendly interface
 
 **URL structure**: `/convert/[from]-to-[to]/` or `/[from]-to-[to]-converter/`
 
@@ -83,16 +83,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* High purchase intent
-* Clear search pattern
-* Scales with number of competitors
+- High purchase intent
+- Clear search pattern
+- Scales with number of competitors
 
 **Value requirements**:
 
-* Honest, balanced analysis
-* Actual feature comparison data
-* Clear recommendation by use case
-* Updated when products change
+- Honest, balanced analysis
+- Actual feature comparison data
+- Clear recommendation by use case
+- Updated when products change
 
 **URL structure**: `/compare/[x]-vs-[y]/` or `/[x]-vs-[y]/`
 
@@ -109,16 +109,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Research phase traffic
-* Highly shareable
-* Natural for design/creative tools
+- Research phase traffic
+- Highly shareable
+- Natural for design/creative tools
 
 **Value requirements**:
 
-* Real, high-quality examples
-* Screenshots or embeds
-* Categorization/filtering
-* Analysis of why they work
+- Real, high-quality examples
+- Screenshots or embeds
+- Categorization/filtering
+- Analysis of why they work
 
 **URL structure**: `/examples/[type]/` or `/[type]-examples/`
 
@@ -133,16 +133,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Local intent is massive
-* Scales with geography
-* Natural for marketplaces/directories
+- Local intent is massive
+- Scales with geography
+- Natural for marketplaces/directories
 
 **Value requirements**:
 
-* Actual local data (not just city name swapped)
-* Local providers/options listed
-* Location-specific insights (pricing, regulations)
-* Map integration helpful
+- Actual local data (not just city name swapped)
+- Local providers/options listed
+- Location-specific insights (pricing, regulations)
+- Map integration helpful
 
 **URL structure**: `/[service]/[city]/` or `/locations/[city]/[service]/`
 
@@ -157,16 +157,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Speaks directly to searcher's context
-* Higher conversion than generic pages
-* Scales with personas
+- Speaks directly to searcher's context
+- Higher conversion than generic pages
+- Scales with personas
 
 **Value requirements**:
 
-* Genuine persona-specific content
-* Relevant features highlighted
-* Testimonials from that segment
-* Use cases specific to audience
+- Genuine persona-specific content
+- Relevant features highlighted
+- Testimonials from that segment
+- Use cases specific to audience
 
 **URL structure**: `/for/[persona]/` or `/solutions/[industry]/`
 
@@ -181,16 +181,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Captures users of other products
-* High intent (they want the solution)
-* Scales with integration ecosystem
+- Captures users of other products
+- High intent (they want the solution)
+- Scales with integration ecosystem
 
 **Value requirements**:
 
-* Real integration details
-* Setup instructions
-* Use cases for the combination
-* Working integration (not vaporware)
+- Real integration details
+- Setup instructions
+- Use cases for the combination
+- Working integration (not vaporware)
 
 **URL structure**: `/integrations/[product]/` or `/connect/[product]/`
 
@@ -205,16 +205,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Top-of-funnel awareness
-* Establishes expertise
-* Natural internal linking opportunities
+- Top-of-funnel awareness
+- Establishes expertise
+- Natural internal linking opportunities
 
 **Value requirements**:
 
-* Clear, accurate definitions
-* Examples and context
-* Related terms linked
-* More depth than a dictionary
+- Clear, accurate definitions
+- Examples and context
+- Related terms linked
+- More depth than a dictionary
 
 **URL structure**: `/glossary/[term]/` or `/learn/[term]/`
 
@@ -229,16 +229,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Opens entirely new markets
-* Lower competition in many languages
-* Multiplies your content reach
+- Opens entirely new markets
+- Lower competition in many languages
+- Multiplies your content reach
 
 **Value requirements**:
 
-* Quality translation (not just Google Translate)
-* Cultural localization
-* hreflang tags properly implemented
-* Native speaker review
+- Quality translation (not just Google Translate)
+- Cultural localization
+- hreflang tags properly implemented
+- Native speaker review
 
 **URL structure**: `/[lang]/[page]/` or `yoursite.com/es/`, `/de/`, etc.
 
@@ -253,16 +253,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Research phase capture
-* Link building magnet
-* Natural for aggregators/reviewers
+- Research phase capture
+- Link building magnet
+- Natural for aggregators/reviewers
 
 **Value requirements**:
 
-* Comprehensive coverage
-* Useful filtering/sorting
-* Details per listing (not just names)
-* Regular updates
+- Comprehensive coverage
+- Useful filtering/sorting
+- Details per listing (not just names)
+- Regular updates
 
 **URL structure**: `/directory/[category]/` or `/[category]-directory/`
 
@@ -277,16 +277,16 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 **Why it works**:
 
-* Informational intent traffic
-* Builds topical authority
-* Natural for B2B, news, research
+- Informational intent traffic
+- Builds topical authority
+- Natural for B2B, news, research
 
 **Value requirements**:
 
-* Accurate, sourced information
-* Regularly updated
-* Unique insights or aggregation
-* Not just Wikipedia rehash
+- Accurate, sourced information
+- Regularly updated
+- Unique insights or aggregation
+- Not just Wikipedia rehash
 
 **URL structure**: `/people/[name]/` or `/companies/[name]/`
 
@@ -312,7 +312,7 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 You can layer multiple playbooks:
 
-* **Locations + Personas**: "Marketing agencies for startups in Austin"
-* **Curation + Locations**: "Best coworking spaces in San Diego"
-* **Integrations + Personas**: "Slack for sales teams"
-* **Glossary + Translations**: Multi-language educational content
+- **Locations + Personas**: "Marketing agencies for startups in Austin"
+- **Curation + Locations**: "Best coworking spaces in San Diego"
+- **Integrations + Personas**: "Slack for sales teams"
+- **Glossary + Translations**: Multi-language educational content

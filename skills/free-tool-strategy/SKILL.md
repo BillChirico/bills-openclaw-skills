@@ -27,25 +27,25 @@ Before designing a tool strategy, understand:
 
 ### 1. Solve a Real Problem
 
-* Tool must provide genuine value
-* Solves a problem your audience actually has
-* Useful even without your main product
+- Tool must provide genuine value
+- Solves a problem your audience actually has
+- Useful even without your main product
 
 ### 2. Adjacent to Core Product
 
-* Related to what you sell
-* Natural path from tool to product
-* Educates on problem you solve
+- Related to what you sell
+- Natural path from tool to product
+- Educates on problem you solve
 
 ### 3. Simple and Focused
 
-* Does one thing well
-* Low friction to use
-* Immediate value
+- Does one thing well
+- Low friction to use
+- Immediate value
 
 ### 4. Worth the Investment
 
-* Lead value × expected leads > build cost + maintenance
+- Lead value × expected leads > build cost + maintenance
 
 ***
 
@@ -78,10 +78,10 @@ Before designing a tool strategy, understand:
 
 ### Validate the Idea
 
-* **Search demand**: Is there search volume? How competitive?
-* **Uniqueness**: What exists? How can you be 10x better?
-* **Lead quality**: Does this audience match buyers?
-* **Build feasibility**: How complex? Can you scope an MVP?
+- **Search demand**: Is there search volume? How competitive?
+- **Uniqueness**: What exists? How can you be 10x better?
+- **Lead quality**: Does this audience match buyers?
+- **Build feasibility**: How complex? Can you scope an MVP?
 
 ***
 
@@ -98,10 +98,10 @@ Before designing a tool strategy, understand:
 
 ### Lead Capture Best Practices
 
-* Value exchange clear: "Get your full report"
-* Minimal friction: Email only
-* Show preview of what they'll get
-* Optional: Segment by asking one qualifying question
+- Value exchange clear: "Get your full report"
+- Minimal friction: Email only
+- Show preview of what they'll get
+- Optional: Segment by asking one qualifying question
 
 ***
 
@@ -117,9 +117,9 @@ Before designing a tool strategy, understand:
 
 Free tools attract links because:
 
-* Genuinely useful (people reference them)
-* Unique (can't link to just any page)
-* Shareable (social amplification)
+- Genuinely useful (people reference them)
+- Unique (can't link to just any page)
+- Shareable (social amplification)
 
 ***
 
@@ -184,7 +184,7 @@ Rate each factor 1-5:
 
 ## Related Skills
 
-* **page-cro**: For optimizing the tool's landing page
-* **seo-audit**: For SEO-optimizing the tool
-* **analytics-tracking**: For measuring tool usage
-* **email-sequence**: For nurturing leads from the tool
+- **page-cro**: For optimizing the tool's landing page
+- **seo-audit**: For SEO-optimizing the tool
+- **analytics-tracking**: For measuring tool usage
+- **email-sequence**: For nurturing leads from the tool

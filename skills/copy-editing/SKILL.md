@@ -17,10 +17,10 @@ Good copy editing isn't about rewriting—it's about enhancing. Each pass focuse
 
 **Key principles:**
 
-* Don't change the core message; focus on enhancing it
-* Multiple focused passes beat one unfocused review
-* Each edit should have a clear reason
-* Preserve the author's voice while improving clarity
+- Don't change the core message; focus on enhancing it
+- Multiple focused passes beat one unfocused review
+- Each edit should have a clear reason
+- Preserve the author's voice while improving clarity
 
 ***
 
@@ -34,18 +34,18 @@ Edit copy through seven sequential passes, each focusing on one dimension. After
 
 **What to check:**
 
-* Confusing sentence structures
-* Unclear pronoun references
-* Jargon or insider language
-* Ambiguous statements
-* Missing context
+- Confusing sentence structures
+- Unclear pronoun references
+- Jargon or insider language
+- Ambiguous statements
+- Missing context
 
 **Common clarity killers:**
 
-* Sentences trying to say too much
-* Abstract language instead of concrete
-* Assuming reader knowledge they don't have
-* Burying the point in qualifications
+- Sentences trying to say too much
+- Abstract language instead of concrete
+- Assuming reader knowledge they don't have
+- Burying the point in qualifications
 
 **Process:**
 
@@ -64,17 +64,17 @@ Edit copy through seven sequential passes, each focusing on one dimension. After
 
 **What to check:**
 
-* Shifts between formal and casual
-* Inconsistent brand personality
-* Mood changes that feel jarring
-* Word choices that don't match the brand
+- Shifts between formal and casual
+- Inconsistent brand personality
+- Mood changes that feel jarring
+- Word choices that don't match the brand
 
 **Common voice issues:**
 
-* Starting casual, becoming corporate
-* Mixing "we" and "the company" references
-* Humor in some places, serious in others (unintentionally)
-* Technical language appearing randomly
+- Starting casual, becoming corporate
+- Mixing "we" and "the company" references
+- Humor in some places, serious in others (unintentionally)
+- Technical language appearing randomly
 
 **Process:**
 
@@ -93,10 +93,10 @@ Edit copy through seven sequential passes, each focusing on one dimension. After
 
 **What to check:**
 
-* Features without benefits
-* Claims without consequences
-* Statements that don't connect to reader's life
-* Missing "which means..." bridges
+- Features without benefits
+- Claims without consequences
+- Statements that don't connect to reader's life
+- Missing "which means..." bridges
 
 **The So What test:**
 For every statement, ask "Okay, so what?" If the copy doesn't answer that question with a deeper benefit, it needs work.
@@ -107,10 +107,10 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **Common So What failures:**
 
-* Feature lists without benefit connections
-* Impressive-sounding claims that don't land
-* Technical capabilities without outcomes
-* Company achievements that don't help the reader
+- Feature lists without benefit connections
+- Impressive-sounding claims that don't land
+- Technical capabilities without outcomes
+- Company achievements that don't help the reader
 
 **Process:**
 
@@ -129,27 +129,27 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **What to check:**
 
-* Unsubstantiated claims
-* Missing social proof
-* Assertions without backup
-* "Best" or "leading" without evidence
+- Unsubstantiated claims
+- Missing social proof
+- Assertions without backup
+- "Best" or "leading" without evidence
 
 **Types of proof to look for:**
 
-* Testimonials with names and specifics
-* Case study references
-* Statistics and data
-* Third-party validation
-* Guarantees and risk reversals
-* Customer logos
-* Review scores
+- Testimonials with names and specifics
+- Case study references
+- Statistics and data
+- Third-party validation
+- Guarantees and risk reversals
+- Customer logos
+- Review scores
 
 **Common proof gaps:**
 
-* "Trusted by thousands" (which thousands?)
-* "Industry-leading" (according to whom?)
-* "Customers love us" (show them saying it)
-* Results claims without specifics
+- "Trusted by thousands" (which thousands?)
+- "Industry-leading" (according to whom?)
+- "Customers love us" (show them saying it)
+- Results claims without specifics
 
 **Process:**
 
@@ -168,10 +168,10 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **What to check:**
 
-* Vague language ("improve," "enhance," "optimize")
-* Generic statements that could apply to anyone
-* Round numbers that feel made up
-* Missing details that would make it real
+- Vague language ("improve," "enhance," "optimize")
+- Generic statements that could apply to anyone
+- Round numbers that feel made up
+- Missing details that would make it real
 
 **Specificity upgrades:**
 
@@ -185,10 +185,10 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **Common specificity issues:**
 
-* Adjectives doing the work nouns should do
-* Benefits without quantification
-* Outcomes without timeframes
-* Claims without concrete examples
+- Adjectives doing the work nouns should do
+- Benefits without quantification
+- Outcomes without timeframes
+- Claims without concrete examples
 
 **Process:**
 
@@ -207,27 +207,27 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **What to check:**
 
-* Flat, informational language
-* Missing emotional triggers
-* Pain points mentioned but not felt
-* Aspirations stated but not evoked
+- Flat, informational language
+- Missing emotional triggers
+- Pain points mentioned but not felt
+- Aspirations stated but not evoked
 
 **Emotional dimensions to consider:**
 
-* Pain of the current state
-* Frustration with alternatives
-* Fear of missing out
-* Desire for transformation
-* Pride in making smart choices
-* Relief from solving the problem
+- Pain of the current state
+- Frustration with alternatives
+- Fear of missing out
+- Desire for transformation
+- Pride in making smart choices
+- Relief from solving the problem
 
 **Techniques for heightening emotion:**
 
-* Paint the "before" state vividly
-* Use sensory language
-* Tell micro-stories
-* Reference shared experiences
-* Ask questions that prompt reflection
+- Paint the "before" state vividly
+- Use sensory language
+- Tell micro-stories
+- Reference shared experiences
+- Ask questions that prompt reflection
 
 **Process:**
 
@@ -246,28 +246,28 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **What to check:**
 
-* Friction near CTAs
-* Unanswered objections
-* Missing trust signals
-* Unclear next steps
-* Hidden costs or surprises
+- Friction near CTAs
+- Unanswered objections
+- Missing trust signals
+- Unclear next steps
+- Hidden costs or surprises
 
 **Risk reducers to look for:**
 
-* Money-back guarantees
-* Free trials
-* "No credit card required"
-* "Cancel anytime"
-* Social proof near CTA
-* Clear expectations of what happens next
-* Privacy assurances
+- Money-back guarantees
+- Free trials
+- "No credit card required"
+- "Cancel anytime"
+- Social proof near CTA
+- Clear expectations of what happens next
+- Privacy assurances
 
 **Common risk issues:**
 
-* CTA asks for commitment without earning trust
-* Objections raised but not addressed
-* Fine print that creates doubt
-* Vague "Contact us" instead of clear next step
+- CTA asks for commitment without earning trust
+- Objections raised but not addressed
+- Fine print that creates doubt
+- Vague "Contact us" instead of clear next step
 
 **Process:**
 
@@ -288,11 +288,11 @@ Use these for faster reviews when a full seven-sweep process isn't needed.
 
 **Cut these words:**
 
-* Very, really, extremely, incredibly (weak intensifiers)
-* Just, actually, basically (filler)
-* In order to (use "to")
-* That (often unnecessary)
-* Things, stuff (vague)
+- Very, really, extremely, incredibly (weak intensifiers)
+- Just, actually, basically (filler)
+- In order to (use "to")
+- That (often unnecessary)
+- Things, stuff (vague)
 
 **Replace these:**
 
@@ -309,25 +309,25 @@ Use these for faster reviews when a full seven-sweep process isn't needed.
 
 **Watch for:**
 
-* Adverbs (usually unnecessary)
-* Passive voice (switch to active)
-* Nominalizations (verb → noun: "make a decision" → "decide")
+- Adverbs (usually unnecessary)
+- Passive voice (switch to active)
+- Nominalizations (verb → noun: "make a decision" → "decide")
 
 ### Sentence-Level Checks
 
-* One idea per sentence
-* Vary sentence length (mix short and long)
-* Front-load important information
-* Max 3 conjunctions per sentence
-* No more than 25 words (usually)
+- One idea per sentence
+- Vary sentence length (mix short and long)
+- Front-load important information
+- Max 3 conjunctions per sentence
+- No more than 25 words (usually)
 
 ### Paragraph-Level Checks
 
-* One topic per paragraph
-* Short paragraphs (2-4 sentences for web)
-* Strong opening sentences
-* Logical flow between paragraphs
-* White space for scannability
+- One topic per paragraph
+- Short paragraphs (2-4 sentences for web)
+- Strong opening sentences
+- Logical flow between paragraphs
+- White space for scannability
 
 ***
 
@@ -335,66 +335,66 @@ Use these for faster reviews when a full seven-sweep process isn't needed.
 
 ### Before You Start
 
-* \[ ] Understand the goal of this copy
-* \[ ] Know the target audience
-* \[ ] Identify the desired action
-* \[ ] Read through once without editing
+- \[ ] Understand the goal of this copy
+- \[ ] Know the target audience
+- \[ ] Identify the desired action
+- \[ ] Read through once without editing
 
 ### Clarity (Sweep 1)
 
-* \[ ] Every sentence is immediately understandable
-* \[ ] No jargon without explanation
-* \[ ] Pronouns have clear references
-* \[ ] No sentences trying to do too much
+- \[ ] Every sentence is immediately understandable
+- \[ ] No jargon without explanation
+- \[ ] Pronouns have clear references
+- \[ ] No sentences trying to do too much
 
 ### Voice & Tone (Sweep 2)
 
-* \[ ] Consistent formality level throughout
-* \[ ] Brand personality maintained
-* \[ ] No jarring shifts in mood
-* \[ ] Reads well aloud
+- \[ ] Consistent formality level throughout
+- \[ ] Brand personality maintained
+- \[ ] No jarring shifts in mood
+- \[ ] Reads well aloud
 
 ### So What (Sweep 3)
 
-* \[ ] Every feature connects to a benefit
-* \[ ] Claims answer "why should I care?"
-* \[ ] Benefits connect to real desires
-* \[ ] No impressive-but-empty statements
+- \[ ] Every feature connects to a benefit
+- \[ ] Claims answer "why should I care?"
+- \[ ] Benefits connect to real desires
+- \[ ] No impressive-but-empty statements
 
 ### Prove It (Sweep 4)
 
-* \[ ] Claims are substantiated
-* \[ ] Social proof is specific and attributed
-* \[ ] Numbers and stats have sources
-* \[ ] No unearned superlatives
+- \[ ] Claims are substantiated
+- \[ ] Social proof is specific and attributed
+- \[ ] Numbers and stats have sources
+- \[ ] No unearned superlatives
 
 ### Specificity (Sweep 5)
 
-* \[ ] Vague words replaced with concrete ones
-* \[ ] Numbers and timeframes included
-* \[ ] Generic statements made specific
-* \[ ] Filler content removed
+- \[ ] Vague words replaced with concrete ones
+- \[ ] Numbers and timeframes included
+- \[ ] Generic statements made specific
+- \[ ] Filler content removed
 
 ### Heightened Emotion (Sweep 6)
 
-* \[ ] Copy evokes feeling, not just information
-* \[ ] Pain points feel real
-* \[ ] Aspirations feel achievable
-* \[ ] Emotion serves the message authentically
+- \[ ] Copy evokes feeling, not just information
+- \[ ] Pain points feel real
+- \[ ] Aspirations feel achievable
+- \[ ] Emotion serves the message authentically
 
 ### Zero Risk (Sweep 7)
 
-* \[ ] Objections addressed near CTA
-* \[ ] Trust signals present
-* \[ ] Next steps are crystal clear
-* \[ ] Risk reversals stated (guarantee, trial, etc.)
+- \[ ] Objections addressed near CTA
+- \[ ] Trust signals present
+- \[ ] Next steps are crystal clear
+- \[ ] Risk reversals stated (guarantee, trial, etc.)
 
 ### Final Checks
 
-* \[ ] No typos or grammatical errors
-* \[ ] Consistent formatting
-* \[ ] Links work (if applicable)
-* \[ ] Core message preserved through all edits
+- \[ ] No typos or grammatical errors
+- \[ ] Consistent formatting
+- \[ ] Links work (if applicable)
+- \[ ] Core message preserved through all edits
 
 ***
 
@@ -458,7 +458,7 @@ This iterative process ensures each edit doesn't create new problems while respe
 
 ## References
 
-* [Plain English Alternatives](references/plain-english-alternatives.md): Replace complex words with simpler alternatives
+- [Plain English Alternatives](references/plain-english-alternatives.md): Replace complex words with simpler alternatives
 
 ***
 
@@ -473,10 +473,10 @@ This iterative process ensures each edit doesn't create new problems while respe
 
 ## Related Skills
 
-* **copywriting**: For writing new copy from scratch (use this skill to edit after your first draft is complete)
-* **page-cro**: For broader page optimization beyond copy
-* **marketing-psychology**: For understanding why certain edits improve conversion
-* **ab-test-setup**: For testing copy variations
+- **copywriting**: For writing new copy from scratch (use this skill to edit after your first draft is complete)
+- **page-cro**: For broader page optimization beyond copy
+- **marketing-psychology**: For understanding why certain edits improve conversion
+- **ab-test-setup**: For testing copy variations
 
 ***
 

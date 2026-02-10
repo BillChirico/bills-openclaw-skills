@@ -21,10 +21,10 @@ The best companies don't just launch once—they launch again and again. Every n
 
 A strong launch isn't about a single moment. It's about:
 
-* Getting your product into users' hands early
-* Learning from real feedback
-* Making a splash at every stage
-* Building momentum that compounds over time
+- Getting your product into users' hands early
+- Learning from real feedback
+- Making a splash at every stage
+- Building momentum that compounds over time
 
 ***
 
@@ -38,24 +38,24 @@ You own the channel (though not the audience). Direct access without algorithms 
 
 **Examples:**
 
-* Email list
-* Blog
-* Podcast
-* Branded community (Slack, Discord)
-* Website/product
+- Email list
+- Blog
+- Podcast
+- Branded community (Slack, Discord)
+- Website/product
 
 **Why they matter:**
 
-* Get more effective over time
-* No algorithm changes or pay-to-play
-* Direct relationship with audience
-* Compound value from content
+- Get more effective over time
+- No algorithm changes or pay-to-play
+- Direct relationship with audience
+- Compound value from content
 
 **Start with 1-2 based on audience:**
 
-* Industry lacks quality content → Start a blog
-* People want direct updates → Focus on email
-* Engagement matters → Build a community
+- Industry lacks quality content → Start a blog
+- People want direct updates → Focus on email
+- Engagement matters → Build a community
 
 **Example - Superhuman:**
 Built demand through an invite-only waitlist and one-on-one onboarding sessions. Every new user got a 30-minute live demo. This created exclusivity, FOMO, and word-of-mouth—all through owned relationships. Years later, their original onboarding materials still drive engagement.
@@ -66,25 +66,25 @@ Platforms that provide visibility but you don't control. Algorithms shift, rules
 
 **Examples:**
 
-* Social media (Twitter/X, LinkedIn, Instagram)
-* App stores and marketplaces
-* YouTube
-* Reddit
+- Social media (Twitter/X, LinkedIn, Instagram)
+- App stores and marketplaces
+- YouTube
+- Reddit
 
 **How to use correctly:**
 
-* Pick 1-2 platforms where your audience is active
-* Use them to drive traffic to owned channels
-* Don't rely on them as your only strategy
+- Pick 1-2 platforms where your audience is active
+- Use them to drive traffic to owned channels
+- Don't rely on them as your only strategy
 
 **Example - Notion:**
 Hacked virality through Twitter, YouTube, and Reddit where productivity enthusiasts were active. Encouraged community to share templates and workflows. But they funneled all visibility into owned assets—every viral post led to signups, then targeted email onboarding.
 
 **Platform-specific tactics:**
 
-* Twitter/X: Threads that spark conversation → link to newsletter
-* LinkedIn: High-value posts → lead to gated content or email signup
-* Marketplaces (Shopify, Slack): Optimize listing → drive to site for more
+- Twitter/X: Threads that spark conversation → link to newsletter
+- LinkedIn: High-value posts → lead to gated content or email signup
+- Marketplaces (Shopify, Slack): Optimize listing → drive to site for more
 
 Rented channels give speed, not stability. Capture momentum by bringing users into your owned ecosystem.
 
@@ -94,10 +94,10 @@ Tap into someone else's audience to shortcut the hardest part—getting noticed.
 
 **Examples:**
 
-* Guest content (blog posts, podcast interviews, newsletter features)
-* Collaborations (webinars, co-marketing, social takeovers)
-* Speaking engagements (conferences, panels, virtual summits)
-* Influencer partnerships
+- Guest content (blog posts, podcast interviews, newsletter features)
+- Collaborations (webinars, co-marketing, social takeovers)
+- Speaking engagements (conferences, panels, virtual summits)
+- Influencer partnerships
 
 **Be proactive, not passive:**
 
@@ -123,9 +123,9 @@ Gather initial feedback and iron out major issues before going public.
 
 **Actions:**
 
-* Recruit early users one-on-one to test for free
-* Collect feedback on usability gaps and missing features
-* Ensure prototype is functional enough to demo (doesn't need to be production-ready)
+- Recruit early users one-on-one to test for free
+- Collect feedback on usability gaps and missing features
+- Ensure prototype is functional enough to demo (doesn't need to be production-ready)
 
 **Goal:** Validate core functionality with friendly users.
 
@@ -135,10 +135,10 @@ Put the product in front of external users in a controlled way.
 
 **Actions:**
 
-* Create landing page with early access signup form
-* Announce the product exists
-* Invite users individually to start testing
-* MVP should be working in production (even if still evolving)
+- Create landing page with early access signup form
+- Announce the product exists
+- Invite users individually to start testing
+- MVP should be working in production (even if still evolving)
 
 **Goal:** First external validation and initial waitlist building.
 
@@ -148,16 +148,16 @@ Scale up early access while generating external buzz.
 
 **Actions:**
 
-* Work through early access list (some free, some paid)
-* Start marketing with teasers about problems you solve
-* Recruit friends, investors, and influencers to test and share
+- Work through early access list (some free, some paid)
+- Start marketing with teasers about problems you solve
+- Recruit friends, investors, and influencers to test and share
 
 **Consider adding:**
 
-* Coming soon landing page or waitlist
-* "Beta" sticker in dashboard navigation
-* Email invites to early access list
-* Early access toggle in settings for experimental features
+- Coming soon landing page or waitlist
+- "Beta" sticker in dashboard navigation
+- Email invites to early access list
+- Early access toggle in settings for experimental features
 
 **Goal:** Build buzz and refine product with broader feedback.
 
@@ -167,15 +167,15 @@ Shift from small-scale testing to controlled expansion.
 
 **Actions:**
 
-* Leak product details: screenshots, feature GIFs, demos
-* Gather quantitative usage data and qualitative feedback
-* Run user research with engaged users (incentivize with credits)
-* Optionally run product/market fit survey to refine messaging
+- Leak product details: screenshots, feature GIFs, demos
+- Gather quantitative usage data and qualitative feedback
+- Run user research with engaged users (incentivize with credits)
+- Optionally run product/market fit survey to refine messaging
 
 **Expansion options:**
 
-* Option A: Throttle invites in batches (5-10% at a time)
-* Option B: Invite all users at once under "early access" framing
+- Option A: Throttle invites in batches (5-10% at a time)
+- Option B: Invite all users at once under "early access" framing
 
 **Goal:** Validate at scale and prepare for full launch.
 
@@ -185,19 +185,19 @@ Open the floodgates.
 
 **Actions:**
 
-* Open self-serve signups
-* Start charging (if not already)
-* Announce general availability across all channels
+- Open self-serve signups
+- Start charging (if not already)
+- Announce general availability across all channels
 
 **Launch touchpoints:**
 
-* Customer emails
-* In-app popups and product tours
-* Website banner linking to launch assets
-* "New" sticker in dashboard navigation
-* Blog post announcement
-* Social posts across platforms
-* Product Hunt, BetaList, Hacker News, etc.
+- Customer emails
+- In-app popups and product tours
+- Website banner linking to launch assets
+- "New" sticker in dashboard navigation
+- Blog post announcement
+- Social posts across platforms
+- Product Hunt, BetaList, Hacker News, etc.
 
 **Goal:** Maximum visibility and conversion to paying users.
 
@@ -209,15 +209,15 @@ Product Hunt can be powerful for reaching early adopters, but it's not magic—i
 
 ### Pros
 
-* Exposure to tech-savvy early adopter audience
-* Credibility bump (especially if Product of the Day)
-* Potential PR coverage and backlinks
+- Exposure to tech-savvy early adopter audience
+- Credibility bump (especially if Product of the Day)
+- Potential PR coverage and backlinks
 
 ### Cons
 
-* Very competitive to rank well
-* Short-lived traffic spikes
-* Requires significant pre-launch planning
+- Very competitive to rank well
+- Short-lived traffic spikes
+- Requires significant pre-launch planning
 
 ### How to Launch Successfully
 
@@ -247,19 +247,19 @@ Product Hunt can be powerful for reaching early adopters, but it's not magic—i
 
 **SavvyCal** (Scheduling tool):
 
-* Optimized landing page and onboarding before launch
-* Built relationships with productivity/SaaS influencers in advance
-* Responded to every comment on launch day
-* Result: #2 Product of the Month
+- Optimized landing page and onboarding before launch
+- Built relationships with productivity/SaaS influencers in advance
+- Responded to every comment on launch day
+- Result: #2 Product of the Month
 
 **Reform** (Form builder):
 
-* Studied successful launches and applied insights
-* Crafted clear tagline, polished visuals, demo video
-* Engaged in communities before launch (provided value first)
-* Treated launch as all-day engagement event
-* Directed traffic to capture signups
-* Result: #1 Product of the Day
+- Studied successful launches and applied insights
+- Crafted clear tagline, polished visuals, demo video
+- Engaged in communities before launch (provided value first)
+- Treated launch as all-day engagement event
+- Directed traffic to capture signups
+- Result: #1 Product of the Day
 
 ***
 
@@ -300,21 +300,21 @@ Use this matrix to decide how much marketing each update deserves:
 
 **Major updates** (new features, product overhauls):
 
-* Full campaign across multiple channels
-* Blog post, email campaign, in-app messages, social media
-* Maximize exposure
+- Full campaign across multiple channels
+- Blog post, email campaign, in-app messages, social media
+- Maximize exposure
 
 **Medium updates** (new integrations, UI enhancements):
 
-* Targeted announcement
-* Email to relevant segments, in-app banner
-* Don't need full fanfare
+- Targeted announcement
+- Email to relevant segments, in-app banner
+- Don't need full fanfare
 
 **Minor updates** (bug fixes, small tweaks):
 
-* Changelog and release notes
-* Signal that product is improving
-* Don't dominate marketing
+- Changelog and release notes
+- Signal that product is improving
+- Don't dominate marketing
 
 ### Announcement Tactics
 
@@ -336,37 +336,37 @@ Even small changelog updates remind customers your product is evolving. This bui
 
 ### Pre-Launch
 
-* \[ ] Landing page with clear value proposition
-* \[ ] Email capture / waitlist signup
-* \[ ] Early access list built
-* \[ ] Owned channels established (email, blog, community)
-* \[ ] Rented channel presence (social profiles optimized)
-* \[ ] Borrowed channel opportunities identified (podcasts, influencers)
-* \[ ] Product Hunt listing prepared (if using)
-* \[ ] Launch assets created (screenshots, demo video, GIFs)
-* \[ ] Onboarding flow ready
-* \[ ] Analytics/tracking in place
+- \[ ] Landing page with clear value proposition
+- \[ ] Email capture / waitlist signup
+- \[ ] Early access list built
+- \[ ] Owned channels established (email, blog, community)
+- \[ ] Rented channel presence (social profiles optimized)
+- \[ ] Borrowed channel opportunities identified (podcasts, influencers)
+- \[ ] Product Hunt listing prepared (if using)
+- \[ ] Launch assets created (screenshots, demo video, GIFs)
+- \[ ] Onboarding flow ready
+- \[ ] Analytics/tracking in place
 
 ### Launch Day
 
-* \[ ] Announcement email to list
-* \[ ] Blog post published
-* \[ ] Social posts scheduled and posted
-* \[ ] Product Hunt listing live (if using)
-* \[ ] In-app announcement for existing users
-* \[ ] Website banner/notification active
-* \[ ] Team ready to engage and respond
-* \[ ] Monitor for issues and feedback
+- \[ ] Announcement email to list
+- \[ ] Blog post published
+- \[ ] Social posts scheduled and posted
+- \[ ] Product Hunt listing live (if using)
+- \[ ] In-app announcement for existing users
+- \[ ] Website banner/notification active
+- \[ ] Team ready to engage and respond
+- \[ ] Monitor for issues and feedback
 
 ### Post-Launch
 
-* \[ ] Onboarding email sequence active
-* \[ ] Follow-up with engaged prospects
-* \[ ] Roundup email includes announcement
-* \[ ] Comparison pages published
-* \[ ] Interactive demo created
-* \[ ] Gather and act on feedback
-* \[ ] Plan next launch moment
+- \[ ] Onboarding email sequence active
+- \[ ] Follow-up with engaged prospects
+- \[ ] Roundup email includes announcement
+- \[ ] Comparison pages published
+- \[ ] Interactive demo created
+- \[ ] Gather and act on feedback
+- \[ ] Plan next launch moment
 
 ***
 
@@ -383,8 +383,8 @@ Even small changelog updates remind customers your product is evolving. This bui
 
 ## Related Skills
 
-* **marketing-ideas**: For additional launch tactics (#22 Product Hunt, #23 Early Access Referrals)
-* **email-sequence**: For launch and onboarding email sequences
-* **page-cro**: For optimizing launch landing pages
-* **marketing-psychology**: For psychology behind waitlists and exclusivity
-* **programmatic-seo**: For comparison pages mentioned in post-launch
+- **marketing-ideas**: For additional launch tactics (#22 Product Hunt, #23 Early Access Referrals)
+- **email-sequence**: For launch and onboarding email sequences
+- **page-cro**: For optimizing launch landing pages
+- **marketing-psychology**: For psychology behind waitlists and exclusivity
+- **programmatic-seo**: For comparison pages mentioned in post-launch

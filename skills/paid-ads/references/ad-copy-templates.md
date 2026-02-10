@@ -119,45 +119,45 @@ Detailed formulas and templates for writing high-converting ad copy.
 
 Best for: Top of funnel, cold audiences, complex products
 
-* Learn More
-* See How It Works
-* Watch Demo
-* Get the Guide
-* Explore Features
-* See Examples
-* Read the Case Study
+- Learn More
+- See How It Works
+- Watch Demo
+- Get the Guide
+- Explore Features
+- See Examples
+- Read the Case Study
 
 ### Hard CTAs (conversion)
 
 Best for: Bottom of funnel, warm audiences, clear offers
 
-* Start Free Trial
-* Get Started Free
-* Book a Demo
-* Claim Your Discount
-* Buy Now
-* Sign Up Free
-* Get Instant Access
+- Start Free Trial
+- Get Started Free
+- Book a Demo
+- Claim Your Discount
+- Buy Now
+- Sign Up Free
+- Get Instant Access
 
 ### Urgency CTAs (use when genuine)
 
 Best for: Limited-time offers, scarcity situations
 
-* Limited Time: 30% Off
-* Offer Ends \[Date]
-* Only X Spots Left
-* Last Chance
-* Early Bird Pricing Ends Soon
+- Limited Time: 30% Off
+- Offer Ends \[Date]
+- Only X Spots Left
+- Last Chance
+- Early Bird Pricing Ends Soon
 
 ### Action-Oriented CTAs
 
 Best for: Active voice, clear next step
 
-* Start Saving Time Today
-* Get Your Free Report
-* See Your Score
-* Calculate Your ROI
-* Build Your First Project
+- Start Saving Time Today
+- Get Your Free Report
+- See Your Score
+- Calculate Your ROI
+- Build Your First Project
 
 ***
 
@@ -165,30 +165,30 @@ Best for: Active voice, clear next step
 
 ### Google Search Ads
 
-* **Headline limits:** 30 characters each (up to 15 headlines)
-* **Description limits:** 90 characters each (up to 4 descriptions)
-* Include keywords naturally
-* Use all available headline slots
-* Include numbers and stats when possible
-* Test dynamic keyword insertion
+- **Headline limits:** 30 characters each (up to 15 headlines)
+- **Description limits:** 90 characters each (up to 4 descriptions)
+- Include keywords naturally
+- Use all available headline slots
+- Include numbers and stats when possible
+- Test dynamic keyword insertion
 
 ### Meta Ads (Facebook/Instagram)
 
-* **Primary text:** 125 characters visible (can be longer, gets truncated)
-* **Headline:** 40 characters recommended
-* Front-load the hook (first line matters most)
-* Emojis can work but test
-* Questions perform well
-* Keep image text under 20%
+- **Primary text:** 125 characters visible (can be longer, gets truncated)
+- **Headline:** 40 characters recommended
+- Front-load the hook (first line matters most)
+- Emojis can work but test
+- Questions perform well
+- Keep image text under 20%
 
 ### LinkedIn Ads
 
-* **Intro text:** 600 characters max (150 recommended)
-* **Headline:** 200 characters max (70 recommended)
-* Professional tone (but not boring)
-* Specific job outcomes resonate
-* Stats and social proof important
-* Avoid consumer-style hype
+- **Intro text:** 600 characters max (150 recommended)
+- **Headline:** 200 characters max (70 recommended)
+- Professional tone (but not boring)
+- Specific job outcomes resonate
+- Stats and social proof important
+- Avoid consumer-style hype
 
 ***
 

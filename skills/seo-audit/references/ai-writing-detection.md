@@ -14,10 +14,10 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 
 ### Why Em Dashes Signal AI Writing
 
-* AI models were trained on edited books, academic papers, and style guides where em dashes appear frequently
-* AI uses em dashes as a shortcut for sentence variety instead of commas, colons, or parentheses
-* Most human writers rarely use em dashes because they don't exist as a standard keyboard key
-* The overuse is so consistent that it has become the unofficial signature of ChatGPT writing
+- AI models were trained on edited books, academic papers, and style guides where em dashes appear frequently
+- AI uses em dashes as a shortcut for sentence variety instead of commas, colons, or parentheses
+- Most human writers rarely use em dashes because they don't exist as a standard keyboard key
+- The overuse is so consistent that it has become the unofficial signature of ChatGPT writing
 
 ### What To Do Instead
 
@@ -30,11 +30,11 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 
 ### Guidelines
 
-* Use commas for most parenthetical information
-* Use colons to introduce explanations or lists
-* Use parentheses for supplementary information
-* Reserve em dashes for rare, deliberate emphasis only
-* If you find yourself using more than one em dash per page, revise
+- Use commas for most parenthetical information
+- Use colons to introduce explanations or lists
+- Use parentheses for supplementary information
+- Reserve em dashes for rare, deliberate emphasis only
+- If you find yourself using more than one em dash per page, revise
 
 ***
 
@@ -102,40 +102,40 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 
 ### Opening Phrases to Avoid
 
-* "In today's fast-paced world..."
-* "In today's digital age..."
-* "In an era of..."
-* "In the ever-evolving landscape of..."
-* "In the realm of..."
-* "It's important to note that..."
-* "Let's delve into..."
-* "Imagine a world where..."
+- "In today's fast-paced world..."
+- "In today's digital age..."
+- "In an era of..."
+- "In the ever-evolving landscape of..."
+- "In the realm of..."
+- "It's important to note that..."
+- "Let's delve into..."
+- "Imagine a world where..."
 
 ### Transitional Phrases to Avoid
 
-* "That being said..."
-* "With that in mind..."
-* "It's worth mentioning that..."
-* "At its core..."
-* "To put it simply..."
-* "In essence..."
-* "This begs the question..."
+- "That being said..."
+- "With that in mind..."
+- "It's worth mentioning that..."
+- "At its core..."
+- "To put it simply..."
+- "In essence..."
+- "This begs the question..."
 
 ### Concluding Phrases to Avoid
 
-* "In conclusion..."
-* "To sum up..."
-* "By \[doing X], you can \[achieve Y]..."
-* "In the final analysis..."
-* "All things considered..."
-* "At the end of the day..."
+- "In conclusion..."
+- "To sum up..."
+- "By \[doing X], you can \[achieve Y]..."
+- "In the final analysis..."
+- "All things considered..."
+- "At the end of the day..."
 
 ### Structural Patterns to Avoid
 
-* "Whether you're a \[X], \[Y], or \[Z]..." (listing three examples after "whether")
-* "It's not just \[X], it's also \[Y]..."
-* "Think of \[X] as \[elaborate metaphor]..."
-* Starting sentences with "By" followed by a gerund: "By understanding X, you can Y..."
+- "Whether you're a \[X], \[Y], or \[Z]..." (listing three examples after "whether")
+- "It's not just \[X], it's also \[Y]..."
+- "Think of \[X] as \[elaborate metaphor]..."
+- Starting sentences with "By" followed by a gerund: "By understanding X, you can Y..."
 
 ***
 
@@ -143,28 +143,28 @@ Em dashes are longer than hyphens (-) and are used for emphasis, interruptions, 
 
 These words often add nothing to meaning. Remove them or find specific alternatives:
 
-* absolutely
-* actually
-* basically
-* certainly
-* clearly
-* definitely
-* essentially
-* extremely
-* fundamentally
-* incredibly
-* interestingly
-* naturally
-* obviously
-* quite
-* really
-* significantly
-* simply
-* surely
-* truly
-* ultimately
-* undoubtedly
-* very
+- absolutely
+- actually
+- basically
+- certainly
+- clearly
+- definitely
+- essentially
+- extremely
+- fundamentally
+- incredibly
+- interestingly
+- naturally
+- obviously
+- quite
+- really
+- significantly
+- simply
+- surely
+- truly
+- ultimately
+- undoubtedly
+- very
 
 ***
 

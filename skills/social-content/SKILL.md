@@ -17,27 +17,27 @@ Gather this context (ask if not provided):
 
 ### 1. Goals
 
-* What's the primary objective? (Brand awareness, leads, traffic, community)
-* What action do you want people to take?
-* Are you building personal brand, company brand, or both?
+- What's the primary objective? (Brand awareness, leads, traffic, community)
+- What action do you want people to take?
+- Are you building personal brand, company brand, or both?
 
 ### 2. Audience
 
-* Who are you trying to reach?
-* What platforms are they most active on?
-* What content do they engage with?
+- Who are you trying to reach?
+- What platforms are they most active on?
+- What content do they engage with?
 
 ### 3. Brand Voice
 
-* What's your tone? (Professional, casual, witty, authoritative)
-* Any topics to avoid?
-* Any specific terminology or style guidelines?
+- What's your tone? (Professional, casual, witty, authoritative)
+- Any topics to avoid?
+- Any specific terminology or style guidelines?
 
 ### 4. Resources
 
-* How much time can you dedicate to social?
-* Do you have existing content to repurpose?
-* Can you create video content?
+- How much time can you dedicate to social?
+- Do you have existing content to repurpose?
+- Can you create video content?
 
 ***
 
@@ -87,27 +87,27 @@ The first line determines whether anyone reads the rest.
 
 ### Curiosity Hooks
 
-* "I was wrong about \[common belief]."
-* "The real reason \[outcome] happens isn't what you think."
-* "\[Impressive result] — and it only took \[surprisingly short time]."
+- "I was wrong about \[common belief]."
+- "The real reason \[outcome] happens isn't what you think."
+- "\[Impressive result] — and it only took \[surprisingly short time]."
 
 ### Story Hooks
 
-* "Last week, \[unexpected thing] happened."
-* "I almost \[big mistake/failure]."
-* "3 years ago, I \[past state]. Today, \[current state]."
+- "Last week, \[unexpected thing] happened."
+- "I almost \[big mistake/failure]."
+- "3 years ago, I \[past state]. Today, \[current state]."
 
 ### Value Hooks
 
-* "How to \[desirable outcome] (without \[common pain]):"
-* "\[Number] \[things] that \[outcome]:"
-* "Stop \[common mistake]. Do this instead:"
+- "How to \[desirable outcome] (without \[common pain]):"
+- "\[Number] \[things] that \[outcome]:"
+- "Stop \[common mistake]. Do this instead:"
 
 ### Contrarian Hooks
 
-* "Unpopular opinion: \[bold statement]"
-* "\[Common advice] is wrong. Here's why:"
-* "I stopped \[common practice] and \[positive result]."
+- "Unpopular opinion: \[bold statement]"
+- "\[Common advice] is wrong. Here's why:"
+- "I stopped \[common practice] and \[positive result]."
 
 **For post templates and more hooks**: See [references/post-templates.md](references/post-templates.md)
 
@@ -171,17 +171,17 @@ Turn one piece of content into many:
 
 ### Quality Comments
 
-* Add new insight, not just "Great post!"
-* Share a related experience
-* Ask a thoughtful follow-up question
-* Respectfully disagree with nuance
+- Add new insight, not just "Great post!"
+- Share a related experience
+- Ask a thoughtful follow-up question
+- Respectfully disagree with nuance
 
 ### Building Relationships
 
-* Identify 20-50 accounts in your space
-* Consistently engage with their content
-* Share their content with credit
-* Eventually collaborate (podcasts, co-created content)
+- Identify 20-50 accounts in your space
+- Consistently engage with their content
+- Share their content with credit
+- Eventually collaborate (podcasts, co-created content)
 
 ***
 
@@ -197,27 +197,27 @@ Turn one piece of content into many:
 
 ### Weekly Review
 
-* Top 3 performing posts (why did they work?)
-* Bottom 3 posts (what can you learn?)
-* Follower growth trend
-* Engagement rate trend
-* Best posting times (from data)
+- Top 3 performing posts (why did they work?)
+- Bottom 3 posts (what can you learn?)
+- Follower growth trend
+- Engagement rate trend
+- Best posting times (from data)
 
 ### Optimization Actions
 
 **If engagement is low:**
 
-* Test new hooks
-* Post at different times
-* Try different formats
-* Increase engagement with others
+- Test new hooks
+- Post at different times
+- Try different formats
+- Increase engagement with others
 
 **If reach is declining:**
 
-* Avoid external links in post body
-* Increase posting frequency
-* Engage more in comments
-* Test video/visual content
+- Avoid external links in post body
+- Increase posting frequency
+- Engage more in comments
+- Test video/visual content
 
 ***
 
@@ -225,17 +225,17 @@ Turn one piece of content into many:
 
 ### When You're Starting Out
 
-* Document your journey
-* Share what you're learning
-* Curate and comment on industry content
-* Engage heavily with established accounts
+- Document your journey
+- Share what you're learning
+- Curate and comment on industry content
+- Engage heavily with established accounts
 
 ### When You're Stuck
 
-* Repurpose old high-performing content
-* Ask your audience what they want
-* Comment on industry news
-* Share a failure or lesson learned
+- Repurpose old high-performing content
+- Ask your audience what they want
+- Comment on industry news
+- Share a failure or lesson learned
 
 ***
 
@@ -249,10 +249,10 @@ Turn one piece of content into many:
 
 ### Queue Management
 
-* Maintain 1-2 weeks of scheduled content
-* Review queue weekly for relevance
-* Leave gaps for spontaneous posts
-* Adjust timing based on performance data
+- Maintain 1-2 weeks of scheduled content
+- Review queue weekly for relevance
+- Leave gaps for spontaneous posts
+- Adjust timing based on performance data
 
 ***
 
@@ -284,7 +284,7 @@ Instead of guessing, analyze what's working for top creators in your niche:
 
 ## Related Skills
 
-* **copywriting**: For longer-form content that feeds social
-* **launch-strategy**: For coordinating social with launches
-* **email-sequence**: For nurturing social audience via email
-* **marketing-psychology**: For understanding what drives engagement
+- **copywriting**: For longer-form content that feeds social
+- **launch-strategy**: For coordinating social with launches
+- **email-sequence**: For nurturing social audience via email
+- **marketing-psychology**: For understanding what drives engagement

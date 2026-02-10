@@ -13,9 +13,9 @@ Affiliate and referral tracking for Stripe-based SaaS businesses.
 
 ## Authentication
 
-* **Type**: API Key
-* **Header**: `Authorization: Bearer {api_secret}`
-* **Get key**: Settings > API in Rewardful dashboard
+- **Type**: API Key
+- **Header**: `Authorization: Bearer {api_secret}`
+- **Get key**: Settings > API in Rewardful dashboard
 
 ## Common Agent Operations
 
@@ -114,11 +114,11 @@ rewardful('convert', { email: 'customer@example.com' });
 
 ## Key Objects
 
-* **Affiliate** - Partner promoting your product
-* **Referral** - Tracked visit/lead from affiliate
-* **Commission** - Earned payment for affiliate
-* **Campaign** - Program with specific terms
-* **Link** - Tracking URL for affiliate
+- **Affiliate** - Partner promoting your product
+- **Referral** - Tracked visit/lead from affiliate
+- **Commission** - Earned payment for affiliate
+- **Campaign** - Program with specific terms
+- **Link** - Tracking URL for affiliate
 
 ## Integration with Stripe
 
@@ -131,18 +131,18 @@ Rewardful automatically:
 
 ## When to Use
 
-* Setting up affiliate/referral programs for SaaS
-* Tracking referral attribution from Stripe payments
-* Managing affiliate relationships
-* Processing affiliate payouts
-* Analyzing referral program performance
+- Setting up affiliate/referral programs for SaaS
+- Tracking referral attribution from Stripe payments
+- Managing affiliate relationships
+- Processing affiliate payouts
+- Analyzing referral program performance
 
 ## Rate Limits
 
-* 120 requests per minute
-* Contact support for higher limits
+- 120 requests per minute
+- Contact support for higher limits
 
 ## Relevant Skills
 
-* referral-program
-* pricing-strategy
+- referral-program
+- pricing-strategy

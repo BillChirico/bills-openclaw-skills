@@ -164,12 +164,12 @@ E-commerce platforms and content management systems.
 
 These tools have Model Context Protocol servers available, enabling direct agent interaction:
 
-* **ga4** - Google Analytics 4 data access
-* **stripe** - Payment and subscription management
-* **mailchimp** - Email campaign management
-* **google-ads** - Ad campaign management
-* **resend** - Transactional email sending
-* **zapier** - Workflow automation
+- **ga4** - Google Analytics 4 data access
+- **stripe** - Payment and subscription management
+- **mailchimp** - Email campaign management
+- **google-ads** - Ad campaign management
+- **resend** - Transactional email sending
+- **zapier** - Workflow automation
 
 To use MCP tools, ensure the appropriate MCP server is configured in your environment.
 

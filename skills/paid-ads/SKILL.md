@@ -17,29 +17,29 @@ Gather this context (ask if not provided):
 
 ### 1. Campaign Goals
 
-* What's the primary objective? (Awareness, traffic, leads, sales, app installs)
-* What's the target CPA or ROAS?
-* What's the monthly/weekly budget?
-* Any constraints? (Brand guidelines, compliance, geographic)
+- What's the primary objective? (Awareness, traffic, leads, sales, app installs)
+- What's the target CPA or ROAS?
+- What's the monthly/weekly budget?
+- Any constraints? (Brand guidelines, compliance, geographic)
 
 ### 2. Product & Offer
 
-* What are you promoting? (Product, free trial, lead magnet, demo)
-* What's the landing page URL?
-* What makes this offer compelling?
+- What are you promoting? (Product, free trial, lead magnet, demo)
+- What's the landing page URL?
+- What makes this offer compelling?
 
 ### 3. Audience
 
-* Who is the ideal customer?
-* What problem does your product solve for them?
-* What are they searching for or interested in?
-* Do you have existing customer data for lookalikes?
+- Who is the ideal customer?
+- What problem does your product solve for them?
+- What are they searching for or interested in?
+- Do you have existing customer data for lookalikes?
 
 ### 4. Current State
 
-* Have you run ads before? What worked/didn't?
-* Do you have existing pixel/conversion data?
-* What's your current funnel conversion rate?
+- Have you run ads before? What worked/didn't?
+- Do you have existing pixel/conversion data?
+- What's your current funnel conversion rate?
 
 ***
 
@@ -85,14 +85,14 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 **Testing phase (first 2-4 weeks):**
 
-* 70% to proven/safe campaigns
-* 30% to testing new audiences/creative
+- 70% to proven/safe campaigns
+- 30% to testing new audiences/creative
 
 **Scaling phase:**
 
-* Consolidate budget into winning combinations
-* Increase budgets 20-30% at a time
-* Wait 3-5 days between increases for algorithm learning
+- Consolidate budget into winning combinations
+- Increase budgets 20-30% at a time
+- Wait 3-5 days between increases for algorithm learning
 
 ***
 
@@ -128,9 +128,9 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 ### Key Concepts
 
-* **Lookalikes**: Base on best customers (by LTV), not all customers
-* **Retargeting**: Segment by funnel stage (visitors vs. cart abandoners)
-* **Exclusions**: Always exclude existing customers and recent converters
+- **Lookalikes**: Base on best customers (by LTV), not all customers
+- **Retargeting**: Segment by funnel stage (visitors vs. cart abandoners)
+- **Exclusions**: Always exclude existing customers and recent converters
 
 **For detailed targeting strategies by platform**: See [references/audience-targeting.md](references/audience-targeting.md)
 
@@ -140,11 +140,11 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 ### Image Ads
 
-* Clear product screenshots showing UI
-* Before/after comparisons
-* Stats and numbers as focal point
-* Human faces (real, not stock)
-* Bold, readable text overlay (keep under 20%)
+- Clear product screenshots showing UI
+- Before/after comparisons
+- Stats and numbers as focal point
+- Human faces (real, not stock)
+- Bold, readable text overlay (keep under 20%)
 
 ### Video Ads Structure (15-30 sec)
 
@@ -155,10 +155,10 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 **Production tips:**
 
-* Captions always (85% watch without sound)
-* Vertical for Stories/Reels, square for feed
-* Native feel outperforms polished
-* First 3 seconds determine if they watch
+- Captions always (85% watch without sound)
+- Vertical for Stories/Reels, square for feed
+- Native feel outperforms polished
+- First 3 seconds determine if they watch
 
 ### Creative Testing Hierarchy
 
@@ -192,15 +192,15 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 **If CTR is low:**
 
-* Creative isn't resonating → test new hooks/angles
-* Audience mismatch → refine targeting
-* Ad fatigue → refresh creative
+- Creative isn't resonating → test new hooks/angles
+- Audience mismatch → refine targeting
+- Ad fatigue → refresh creative
 
 **If CPM is high:**
 
-* Audience too narrow → expand targeting
-* High competition → try different placements
-* Low relevance score → improve creative fit
+- Audience too narrow → expand targeting
+- High competition → try different placements
+- Low relevance score → improve creative fit
 
 ### Bid Strategy Progression
 
@@ -231,10 +231,10 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 ### Exclusions to Set Up
 
-* Existing customers (unless upsell)
-* Recent converters (7-14 day window)
-* Bounced visitors (<10 sec)
-* Irrelevant pages (careers, support)
+- Existing customers (unless upsell)
+- Recent converters (7-14 day window)
+- Bounced visitors (<10 sec)
+- Irrelevant pages (careers, support)
 
 ***
 
@@ -242,19 +242,19 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 
 ### Weekly Review
 
-* Spend vs. budget pacing
-* CPA/ROAS vs. targets
-* Top and bottom performing ads
-* Audience performance breakdown
-* Frequency check (fatigue risk)
-* Landing page conversion rate
+- Spend vs. budget pacing
+- CPA/ROAS vs. targets
+- Top and bottom performing ads
+- Audience performance breakdown
+- Frequency check (fatigue risk)
+- Landing page conversion rate
 
 ### Attribution Considerations
 
-* Platform attribution is inflated
-* Use UTM parameters consistently
-* Compare platform data to GA4
-* Look at blended CAC, not just platform CPA
+- Platform attribution is inflated
+- Use UTM parameters consistently
+- Compare platform data to GA4
+- Look at blended CAC, not just platform CPA
 
 ***
 
@@ -266,12 +266,12 @@ Before launching campaigns, ensure proper tracking and account setup.
 
 ### Universal Pre-Launch Checklist
 
-* \[ ] Conversion tracking tested with real conversion
-* \[ ] Landing page loads fast (<3 sec)
-* \[ ] Landing page mobile-friendly
-* \[ ] UTM parameters working
-* \[ ] Budget set correctly
-* \[ ] Targeting matches intended audience
+- \[ ] Conversion tracking tested with real conversion
+- \[ ] Landing page loads fast (<3 sec)
+- \[ ] Landing page mobile-friendly
+- \[ ] UTM parameters working
+- \[ ] Budget set correctly
+- \[ ] Targeting matches intended audience
 
 ***
 
@@ -279,28 +279,28 @@ Before launching campaigns, ensure proper tracking and account setup.
 
 ### Strategy
 
-* Launching without conversion tracking
-* Too many campaigns (fragmenting budget)
-* Not giving algorithms enough learning time
-* Optimizing for wrong metric
+- Launching without conversion tracking
+- Too many campaigns (fragmenting budget)
+- Not giving algorithms enough learning time
+- Optimizing for wrong metric
 
 ### Targeting
 
-* Audiences too narrow or too broad
-* Not excluding existing customers
-* Overlapping audiences competing
+- Audiences too narrow or too broad
+- Not excluding existing customers
+- Overlapping audiences competing
 
 ### Creative
 
-* Only one ad per ad set
-* Not refreshing creative (fatigue)
-* Mismatch between ad and landing page
+- Only one ad per ad set
+- Not refreshing creative (fatigue)
+- Mismatch between ad and landing page
 
 ### Budget
 
-* Spreading too thin across campaigns
-* Making big budget changes (disrupts learning)
-* Stopping campaigns during learning phase
+- Spreading too thin across campaigns
+- Making big budget changes (disrupts learning)
+- Stopping campaigns during learning phase
 
 ***
 
@@ -332,7 +332,7 @@ For tracking, see also: [ga4.md](../../tools/integrations/ga4.md), [segment.md](
 
 ## Related Skills
 
-* **copywriting**: For landing page copy that converts ad traffic
-* **analytics-tracking**: For proper conversion tracking setup
-* **ab-test-setup**: For landing page testing to improve ROAS
-* **page-cro**: For optimizing post-click conversion rates
+- **copywriting**: For landing page copy that converts ad traffic
+- **analytics-tracking**: For proper conversion tracking setup
+- **ab-test-setup**: For landing page testing to improve ROAS
+- **page-cro**: For optimizing post-click conversion rates

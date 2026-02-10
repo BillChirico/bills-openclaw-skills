@@ -13,9 +13,9 @@ Free tool for monitoring website search performance and indexing.
 
 ## Authentication
 
-* **Type**: OAuth 2.0 or Service Account
-* **Scopes**: `https://www.googleapis.com/auth/webmasters.readonly`
-* **Setup**: Create credentials in Google Cloud Console
+- **Type**: OAuth 2.0 or Service Account
+- **Scopes**: `https://www.googleapis.com/auth/webmasters.readonly`
+- **Setup**: Create credentials in Google Cloud Console
 
 ## Common Agent Operations
 
@@ -98,19 +98,19 @@ POST https://indexing.googleapis.com/v3/urlNotifications:publish
 
 ## Dimensions
 
-* `query` - Search query
-* `page` - Page URL
-* `country` - Country code
-* `device` - Device type (MOBILE, DESKTOP, TABLET)
-* `date` - Date
-* `searchAppearance` - Search result type
+- `query` - Search query
+- `page` - Page URL
+- `country` - Country code
+- `device` - Device type (MOBILE, DESKTOP, TABLET)
+- `date` - Date
+- `searchAppearance` - Search result type
 
 ## Metrics
 
-* `clicks` - Clicks from search
-* `impressions` - Search impressions
-* `ctr` - Click-through rate
-* `position` - Average position
+- `clicks` - Clicks from search
+- `impressions` - Search impressions
+- `ctr` - Click-through rate
+- `position` - Average position
 
 ## Filters
 
@@ -128,20 +128,20 @@ POST https://indexing.googleapis.com/v3/urlNotifications:publish
 
 ## When to Use
 
-* Analyzing search performance
-* Finding keyword opportunities
-* Monitoring indexing status
-* Submitting new pages for indexing
-* Identifying crawl issues
-* Tracking position changes
+- Analyzing search performance
+- Finding keyword opportunities
+- Monitoring indexing status
+- Submitting new pages for indexing
+- Identifying crawl issues
+- Tracking position changes
 
 ## Rate Limits
 
-* 200 queries per minute
-* 1,200 requests per minute
+- 200 queries per minute
+- 1,200 requests per minute
 
 ## Relevant Skills
 
-* seo-audit
-* programmatic-seo
-* analytics-tracking
+- seo-audit
+- programmatic-seo
+- analytics-tracking

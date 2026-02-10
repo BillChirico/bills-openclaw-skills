@@ -353,24 +353,24 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 
 These phrases often add nothing. Delete them:
 
-* a total of
-* absolutely
-* actually
-* all things being equal
-* as a matter of fact
-* at the end of the day
-* at this moment in time
-* basically
-* currently (when "now" or nothing works)
-* I am of the opinion that (use: I think)
-* in due course (use: soon, or say when)
-* in the final analysis
-* it should be understood
-* last but not least
-* obviously
-* of course
-* quite
-* really
-* the fact of the matter is
-* to all intents and purposes
-* very
+- a total of
+- absolutely
+- actually
+- all things being equal
+- as a matter of fact
+- at the end of the day
+- at this moment in time
+- basically
+- currently (when "now" or nothing works)
+- I am of the opinion that (use: I think)
+- in due course (use: soon, or say when)
+- in the final analysis
+- it should be understood
+- last but not least
+- obviously
+- of course
+- quite
+- really
+- the fact of the matter is
+- to all intents and purposes
+- very
