@@ -33,3 +33,7 @@ Marketing skills converted from [coreyhaines31/marketingskills](https://github.c
 ## Tools
 
 See the `tools/` directory for integration references.
+
+## Credits
+
+Marketing skills originally created by [Corey Haines](https://github.com/coreyhaines31) in [marketingskills](https://github.com/coreyhaines31/marketingskills). Converted to OpenClaw format with minor adaptations. All credit for the marketing knowledge, frameworks, and strategies goes to him. 🙏
